@@ -39,7 +39,7 @@ docs/       ATOMS ability mapping
 
 - Base model: `unsloth/Qwen2.5-3B-Instruct-bnb-4bit`
 - Adapter: QLoRA, r=16, α=16
-- Trained adapter weights: **https://huggingface.co/NextMina1131/qwen2.5-3b-tombench-qlora**
+- Trained adapter weights: **https://huggingface.co/nextmina/qwen2.5-3b-tombench-qlora**
 
 ## Reproducing the experiments
 
