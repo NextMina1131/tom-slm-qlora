@@ -1,0 +1,6 @@
+dataset,N,delta_pp_obs,delta_CI95_low,delta_CI95_high,CI_excludes_0,boot_mean,boot_std
+ToMBench,842,14.61,11.16,18.05,yes,14.63,1.74
+ToMi,1000,4.9,1.8,8.0,yes,4.92,1.61
+OpenToM,1000,0.2,-1.7,2.1,no,0.21,0.97
+SocialIQa,1000,-4.5,-7.5,-1.6,yes,-4.5,1.49
+HiToM,1000,-5.0,-8.0,-2.0,yes,-5.01,1.55

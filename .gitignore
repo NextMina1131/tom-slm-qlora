@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Model weights (host on Hugging Face Hub, not GitHub — >100MB)
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+# Raw benchmark data — DO NOT redistribute (see README / licenses)
+data/
+OpenToM-main/
+*.jsonl
+*.xlsx
+
+# Local secrets
+.env
+*api_key*
+*token*
+
+# Node / presentation artifacts (not part of the code release)
+node_modules/
+*.pptx

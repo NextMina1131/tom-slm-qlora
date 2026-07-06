@@ -1,0 +1,843 @@
+source,task,category,ability,answer,pred,raw,correct
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,B,[[B]],0
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,D,[[D]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,C,[[C]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,A,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,B,[[B]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,C,[[C]],0
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,A,[[A]],0
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,A,[[A]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,D,[[D]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,Multiple Desires,Desire,Desire: Multiple desires,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,C,C,[[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,C,[[C]],0
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,A,[[A]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,C,[[C]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,C,[[C]],0
+ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,C,D,[[D]],0
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,D,[[D]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,D,[[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,D,[[D]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D,D,[[D]],1
+ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,D,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,A,[[A]],1
+ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,C,C,[[C]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,D,[[D]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,B,[[B]],0
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C,C,[[C]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,D,[[D]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,D,[[D]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,C,[[C]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,D,[[D]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,B,[[B]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,[[D]],1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,D,[[D]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C,A,[[A]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,C,[[C]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D,D,[[D]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,A,[[A]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,D,[[D]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,A,[[A]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,D,[[D]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,A,C,[[C]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,B,[[B]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,B,B,[[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,D,[[D]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,D,[[D]],0
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,C,[[C]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C,C,[[C]],1
+ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,C,C,[[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,A,[[A]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,B,[[B]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,C,[[C]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,D,[[D]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,[[B]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,C,[[C]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,D,[[D]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,D,[[D]],0
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,D,[[D]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,D,[[D]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,A,[[A]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,C,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,C,D,[[D]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,A,[[A]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,B,[[B]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,D,[[D]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,A,[[A]],1
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,C,[[C]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D,D,[[D]],1
+ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,D,C,[[C]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,[[B]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,A,[[A]],0
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,B,[[B]],0
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,D,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,B,[[B]],0
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,A,A,[[A]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,B,[[B]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,D,[[D]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,A,[[A]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,D,[[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,D,[[D]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,D,[[D]],1
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,D,A,[[A]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,D,D,[[D]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,D,[[D]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,A,[[A]],0
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C,C,[[C]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,C,[[C]],0
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,B,[[B]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,A,D,[[D]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,D,[[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,D,[[D]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,A,[[A]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,B,A,[[A]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1
+ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,C,B,[[B]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,D,[[D]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,B,D,[[D]],0
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,D,[[D]],0
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,B,[[B]],0
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,D,[[D]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,A,[[A]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,D,[[D]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,B,[[B]],0
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,D,[[D]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,C,[[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,C,[[C]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,D,[[D]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,A,[[A]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,D,[[D]],1
+ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,A,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A,B,[[B]],0
+ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,D,A,[[A]],0
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,D,[[D]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),A,A,[[A]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,C,B,[[B]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0
+ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,D,A,[[A]],0
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,C,[[C]],0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D,D,[[D]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),B,C,[[C]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,C,[[C]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,[[B]],0
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,D,D,[[D]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,D,[[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,A,[[A]],0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,C,[[C]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,A,[[A]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,C,[[C]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,D,[[D]],1
+ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,B,[[B]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,D,[[D]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,A,[[A]],0
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,D,[[D]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,D,[[D]],0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,D,[[D]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,D,[[D]],0
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,D,[[D]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,C,[[C]],0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,A,[[A]],0
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,A,[[A]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,D,[[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,D,D,[[D]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,A,[[A]],0
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,D,[[D]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,D,[[D]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,D,[[D]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,C,C,[[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,D,[[D]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Multiple Desires,Desire,Desire: Multiple desires,B,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,B,[[B]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,C,[[C]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,C,[[C]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,A,[[A]],0
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,B,C,[[C]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,A,[[A]],0
+ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,D,[[D]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,C,[[C]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,B,[[B]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,A,[[A]],0
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,A,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,C,[[C]],0
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,[[B]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,D,[[D]],0
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,D,[[D]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,D,[[D]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,A,[[A]],0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A,B,[[B]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,D,[[D]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,[[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,B,[[B]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,B,[[B]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1

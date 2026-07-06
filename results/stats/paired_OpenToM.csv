@@ -1,0 +1,1001 @@
+idx,ability,base_correct,tuned_correct
+0,Location False Beliefs,1,1
+1,Attitude,1,0
+2,Attitude,1,1
+3,Location False Beliefs,0,1
+4,Attitude,1,1
+5,Attitude,0,0
+6,Attitude,0,0
+7,Attitude,0,0
+8,Location False Beliefs,1,1
+9,Attitude,0,0
+10,Location False Beliefs,0,0
+11,Location False Beliefs,1,1
+12,Location False Beliefs,1,1
+13,Attitude,0,0
+14,Location False Beliefs,1,1
+15,Location False Beliefs,1,1
+16,Attitude,0,1
+17,Attitude,1,1
+18,Attitude,1,0
+19,Attitude,0,1
+20,Attitude,0,0
+21,Location False Beliefs,1,1
+22,Location False Beliefs,1,1
+23,Attitude,0,0
+24,Location False Beliefs,1,1
+25,Attitude,1,1
+26,Location False Beliefs,1,1
+27,Location False Beliefs,1,1
+28,Location False Beliefs,1,1
+29,Location False Beliefs,1,1
+30,Location False Beliefs,0,0
+31,Attitude,1,0
+32,Location False Beliefs,1,1
+33,Location False Beliefs,1,1
+34,Attitude,0,1
+35,Location False Beliefs,0,1
+36,Attitude,0,0
+37,Location False Beliefs,1,1
+38,Location False Beliefs,1,1
+39,Attitude,1,1
+40,Location False Beliefs,0,0
+41,Location False Beliefs,1,0
+42,Location False Beliefs,1,1
+43,Location False Beliefs,0,0
+44,Attitude,0,0
+45,Attitude,1,1
+46,Location False Beliefs,1,1
+47,Location False Beliefs,0,0
+48,Location False Beliefs,1,1
+49,Attitude,0,0
+50,Location False Beliefs,1,1
+51,Attitude,1,1
+52,Location False Beliefs,0,0
+53,Location False Beliefs,1,1
+54,Location False Beliefs,1,1
+55,Attitude,1,1
+56,Location False Beliefs,1,1
+57,Attitude,0,0
+58,Location False Beliefs,1,1
+59,Location False Beliefs,1,1
+60,Location False Beliefs,1,1
+61,Attitude,1,1
+62,Location False Beliefs,1,1
+63,Attitude,0,0
+64,Location False Beliefs,1,1
+65,Location False Beliefs,1,1
+66,Location False Beliefs,1,1
+67,Location False Beliefs,0,0
+68,Location False Beliefs,1,1
+69,Location False Beliefs,1,1
+70,Location False Beliefs,1,1
+71,Attitude,0,0
+72,Location False Beliefs,1,1
+73,Attitude,0,0
+74,Attitude,0,1
+75,Location False Beliefs,1,1
+76,Attitude,0,0
+77,Location False Beliefs,1,1
+78,Attitude,0,1
+79,Attitude,1,1
+80,Location False Beliefs,1,1
+81,Attitude,1,1
+82,Location False Beliefs,1,1
+83,Location False Beliefs,1,1
+84,Location False Beliefs,1,1
+85,Location False Beliefs,0,0
+86,Location False Beliefs,0,1
+87,Attitude,0,1
+88,Location False Beliefs,1,1
+89,Location False Beliefs,1,1
+90,Attitude,0,0
+91,Location False Beliefs,1,1
+92,Attitude,1,1
+93,Location False Beliefs,0,0
+94,Location False Beliefs,1,1
+95,Location False Beliefs,0,0
+96,Attitude,1,1
+97,Location False Beliefs,0,0
+98,Location False Beliefs,1,1
+99,Attitude,1,1
+100,Location False Beliefs,0,0
+101,Location False Beliefs,0,0
+102,Location False Beliefs,1,1
+103,Attitude,0,0
+104,Location False Beliefs,1,1
+105,Location False Beliefs,0,1
+106,Attitude,0,0
+107,Location False Beliefs,1,1
+108,Location False Beliefs,0,0
+109,Location False Beliefs,1,0
+110,Attitude,0,0
+111,Location False Beliefs,1,1
+112,Location False Beliefs,1,1
+113,Location False Beliefs,1,1
+114,Location False Beliefs,1,1
+115,Attitude,1,1
+116,Attitude,0,0
+117,Location False Beliefs,1,1
+118,Location False Beliefs,1,1
+119,Location False Beliefs,1,1
+120,Location False Beliefs,0,0
+121,Attitude,1,1
+122,Attitude,1,1
+123,Attitude,1,0
+124,Location False Beliefs,1,1
+125,Location False Beliefs,1,1
+126,Location False Beliefs,1,1
+127,Attitude,0,0
+128,Location False Beliefs,1,1
+129,Location False Beliefs,1,1
+130,Location False Beliefs,1,1
+131,Location False Beliefs,1,1
+132,Location False Beliefs,1,1
+133,Attitude,0,0
+134,Attitude,0,0
+135,Location False Beliefs,1,1
+136,Attitude,1,1
+137,Location False Beliefs,1,0
+138,Location False Beliefs,1,1
+139,Location False Beliefs,1,1
+140,Attitude,0,0
+141,Location False Beliefs,0,0
+142,Location False Beliefs,1,1
+143,Location False Beliefs,1,1
+144,Location False Beliefs,0,0
+145,Location False Beliefs,0,0
+146,Location False Beliefs,0,0
+147,Location False Beliefs,1,1
+148,Attitude,0,0
+149,Location False Beliefs,0,0
+150,Location False Beliefs,1,1
+151,Attitude,0,0
+152,Location False Beliefs,1,1
+153,Attitude,1,1
+154,Attitude,0,0
+155,Attitude,0,0
+156,Location False Beliefs,0,0
+157,Attitude,0,0
+158,Location False Beliefs,1,1
+159,Location False Beliefs,1,1
+160,Location False Beliefs,1,1
+161,Location False Beliefs,0,0
+162,Attitude,0,0
+163,Location False Beliefs,1,0
+164,Location False Beliefs,1,1
+165,Location False Beliefs,1,1
+166,Location False Beliefs,1,1
+167,Location False Beliefs,0,0
+168,Attitude,1,1
+169,Location False Beliefs,1,1
+170,Attitude,0,0
+171,Location False Beliefs,1,1
+172,Location False Beliefs,1,0
+173,Attitude,1,1
+174,Location False Beliefs,1,1
+175,Location False Beliefs,1,1
+176,Location False Beliefs,0,0
+177,Location False Beliefs,0,0
+178,Location False Beliefs,1,1
+179,Location False Beliefs,1,1
+180,Location False Beliefs,1,1
+181,Location False Beliefs,1,1
+182,Location False Beliefs,1,1
+183,Location False Beliefs,1,1
+184,Attitude,0,1
+185,Location False Beliefs,1,1
+186,Attitude,1,1
+187,Location False Beliefs,1,1
+188,Location False Beliefs,0,0
+189,Attitude,1,1
+190,Location False Beliefs,0,0
+191,Location False Beliefs,1,1
+192,Attitude,0,1
+193,Location False Beliefs,1,0
+194,Attitude,0,1
+195,Location False Beliefs,1,1
+196,Location False Beliefs,1,1
+197,Location False Beliefs,1,1
+198,Location False Beliefs,1,1
+199,Location False Beliefs,1,1
+200,Location False Beliefs,1,1
+201,Location False Beliefs,1,1
+202,Location False Beliefs,0,0
+203,Location False Beliefs,1,1
+204,Attitude,0,0
+205,Location False Beliefs,1,1
+206,Location False Beliefs,1,1
+207,Attitude,1,1
+208,Location False Beliefs,1,1
+209,Location False Beliefs,1,0
+210,Location False Beliefs,1,1
+211,Attitude,1,1
+212,Attitude,1,1
+213,Location False Beliefs,0,0
+214,Location False Beliefs,1,1
+215,Attitude,0,0
+216,Attitude,1,1
+217,Attitude,1,1
+218,Location False Beliefs,0,0
+219,Location False Beliefs,1,1
+220,Attitude,0,0
+221,Location False Beliefs,1,1
+222,Location False Beliefs,0,0
+223,Attitude,1,1
+224,Location False Beliefs,1,1
+225,Location False Beliefs,1,1
+226,Attitude,0,0
+227,Attitude,1,1
+228,Location False Beliefs,0,0
+229,Location False Beliefs,1,1
+230,Location False Beliefs,1,1
+231,Attitude,1,1
+232,Location False Beliefs,0,0
+233,Location False Beliefs,1,1
+234,Location False Beliefs,1,1
+235,Location False Beliefs,1,1
+236,Attitude,0,0
+237,Location False Beliefs,1,1
+238,Location False Beliefs,1,1
+239,Location False Beliefs,0,0
+240,Location False Beliefs,1,1
+241,Attitude,0,0
+242,Location False Beliefs,1,1
+243,Location False Beliefs,1,1
+244,Location False Beliefs,1,1
+245,Location False Beliefs,0,0
+246,Location False Beliefs,1,1
+247,Location False Beliefs,1,1
+248,Location False Beliefs,0,0
+249,Location False Beliefs,1,1
+250,Location False Beliefs,1,0
+251,Attitude,0,0
+252,Attitude,0,0
+253,Attitude,1,0
+254,Attitude,1,1
+255,Location False Beliefs,1,1
+256,Attitude,1,1
+257,Location False Beliefs,1,1
+258,Location False Beliefs,1,1
+259,Attitude,0,0
+260,Location False Beliefs,0,0
+261,Location False Beliefs,1,1
+262,Attitude,1,1
+263,Attitude,0,0
+264,Location False Beliefs,0,0
+265,Location False Beliefs,1,1
+266,Attitude,0,0
+267,Attitude,0,0
+268,Attitude,1,1
+269,Attitude,1,1
+270,Location False Beliefs,1,1
+271,Location False Beliefs,1,1
+272,Location False Beliefs,1,1
+273,Attitude,0,0
+274,Attitude,0,0
+275,Location False Beliefs,1,1
+276,Location False Beliefs,1,1
+277,Attitude,1,1
+278,Location False Beliefs,1,1
+279,Attitude,0,0
+280,Location False Beliefs,0,0
+281,Location False Beliefs,1,1
+282,Location False Beliefs,1,1
+283,Location False Beliefs,1,1
+284,Attitude,0,0
+285,Location False Beliefs,1,1
+286,Location False Beliefs,1,1
+287,Attitude,0,0
+288,Attitude,1,0
+289,Location False Beliefs,1,1
+290,Location False Beliefs,0,0
+291,Location False Beliefs,1,1
+292,Location False Beliefs,1,1
+293,Location False Beliefs,1,1
+294,Location False Beliefs,0,0
+295,Location False Beliefs,1,1
+296,Attitude,1,1
+297,Location False Beliefs,0,0
+298,Location False Beliefs,1,1
+299,Location False Beliefs,1,1
+300,Attitude,0,0
+301,Attitude,0,0
+302,Location False Beliefs,1,1
+303,Location False Beliefs,1,1
+304,Attitude,0,0
+305,Attitude,0,0
+306,Attitude,0,0
+307,Location False Beliefs,1,1
+308,Location False Beliefs,0,0
+309,Location False Beliefs,1,1
+310,Attitude,0,1
+311,Location False Beliefs,1,1
+312,Attitude,0,0
+313,Location False Beliefs,0,0
+314,Location False Beliefs,1,1
+315,Attitude,1,1
+316,Attitude,1,1
+317,Location False Beliefs,0,0
+318,Location False Beliefs,0,0
+319,Attitude,0,0
+320,Attitude,0,0
+321,Location False Beliefs,0,0
+322,Location False Beliefs,0,0
+323,Attitude,0,1
+324,Location False Beliefs,0,0
+325,Attitude,1,1
+326,Attitude,0,0
+327,Location False Beliefs,1,1
+328,Location False Beliefs,0,0
+329,Location False Beliefs,0,0
+330,Attitude,1,1
+331,Location False Beliefs,0,0
+332,Location False Beliefs,0,0
+333,Attitude,1,1
+334,Location False Beliefs,1,1
+335,Attitude,0,0
+336,Location False Beliefs,0,0
+337,Attitude,1,0
+338,Location False Beliefs,0,0
+339,Attitude,0,0
+340,Location False Beliefs,1,1
+341,Location False Beliefs,1,1
+342,Location False Beliefs,1,1
+343,Location False Beliefs,0,0
+344,Location False Beliefs,1,1
+345,Attitude,1,1
+346,Attitude,1,1
+347,Location False Beliefs,0,0
+348,Attitude,1,1
+349,Attitude,1,1
+350,Location False Beliefs,1,1
+351,Location False Beliefs,1,1
+352,Location False Beliefs,1,1
+353,Location False Beliefs,1,1
+354,Attitude,1,1
+355,Attitude,1,1
+356,Location False Beliefs,1,1
+357,Location False Beliefs,1,1
+358,Location False Beliefs,1,1
+359,Location False Beliefs,0,0
+360,Attitude,0,0
+361,Attitude,0,0
+362,Location False Beliefs,1,1
+363,Attitude,1,1
+364,Attitude,1,0
+365,Attitude,1,1
+366,Location False Beliefs,1,1
+367,Attitude,1,1
+368,Location False Beliefs,1,1
+369,Attitude,0,0
+370,Location False Beliefs,1,1
+371,Attitude,0,0
+372,Location False Beliefs,1,1
+373,Attitude,0,0
+374,Location False Beliefs,1,1
+375,Location False Beliefs,0,0
+376,Attitude,1,0
+377,Location False Beliefs,1,1
+378,Attitude,0,0
+379,Location False Beliefs,1,1
+380,Location False Beliefs,1,1
+381,Location False Beliefs,0,0
+382,Location False Beliefs,1,1
+383,Location False Beliefs,1,1
+384,Location False Beliefs,0,0
+385,Attitude,0,0
+386,Attitude,0,0
+387,Location False Beliefs,1,1
+388,Location False Beliefs,0,0
+389,Attitude,1,1
+390,Location False Beliefs,1,1
+391,Location False Beliefs,1,1
+392,Attitude,0,0
+393,Location False Beliefs,1,1
+394,Location False Beliefs,1,1
+395,Location False Beliefs,1,1
+396,Location False Beliefs,1,1
+397,Location False Beliefs,0,0
+398,Attitude,1,1
+399,Attitude,1,1
+400,Location False Beliefs,1,1
+401,Location False Beliefs,1,1
+402,Location False Beliefs,1,0
+403,Attitude,1,1
+404,Attitude,1,1
+405,Location False Beliefs,1,1
+406,Attitude,0,1
+407,Location False Beliefs,1,1
+408,Location False Beliefs,0,0
+409,Attitude,0,1
+410,Location False Beliefs,1,1
+411,Location False Beliefs,1,0
+412,Attitude,0,1
+413,Location False Beliefs,1,1
+414,Attitude,1,1
+415,Location False Beliefs,1,1
+416,Location False Beliefs,0,0
+417,Location False Beliefs,1,1
+418,Location False Beliefs,1,1
+419,Location False Beliefs,1,1
+420,Location False Beliefs,0,0
+421,Location False Beliefs,1,1
+422,Attitude,0,0
+423,Location False Beliefs,0,0
+424,Location False Beliefs,1,1
+425,Location False Beliefs,1,1
+426,Attitude,0,0
+427,Attitude,0,0
+428,Location False Beliefs,1,1
+429,Attitude,0,0
+430,Attitude,1,0
+431,Location False Beliefs,1,1
+432,Location False Beliefs,0,0
+433,Attitude,1,0
+434,Attitude,0,0
+435,Location False Beliefs,1,1
+436,Attitude,0,0
+437,Location False Beliefs,1,1
+438,Attitude,0,0
+439,Location False Beliefs,1,1
+440,Attitude,1,1
+441,Location False Beliefs,0,0
+442,Location False Beliefs,0,1
+443,Location False Beliefs,0,0
+444,Attitude,1,0
+445,Location False Beliefs,1,1
+446,Location False Beliefs,1,1
+447,Location False Beliefs,1,1
+448,Attitude,1,1
+449,Attitude,0,0
+450,Attitude,0,1
+451,Location False Beliefs,0,0
+452,Attitude,1,1
+453,Location False Beliefs,1,1
+454,Attitude,1,1
+455,Location False Beliefs,1,1
+456,Location False Beliefs,1,1
+457,Location False Beliefs,0,0
+458,Location False Beliefs,0,0
+459,Location False Beliefs,1,1
+460,Location False Beliefs,1,1
+461,Location False Beliefs,1,1
+462,Location False Beliefs,1,1
+463,Attitude,0,0
+464,Location False Beliefs,0,0
+465,Attitude,1,1
+466,Location False Beliefs,1,1
+467,Location False Beliefs,1,1
+468,Location False Beliefs,0,0
+469,Attitude,0,0
+470,Location False Beliefs,1,1
+471,Attitude,0,0
+472,Attitude,0,0
+473,Location False Beliefs,1,1
+474,Location False Beliefs,1,0
+475,Location False Beliefs,0,0
+476,Location False Beliefs,1,1
+477,Attitude,0,0
+478,Location False Beliefs,1,1
+479,Attitude,1,1
+480,Location False Beliefs,1,1
+481,Location False Beliefs,1,1
+482,Location False Beliefs,1,1
+483,Location False Beliefs,1,1
+484,Attitude,0,1
+485,Location False Beliefs,1,1
+486,Attitude,1,1
+487,Attitude,0,1
+488,Location False Beliefs,1,1
+489,Attitude,0,0
+490,Attitude,0,1
+491,Location False Beliefs,1,1
+492,Location False Beliefs,0,0
+493,Attitude,1,0
+494,Location False Beliefs,1,1
+495,Location False Beliefs,1,1
+496,Attitude,0,0
+497,Location False Beliefs,1,1
+498,Attitude,0,0
+499,Location False Beliefs,1,1
+500,Attitude,1,1
+501,Attitude,1,0
+502,Location False Beliefs,1,1
+503,Location False Beliefs,1,1
+504,Location False Beliefs,0,0
+505,Location False Beliefs,1,1
+506,Attitude,1,1
+507,Attitude,0,0
+508,Attitude,0,1
+509,Location False Beliefs,1,1
+510,Location False Beliefs,1,1
+511,Location False Beliefs,1,1
+512,Location False Beliefs,1,1
+513,Attitude,1,1
+514,Location False Beliefs,1,1
+515,Location False Beliefs,1,1
+516,Location False Beliefs,1,1
+517,Location False Beliefs,0,0
+518,Location False Beliefs,1,1
+519,Attitude,0,0
+520,Location False Beliefs,1,1
+521,Location False Beliefs,1,1
+522,Location False Beliefs,0,0
+523,Location False Beliefs,0,0
+524,Location False Beliefs,1,1
+525,Attitude,1,1
+526,Attitude,0,0
+527,Location False Beliefs,1,1
+528,Location False Beliefs,1,1
+529,Location False Beliefs,1,1
+530,Location False Beliefs,1,1
+531,Location False Beliefs,1,1
+532,Location False Beliefs,0,0
+533,Location False Beliefs,1,1
+534,Location False Beliefs,0,0
+535,Location False Beliefs,1,1
+536,Location False Beliefs,1,1
+537,Location False Beliefs,1,1
+538,Attitude,1,0
+539,Location False Beliefs,0,0
+540,Location False Beliefs,1,1
+541,Attitude,0,0
+542,Location False Beliefs,1,1
+543,Location False Beliefs,1,1
+544,Attitude,1,0
+545,Location False Beliefs,0,0
+546,Location False Beliefs,0,0
+547,Attitude,0,1
+548,Location False Beliefs,0,0
+549,Location False Beliefs,1,1
+550,Location False Beliefs,1,1
+551,Location False Beliefs,1,1
+552,Location False Beliefs,1,1
+553,Location False Beliefs,1,1
+554,Location False Beliefs,1,1
+555,Location False Beliefs,1,1
+556,Location False Beliefs,0,0
+557,Location False Beliefs,0,0
+558,Location False Beliefs,1,1
+559,Attitude,1,1
+560,Location False Beliefs,0,0
+561,Location False Beliefs,1,0
+562,Location False Beliefs,0,0
+563,Attitude,0,0
+564,Location False Beliefs,0,0
+565,Location False Beliefs,1,1
+566,Location False Beliefs,1,1
+567,Location False Beliefs,1,1
+568,Attitude,1,1
+569,Location False Beliefs,1,1
+570,Attitude,1,1
+571,Location False Beliefs,1,1
+572,Location False Beliefs,0,0
+573,Location False Beliefs,0,0
+574,Location False Beliefs,1,1
+575,Location False Beliefs,1,1
+576,Location False Beliefs,0,0
+577,Location False Beliefs,0,0
+578,Location False Beliefs,1,1
+579,Location False Beliefs,1,1
+580,Location False Beliefs,0,0
+581,Attitude,1,1
+582,Attitude,1,1
+583,Attitude,0,0
+584,Location False Beliefs,1,1
+585,Location False Beliefs,1,1
+586,Location False Beliefs,1,1
+587,Location False Beliefs,1,1
+588,Location False Beliefs,1,1
+589,Location False Beliefs,1,1
+590,Location False Beliefs,1,1
+591,Attitude,1,0
+592,Location False Beliefs,1,1
+593,Attitude,0,0
+594,Location False Beliefs,0,1
+595,Location False Beliefs,1,1
+596,Attitude,1,1
+597,Location False Beliefs,1,1
+598,Location False Beliefs,1,1
+599,Location False Beliefs,1,1
+600,Attitude,0,0
+601,Location False Beliefs,1,1
+602,Location False Beliefs,1,1
+603,Location False Beliefs,1,1
+604,Attitude,1,1
+605,Attitude,1,1
+606,Attitude,1,1
+607,Attitude,1,1
+608,Location False Beliefs,1,1
+609,Attitude,0,0
+610,Attitude,1,0
+611,Location False Beliefs,1,1
+612,Location False Beliefs,1,1
+613,Location False Beliefs,1,1
+614,Location False Beliefs,1,1
+615,Attitude,0,0
+616,Attitude,1,1
+617,Location False Beliefs,1,1
+618,Attitude,0,0
+619,Location False Beliefs,0,0
+620,Location False Beliefs,1,1
+621,Location False Beliefs,1,1
+622,Location False Beliefs,0,0
+623,Location False Beliefs,1,1
+624,Location False Beliefs,0,0
+625,Location False Beliefs,0,0
+626,Location False Beliefs,0,0
+627,Location False Beliefs,0,0
+628,Attitude,1,1
+629,Location False Beliefs,1,1
+630,Location False Beliefs,0,0
+631,Attitude,1,1
+632,Attitude,0,1
+633,Attitude,0,0
+634,Location False Beliefs,1,0
+635,Location False Beliefs,1,1
+636,Attitude,0,0
+637,Attitude,0,0
+638,Location False Beliefs,1,1
+639,Attitude,1,1
+640,Attitude,0,0
+641,Attitude,0,0
+642,Attitude,0,0
+643,Location False Beliefs,0,1
+644,Location False Beliefs,1,1
+645,Location False Beliefs,1,1
+646,Attitude,0,0
+647,Location False Beliefs,0,1
+648,Attitude,0,0
+649,Attitude,0,0
+650,Location False Beliefs,1,1
+651,Attitude,1,1
+652,Location False Beliefs,1,1
+653,Location False Beliefs,1,1
+654,Location False Beliefs,1,1
+655,Location False Beliefs,1,1
+656,Location False Beliefs,1,1
+657,Location False Beliefs,0,0
+658,Location False Beliefs,1,1
+659,Location False Beliefs,0,0
+660,Attitude,0,0
+661,Attitude,0,1
+662,Location False Beliefs,1,1
+663,Location False Beliefs,0,1
+664,Attitude,1,1
+665,Location False Beliefs,0,0
+666,Location False Beliefs,1,1
+667,Attitude,1,1
+668,Location False Beliefs,1,1
+669,Location False Beliefs,0,0
+670,Location False Beliefs,1,1
+671,Location False Beliefs,1,1
+672,Location False Beliefs,1,1
+673,Location False Beliefs,1,1
+674,Location False Beliefs,1,0
+675,Location False Beliefs,1,1
+676,Attitude,0,0
+677,Location False Beliefs,1,1
+678,Location False Beliefs,1,1
+679,Attitude,1,0
+680,Location False Beliefs,1,1
+681,Location False Beliefs,1,1
+682,Location False Beliefs,1,1
+683,Location False Beliefs,1,1
+684,Location False Beliefs,0,0
+685,Location False Beliefs,1,1
+686,Location False Beliefs,1,1
+687,Attitude,0,0
+688,Location False Beliefs,1,1
+689,Location False Beliefs,1,1
+690,Attitude,0,0
+691,Location False Beliefs,1,1
+692,Attitude,1,1
+693,Location False Beliefs,0,0
+694,Attitude,1,1
+695,Location False Beliefs,1,1
+696,Attitude,1,1
+697,Location False Beliefs,0,0
+698,Location False Beliefs,1,1
+699,Location False Beliefs,1,1
+700,Location False Beliefs,0,0
+701,Location False Beliefs,1,1
+702,Location False Beliefs,1,1
+703,Location False Beliefs,1,1
+704,Location False Beliefs,1,1
+705,Location False Beliefs,0,1
+706,Attitude,0,0
+707,Location False Beliefs,0,0
+708,Location False Beliefs,1,1
+709,Location False Beliefs,1,1
+710,Attitude,1,1
+711,Location False Beliefs,1,1
+712,Attitude,0,0
+713,Location False Beliefs,1,1
+714,Attitude,1,1
+715,Attitude,0,0
+716,Location False Beliefs,0,0
+717,Location False Beliefs,1,1
+718,Attitude,0,0
+719,Location False Beliefs,1,1
+720,Location False Beliefs,1,1
+721,Attitude,0,0
+722,Location False Beliefs,0,0
+723,Location False Beliefs,1,1
+724,Attitude,0,0
+725,Location False Beliefs,1,1
+726,Attitude,0,0
+727,Location False Beliefs,0,0
+728,Attitude,0,0
+729,Location False Beliefs,1,0
+730,Attitude,0,0
+731,Location False Beliefs,1,1
+732,Location False Beliefs,0,0
+733,Attitude,1,0
+734,Location False Beliefs,1,1
+735,Location False Beliefs,1,1
+736,Location False Beliefs,1,1
+737,Attitude,0,0
+738,Attitude,0,0
+739,Location False Beliefs,0,0
+740,Attitude,0,0
+741,Location False Beliefs,0,0
+742,Location False Beliefs,1,1
+743,Attitude,0,0
+744,Location False Beliefs,1,1
+745,Location False Beliefs,1,1
+746,Location False Beliefs,0,0
+747,Location False Beliefs,1,1
+748,Location False Beliefs,1,1
+749,Location False Beliefs,1,1
+750,Attitude,1,1
+751,Location False Beliefs,1,1
+752,Location False Beliefs,1,1
+753,Attitude,1,1
+754,Location False Beliefs,0,0
+755,Location False Beliefs,1,1
+756,Location False Beliefs,0,0
+757,Location False Beliefs,1,1
+758,Location False Beliefs,1,0
+759,Location False Beliefs,1,1
+760,Attitude,0,1
+761,Location False Beliefs,1,1
+762,Location False Beliefs,1,1
+763,Location False Beliefs,0,0
+764,Attitude,0,0
+765,Location False Beliefs,1,1
+766,Location False Beliefs,1,1
+767,Attitude,0,0
+768,Location False Beliefs,1,1
+769,Location False Beliefs,0,0
+770,Location False Beliefs,1,1
+771,Location False Beliefs,0,0
+772,Location False Beliefs,1,1
+773,Attitude,1,0
+774,Attitude,0,0
+775,Location False Beliefs,1,1
+776,Attitude,0,1
+777,Location False Beliefs,0,0
+778,Location False Beliefs,1,1
+779,Location False Beliefs,1,1
+780,Location False Beliefs,0,1
+781,Attitude,1,1
+782,Attitude,0,1
+783,Location False Beliefs,0,0
+784,Location False Beliefs,1,1
+785,Location False Beliefs,1,1
+786,Location False Beliefs,1,1
+787,Location False Beliefs,1,1
+788,Location False Beliefs,0,0
+789,Attitude,0,0
+790,Location False Beliefs,1,1
+791,Attitude,0,0
+792,Attitude,0,1
+793,Attitude,0,0
+794,Location False Beliefs,0,0
+795,Location False Beliefs,1,1
+796,Location False Beliefs,1,1
+797,Location False Beliefs,0,0
+798,Attitude,1,0
+799,Location False Beliefs,1,1
+800,Attitude,1,1
+801,Attitude,0,0
+802,Location False Beliefs,1,1
+803,Attitude,0,0
+804,Attitude,1,1
+805,Location False Beliefs,0,0
+806,Location False Beliefs,1,1
+807,Location False Beliefs,1,0
+808,Location False Beliefs,1,1
+809,Attitude,1,1
+810,Location False Beliefs,1,1
+811,Attitude,0,0
+812,Location False Beliefs,1,1
+813,Location False Beliefs,1,1
+814,Location False Beliefs,0,0
+815,Location False Beliefs,1,1
+816,Attitude,0,0
+817,Attitude,1,1
+818,Location False Beliefs,0,0
+819,Attitude,1,1
+820,Attitude,1,0
+821,Location False Beliefs,0,0
+822,Attitude,0,0
+823,Attitude,1,1
+824,Location False Beliefs,1,0
+825,Location False Beliefs,0,0
+826,Location False Beliefs,1,1
+827,Location False Beliefs,1,1
+828,Attitude,0,1
+829,Attitude,1,1
+830,Location False Beliefs,1,1
+831,Location False Beliefs,1,1
+832,Location False Beliefs,0,0
+833,Attitude,0,1
+834,Location False Beliefs,1,1
+835,Location False Beliefs,0,0
+836,Location False Beliefs,0,0
+837,Location False Beliefs,0,0
+838,Location False Beliefs,1,1
+839,Location False Beliefs,1,1
+840,Attitude,1,1
+841,Location False Beliefs,1,1
+842,Location False Beliefs,0,0
+843,Location False Beliefs,1,1
+844,Location False Beliefs,1,1
+845,Attitude,1,1
+846,Location False Beliefs,1,1
+847,Attitude,0,0
+848,Location False Beliefs,1,1
+849,Attitude,1,1
+850,Location False Beliefs,1,1
+851,Location False Beliefs,1,1
+852,Location False Beliefs,1,1
+853,Location False Beliefs,1,1
+854,Location False Beliefs,1,1
+855,Attitude,1,0
+856,Location False Beliefs,0,0
+857,Location False Beliefs,1,1
+858,Attitude,1,1
+859,Location False Beliefs,1,1
+860,Location False Beliefs,1,1
+861,Location False Beliefs,0,0
+862,Location False Beliefs,1,1
+863,Attitude,1,1
+864,Location False Beliefs,1,1
+865,Attitude,1,1
+866,Location False Beliefs,1,1
+867,Location False Beliefs,1,1
+868,Location False Beliefs,1,1
+869,Location False Beliefs,1,1
+870,Attitude,1,0
+871,Attitude,0,0
+872,Attitude,0,0
+873,Attitude,0,1
+874,Location False Beliefs,0,0
+875,Location False Beliefs,0,0
+876,Location False Beliefs,1,1
+877,Attitude,0,1
+878,Attitude,0,0
+879,Attitude,1,1
+880,Location False Beliefs,1,1
+881,Location False Beliefs,1,1
+882,Attitude,0,0
+883,Location False Beliefs,0,0
+884,Location False Beliefs,1,1
+885,Location False Beliefs,1,1
+886,Location False Beliefs,0,0
+887,Location False Beliefs,1,1
+888,Location False Beliefs,0,0
+889,Attitude,1,1
+890,Location False Beliefs,1,1
+891,Location False Beliefs,1,1
+892,Location False Beliefs,0,0
+893,Attitude,1,1
+894,Location False Beliefs,1,1
+895,Location False Beliefs,1,1
+896,Location False Beliefs,1,1
+897,Location False Beliefs,0,0
+898,Attitude,0,0
+899,Location False Beliefs,1,1
+900,Location False Beliefs,1,1
+901,Location False Beliefs,1,1
+902,Location False Beliefs,1,1
+903,Location False Beliefs,1,1
+904,Location False Beliefs,1,1
+905,Attitude,1,1
+906,Attitude,1,1
+907,Attitude,0,0
+908,Attitude,0,0
+909,Attitude,0,0
+910,Location False Beliefs,1,1
+911,Location False Beliefs,1,1
+912,Location False Beliefs,1,1
+913,Location False Beliefs,0,0
+914,Attitude,0,0
+915,Location False Beliefs,1,1
+916,Attitude,1,1
+917,Attitude,1,1
+918,Location False Beliefs,0,0
+919,Attitude,0,0
+920,Attitude,0,0
+921,Location False Beliefs,1,1
+922,Location False Beliefs,1,1
+923,Attitude,1,1
+924,Location False Beliefs,1,1
+925,Location False Beliefs,1,1
+926,Location False Beliefs,0,0
+927,Location False Beliefs,1,1
+928,Attitude,0,1
+929,Location False Beliefs,1,1
+930,Attitude,0,0
+931,Location False Beliefs,1,1
+932,Location False Beliefs,1,1
+933,Attitude,0,0
+934,Attitude,1,1
+935,Location False Beliefs,1,1
+936,Attitude,0,0
+937,Location False Beliefs,1,1
+938,Attitude,0,0
+939,Location False Beliefs,0,0
+940,Location False Beliefs,1,1
+941,Location False Beliefs,1,1
+942,Location False Beliefs,1,1
+943,Attitude,0,0
+944,Location False Beliefs,0,0
+945,Location False Beliefs,0,0
+946,Location False Beliefs,1,1
+947,Location False Beliefs,1,1
+948,Location False Beliefs,1,1
+949,Location False Beliefs,1,1
+950,Attitude,0,0
+951,Attitude,1,1
+952,Location False Beliefs,1,1
+953,Attitude,0,1
+954,Attitude,0,1
+955,Attitude,0,0
+956,Location False Beliefs,1,1
+957,Attitude,1,1
+958,Location False Beliefs,0,0
+959,Location False Beliefs,1,0
+960,Location False Beliefs,1,1
+961,Location False Beliefs,1,1
+962,Location False Beliefs,1,1
+963,Attitude,1,1
+964,Attitude,0,0
+965,Attitude,1,1
+966,Attitude,0,0
+967,Location False Beliefs,0,0
+968,Location False Beliefs,1,1
+969,Location False Beliefs,1,1
+970,Location False Beliefs,0,0
+971,Attitude,0,0
+972,Location False Beliefs,0,0
+973,Attitude,0,1
+974,Location False Beliefs,0,0
+975,Location False Beliefs,1,1
+976,Location False Beliefs,0,0
+977,Location False Beliefs,0,0
+978,Location False Beliefs,1,1
+979,Location False Beliefs,1,1
+980,Attitude,0,0
+981,Location False Beliefs,1,1
+982,Location False Beliefs,1,0
+983,Location False Beliefs,1,1
+984,Attitude,0,0
+985,Location False Beliefs,1,1
+986,Location False Beliefs,1,1
+987,Attitude,1,1
+988,Location False Beliefs,1,1
+989,Location False Beliefs,1,1
+990,Location False Beliefs,0,0
+991,Attitude,0,1
+992,Attitude,0,1
+993,Location False Beliefs,0,0
+994,Location False Beliefs,1,1
+995,Location False Beliefs,1,1
+996,Location False Beliefs,1,1
+997,Location False Beliefs,1,1
+998,Location False Beliefs,0,0
+999,Attitude,0,0

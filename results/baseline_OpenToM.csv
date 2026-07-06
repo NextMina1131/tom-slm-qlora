@@ -1,0 +1,1001 @@
+source,task,category,ability,answer,pred,raw,correct
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[X] [[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[B],1
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,B,A,[[A]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,A,[[A]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,A,[[A]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,attitude,Emotion/Attitude,Attitude,C,C,[[C]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,A,C,[[C]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,B,B,[[B]],1
+OpenToM,location-cg,Belief,Location False Beliefs,A,B,[[B]],0
+OpenToM,attitude,Emotion/Attitude,Attitude,C,B,[[B]],0

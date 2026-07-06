@@ -1,0 +1,843 @@
+,source,task,category,ability,answer
+0,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+1,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D
+2,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A
+3,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C
+4,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+5,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+7,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B
+8,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C
+9,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+10,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D
+11,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+12,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,A
+13,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+14,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+15,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+16,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B
+17,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+18,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+19,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+20,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+21,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B
+22,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C
+23,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+24,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B
+25,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C
+26,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D
+27,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B
+28,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C
+29,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B
+30,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C
+31,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+32,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+33,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A
+34,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+35,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C
+36,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A
+37,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+38,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,B
+39,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B
+40,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,C
+41,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B
+42,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D
+43,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C
+44,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C
+45,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A
+46,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D
+47,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+48,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+49,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,B
+50,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+51,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C
+52,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C
+53,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B
+54,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,C
+55,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D
+56,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+57,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+58,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+59,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+60,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+61,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C
+62,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+63,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B
+64,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C
+65,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D
+66,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+67,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C
+68,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D
+69,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,D
+70,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+71,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B
+72,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B
+73,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+74,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+75,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+76,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A
+77,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+78,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A
+79,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+80,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A
+81,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,C
+82,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C
+83,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+84,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C
+85,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C
+86,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B
+87,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B
+88,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C
+89,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B
+90,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A
+91,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C
+92,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A
+93,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B
+94,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+95,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B
+96,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C
+97,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B
+98,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C
+99,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B
+100,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D
+101,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+102,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+103,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+104,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+105,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+106,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B
+107,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+108,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B
+109,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B
+110,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B
+111,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B
+112,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D
+113,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A
+114,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C
+115,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C
+116,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+117,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B
+118,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+119,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+120,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+121,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+122,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C
+123,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,A
+124,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A
+125,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+126,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D
+127,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D
+128,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B
+129,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+130,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A
+131,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C
+132,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D
+133,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C
+134,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+135,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D
+136,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+137,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C
+138,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D
+139,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+140,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+141,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+142,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B
+143,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+144,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+145,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+146,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+147,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B
+148,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+149,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D
+150,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C
+151,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+152,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+153,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B
+154,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A
+155,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C
+156,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B
+157,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A
+158,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B
+159,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D
+160,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D
+161,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D
+162,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A
+163,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A
+164,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+165,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+166,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+167,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D
+168,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C
+169,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,A
+170,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+171,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+172,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+173,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+174,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+175,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+176,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,A
+177,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+178,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+179,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B
+180,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+181,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+182,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+183,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D
+184,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+185,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+186,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,B
+187,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D
+188,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+189,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A
+190,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+191,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B
+192,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D
+193,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A
+194,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C
+195,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C
+196,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,C
+197,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+198,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A
+199,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B
+200,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B
+201,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+202,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D
+203,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+204,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+205,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+206,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B
+207,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+208,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B
+209,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+210,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B
+211,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+212,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C
+213,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A
+214,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C
+215,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+216,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B
+217,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D
+218,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+219,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+220,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+221,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+222,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+223,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+224,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+225,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+226,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+227,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+228,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+229,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+230,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+231,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+232,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+233,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C
+234,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D
+235,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B
+236,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+237,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C
+238,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A
+239,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C
+240,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+241,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C
+242,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B
+243,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D
+244,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+245,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+246,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+247,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A
+248,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A
+249,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C
+250,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+251,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A
+252,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A
+253,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D
+254,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+255,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+256,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C
+257,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A
+258,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+259,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A
+260,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+261,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+262,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C
+263,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+264,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,C
+265,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+266,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+267,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+268,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+269,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+270,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C
+271,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D
+272,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+273,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B
+274,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,C
+275,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C
+276,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B
+277,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+278,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B
+279,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C
+280,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C
+281,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+282,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A
+283,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+284,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A
+285,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C
+286,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+287,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+288,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B
+289,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+290,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A
+291,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C
+292,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B
+293,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B
+294,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A
+295,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B
+296,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A
+297,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+298,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+299,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B
+300,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+301,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D
+302,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,D
+303,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+304,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+305,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C
+306,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C
+307,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+308,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B
+309,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+310,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B
+311,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A
+312,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D
+313,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+314,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+315,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C
+316,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+317,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A
+318,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C
+319,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+320,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B
+321,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+322,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C
+323,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+324,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+325,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C
+326,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+327,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A
+328,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,D
+329,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A
+330,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+331,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+332,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A
+333,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,A
+334,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+335,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+336,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A
+337,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B
+338,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+339,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+340,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,A
+341,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,D
+342,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+343,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+344,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C
+345,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D
+346,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+347,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C
+348,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B
+349,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B
+350,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C
+351,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B
+352,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C
+353,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+354,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+355,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C
+356,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+357,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D
+358,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C
+359,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+360,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A
+361,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D
+362,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B
+363,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+364,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B
+365,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+366,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D
+367,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A
+368,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B
+369,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,C
+370,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+371,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+372,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B
+373,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B
+374,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D
+375,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B
+376,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B
+377,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+378,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+379,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C
+380,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+381,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,D
+382,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B
+383,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B
+384,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,D
+385,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B
+386,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C
+387,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,A
+388,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A
+389,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B
+390,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D
+391,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+392,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B
+393,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+394,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A
+395,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+396,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+397,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+398,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+399,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B
+400,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C
+401,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B
+402,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+403,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,B
+404,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+405,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C
+406,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+407,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A
+408,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,D
+409,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C
+410,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+411,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D
+412,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+413,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+414,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+415,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+416,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,A
+417,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+418,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+419,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+420,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+421,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+422,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+423,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A
+424,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+425,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+426,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+427,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C
+428,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+429,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+430,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+431,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+432,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D
+433,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A
+434,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+435,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C
+436,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B
+437,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,B
+438,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B
+439,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+440,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B
+441,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C
+442,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A
+443,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+444,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+445,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B
+446,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C
+447,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+448,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+449,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+450,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C
+451,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+452,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+453,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,C
+454,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+455,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+456,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A
+457,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,B
+458,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+459,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+460,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C
+461,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+462,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B
+463,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,C
+464,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+465,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C
+466,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+467,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,B
+468,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B
+469,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D
+470,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+471,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B
+472,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C
+473,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A
+474,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+475,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A
+476,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A
+477,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B
+478,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A
+479,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A
+480,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+481,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+482,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+483,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B
+484,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+485,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A
+486,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A
+487,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A
+488,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+489,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+490,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C
+491,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B
+492,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C
+493,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+494,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+495,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D
+496,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C
+497,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C
+498,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+499,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+500,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+501,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D
+502,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A
+503,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B
+504,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+505,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+506,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D
+507,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A
+508,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D
+509,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D
+510,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+511,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C
+512,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+513,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B
+514,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B
+515,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A
+516,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+517,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+518,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,C
+519,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B
+520,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+521,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+522,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+523,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+524,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D
+525,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,A
+526,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+527,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C
+528,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C
+529,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A
+530,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,D
+531,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A
+532,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B
+533,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+534,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+535,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B
+536,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+537,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B
+538,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+539,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),A
+540,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C
+541,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A
+542,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+543,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,C
+544,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B
+545,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+546,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A
+547,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,D
+548,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B
+549,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C
+550,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A
+551,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B
+552,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D
+553,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+554,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+555,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D
+556,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+557,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+558,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D
+559,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+560,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C
+561,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C
+562,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C
+563,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+564,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),B
+565,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+566,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+567,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,A
+568,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+569,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D
+570,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+571,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,D
+572,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D
+573,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+574,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D
+575,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C
+576,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D
+577,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B
+578,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B
+579,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B
+580,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+581,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+582,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+583,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B
+584,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B
+585,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+586,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B
+587,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B
+588,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+589,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B
+590,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+591,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+592,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+593,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B
+594,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C
+595,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+596,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+597,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C
+598,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A
+599,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D
+600,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,B
+601,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+602,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B
+603,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+604,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+605,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A
+606,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+607,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A
+608,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+609,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+610,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+611,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B
+612,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A
+613,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+614,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A
+615,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A
+616,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+617,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+618,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A
+619,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B
+620,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D
+621,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A
+622,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B
+623,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+624,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+625,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B
+626,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+627,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C
+628,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+629,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B
+630,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D
+631,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A
+632,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+633,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+634,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A
+635,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D
+636,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+637,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B
+638,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B
+639,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A
+640,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C
+641,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D
+642,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),B
+643,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A
+644,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B
+645,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+646,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B
+647,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A
+648,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C
+649,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+650,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C
+651,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B
+652,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+653,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+654,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+655,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,C
+656,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+657,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C
+658,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B
+659,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B
+660,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B
+661,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B
+662,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B
+663,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B
+664,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+665,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+666,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B
+667,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+668,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D
+669,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B
+670,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B
+671,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D
+672,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B
+673,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,D
+674,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C
+675,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B
+676,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C
+677,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B
+678,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+679,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C
+680,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A
+681,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B
+682,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+683,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B
+684,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C
+685,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+686,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A
+687,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B
+688,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B
+689,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A
+690,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+691,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B
+692,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A
+693,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A
+694,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B
+695,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+696,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+697,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D
+698,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A
+699,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+700,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+701,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A
+702,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+703,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A
+704,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D
+705,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+706,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+707,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+708,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B
+709,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,C
+710,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+711,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B
+712,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C
+713,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+714,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B
+715,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B
+716,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B
+717,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B
+718,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+719,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D
+720,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+721,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A
+722,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+723,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A
+724,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+725,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+726,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+727,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C
+728,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+729,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+730,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+731,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+732,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B
+733,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+734,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D
+735,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A
+736,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,B
+737,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+738,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A
+739,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B
+740,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B
+741,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+742,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B
+743,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A
+744,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+745,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+746,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D
+747,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B
+748,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B
+749,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A
+750,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,B
+751,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+752,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+753,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B
+754,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B
+755,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C
+756,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,A
+757,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+758,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B
+759,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D
+760,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B
+761,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+762,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A
+763,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+764,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B
+765,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C
+766,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C
+767,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D
+768,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+769,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D
+770,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A
+771,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B
+772,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+773,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+774,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B
+775,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C
+776,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C
+777,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B
+778,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+779,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+780,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A
+781,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C
+782,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B
+783,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A
+784,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A
+785,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D
+786,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,C
+787,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C
+788,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D
+789,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D
+790,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,A
+791,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C
+792,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+793,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,A
+794,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+795,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A
+796,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B
+797,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A
+798,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A
+799,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,A
+800,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+801,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B
+802,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C
+803,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B
+804,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+805,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+806,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+807,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A
+808,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C
+809,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B
+810,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+811,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B
+812,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A
+813,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B
+814,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C
+815,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+816,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B
+817,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+818,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C
+819,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B
+820,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C
+821,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+822,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A
+823,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C
+824,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C
+825,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B
+826,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A
+827,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B
+828,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C
+829,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D
+830,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D
+831,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B
+832,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A
+833,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A
+834,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+835,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B
+836,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B
+837,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A
+838,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B
+839,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C
+840,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B
+841,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B

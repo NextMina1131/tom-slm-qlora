@@ -1,0 +1,23 @@
+# Fine-tuning (QLoRA on 4-bit Qwen2.5-3B via Unsloth) — run on GPU (Colab)
+unsloth
+torch
+transformers
+peft
+trl
+datasets
+bitsandbytes
+accelerate
+
+# Evaluation / analysis
+numpy
+pandas
+scipy
+tqdm
+
+# API-based evaluation (optional; only for run_api.py)
+openai
+
+# NOTE: Pin exact versions from your working Colab environment before release, e.g.:
+#   pip freeze | grep -Ei "unsloth|torch|transformers|peft|trl|datasets|bitsandbytes|accelerate|scipy|pandas|numpy" > requirements.lock.txt
+# Unsloth/torch/bitsandbytes are version-sensitive with CUDA, so a pinned lock file
+# greatly helps reviewers reproduce the exact setup.

@@ -1,0 +1,843 @@
+idx,ability,base_correct,tuned_correct
+0,Belief: Content false beliefs,1,0
+1,Knowledge: Percepts-knowledge links,1,1
+2,Intention: Intentions explanations,0,0
+3,Emotion: Typical emotional reactions,1,1
+4,Non-Literal Communication: Faux pas,0,0
+5,Belief: Sequence false beliefs,0,1
+6,Non-Literal Communication: Faux pas,0,1
+7,Knowledge: Information-knowledge links,1,1
+8,Belief: Beliefs based action/emotions,1,1
+9,Non-Literal Communication: Faux pas,0,1
+10,Belief: Sequence false beliefs,0,0
+11,Non-Literal Communication: Faux pas,0,1
+12,Emotion: Emotion regulation,0,0
+13,Non-Literal Communication: Faux pas,0,0
+14,Belief: Beliefs based action/emotions,1,1
+15,Non-Literal Communication: Faux pas,1,1
+16,Knowledge: Information-knowledge links,0,0
+17,Belief: Content false beliefs,0,1
+18,Belief: Content false beliefs,0,1
+19,Non-Literal Communication: Faux pas,0,0
+20,Non-Literal Communication: Faux pas,0,1
+21,Knowledge: Information-knowledge links,1,1
+22,Intention: Discrepant intentions,1,0
+23,Belief: Location false beliefs,1,1
+24,Knowledge: Information-knowledge links,1,1
+25,Intention: Intentions explanations,1,1
+26,Emotion: Atypical emotional reactions,0,0
+27,Desire: Desire-action contradiction,0,0
+28,Emotion: Discrepant emotions,0,0
+29,Desire: Desires influence on actions,0,1
+30,Emotion: Atypical emotional reactions,1,0
+31,Non-Literal Communication: Faux pas,1,1
+32,Non-Literal Communication: Faux pas,1,1
+33,Desire: Multiple desires,0,1
+34,Non-Literal Communication: Faux pas,0,1
+35,Emotion: Moral emotions,1,1
+36,Emotion: Atypical emotional reactions,0,0
+37,Non-Literal Communication: Faux pas,0,1
+38,Desire: Multiple desires,1,1
+39,Non-Literal communication: Humor,1,1
+40,Non-Literal communication: Humor,1,1
+41,Knowledge: Information-knowledge links,0,0
+42,Emotion: Hidden emotions,0,0
+43,Intention: Intentions explanations,1,1
+44,Emotion: Hidden emotions,1,1
+45,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+46,Intention: Intentions explanations,0,0
+47,Non-Literal Communication: Faux pas,1,1
+48,Knowledge: Information-knowledge links,0,1
+49,Intention: Prediction of actions,0,1
+50,Belief: Content false beliefs,0,1
+51,Intention: Discrepant intentions,1,1
+52,Intention: Intentions explanations,1,1
+53,Emotion: Atypical emotional reactions,1,0
+54,Knowledge: Knowledge-attention links,1,0
+55,Non-Literal Communication: Irony/Sarcasm,0,1
+56,Belief: Content false beliefs,1,1
+57,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+58,Non-Literal Communication: Faux pas,0,0
+59,Belief: Content false beliefs,1,0
+60,Belief: Content false beliefs,0,1
+61,Emotion: Discrepant emotions,0,0
+62,Belief: Location false beliefs,1,1
+63,Belief: Beliefs based action/emotions,1,1
+64,Non-Literal Communication: Faux pas,1,1
+65,Intention: Intentions explanations,0,1
+66,Knowledge: Information-knowledge links,0,0
+67,Intention: Intentions explanations,0,0
+68,Non-Literal communication: White lies,1,1
+69,Intention: Prediction of actions,0,0
+70,Non-Literal Communication: Faux pas,1,1
+71,Emotion: Typical emotional reactions,1,1
+72,Emotion: Moral emotions,0,0
+73,Non-Literal Communication: Faux pas,1,1
+74,Belief: Content false beliefs,1,1
+75,Non-Literal Communication: Faux pas,1,1
+76,Emotion: Mixed emotions,1,1
+77,Knowledge: Information-knowledge links,0,1
+78,Intention: Intentions explanations,1,1
+79,Non-Literal Communication: Faux pas,0,1
+80,Knowledge: Percepts-knowledge links,1,1
+81,Knowledge: Knowledge-attention links,1,1
+82,Desire: Desires influence on actions,0,0
+83,Knowledge: Information-knowledge links,1,1
+84,Emotion: Hidden emotions,0,0
+85,Knowledge: Knowledge-pretend play links,1,1
+86,Desire: Desires influence on actions,0,0
+87,Intention: Intentions explanations,1,1
+88,Belief: Location false beliefs,1,1
+89,Non-Literal Communication: Involuntary lies,1,1
+90,Emotion: Discrepant emotions,0,0
+91,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+92,Emotion: Typical emotional reactions,1,1
+93,Intention: Intentions explanations,1,1
+94,Non-Literal Communication: Faux pas,1,1
+95,Knowledge: Information-knowledge links,0,1
+96,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+97,Non-Literal Communication: Involuntary lies,0,1
+98,Non-Literal Communication: Faux pas,0,1
+99,Belief: Beliefs based action/emotions,1,1
+100,Intention: Intentions explanations,0,0
+101,Knowledge: Information-knowledge links,0,0
+102,Non-Literal Communication: Faux pas,0,1
+103,Belief: Location false beliefs,0,1
+104,Belief: Location false beliefs,1,1
+105,Belief: Content false beliefs,0,1
+106,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+107,Non-Literal Communication: Faux pas,1,1
+108,Desire: Desire-action contradiction,1,1
+109,Belief: Beliefs based action/emotions,0,1
+110,Emotion: Atypical emotional reactions,1,1
+111,Non-Literal communication: White lies,1,1
+112,Belief: Location false beliefs Belief: Second-order beliefs,0,0
+113,Intention: Intentions explanations,1,1
+114,Emotion: Typical emotional reactions,1,1
+115,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+116,Non-Literal Communication: Faux pas,1,1
+117,Belief: Identity false beliefs,1,1
+118,Belief: Location false beliefs,1,1
+119,Non-Literal Communication: Faux pas,1,1
+120,Non-Literal Communication: Faux pas,1,0
+121,Non-Literal Communication: Faux pas,0,1
+122,Desire: Desires influence on emotions (beliefs),1,1
+123,Non-Literal Communication: Involuntary lies,1,1
+124,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+125,Belief: Beliefs based action/emotions,1,1
+126,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+127,Knowledge: Percepts-knowledge links,1,1
+128,Intention: Intentions explanations,1,1
+129,Non-Literal Communication: Faux pas,0,0
+130,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+131,Belief: Identity false beliefs,1,0
+132,Belief: Sequence false beliefs,0,0
+133,Emotion: Typical emotional reactions,1,1
+134,Belief: Content false beliefs,0,1
+135,Belief: Content false beliefs Belief: Second-order beliefs,0,1
+136,Belief: Content false beliefs,0,1
+137,Emotion: Moral emotions,1,1
+138,Emotion: Typical emotional reactions,1,1
+139,Belief: Content false beliefs,1,1
+140,Belief: Sequence false beliefs,1,1
+141,Non-Literal Communication: Faux pas,0,0
+142,Emotion: Hidden emotions,1,1
+143,Non-Literal Communication: Faux pas,1,1
+144,Belief: Location false beliefs,1,1
+145,Belief: Location false beliefs,1,1
+146,Knowledge: Information-knowledge links,1,1
+147,Belief: Identity false beliefs,1,1
+148,Belief: Location false beliefs,1,1
+149,Belief: Identity false beliefs,1,1
+150,Intention: Intentions explanations,1,1
+151,Non-Literal Communication: Faux pas,0,1
+152,Belief: Beliefs based action/emotions,0,0
+153,Emotion: Atypical emotional reactions,0,0
+154,Knowledge: Information-knowledge links,0,1
+155,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+156,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+157,Desire: Desires influence on actions,1,1
+158,Non-Literal communication: Egocentric lies,0,1
+159,Belief: Location false beliefs Belief: Second-order beliefs,0,1
+160,Belief: Sequence false beliefs,0,0
+161,Emotion: Typical emotional reactions,0,1
+162,Emotion: Hidden emotions,1,1
+163,Knowledge: Information-knowledge links,0,1
+164,Non-Literal Communication: Faux pas,1,1
+165,Non-Literal Communication: Faux pas,1,1
+166,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+167,Non-Literal communication: Egocentric lies,0,1
+168,Non-Literal Communication: Faux pas,1,1
+169,Belief: Beliefs based action/emotions,1,1
+170,Knowledge: Information-knowledge links,0,1
+171,Knowledge: Information-knowledge links,1,1
+172,Non-Literal Communication: Faux pas,1,0
+173,Belief: Location false beliefs,1,1
+174,Non-Literal Communication: Faux pas,1,1
+175,Belief: Content false beliefs,1,1
+176,Intention: Completion of failed actions,0,0
+177,Belief: Sequence false beliefs,0,1
+178,Non-Literal Communication: Faux pas,1,1
+179,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+180,Non-Literal Communication: Faux pas,0,0
+181,Belief: Beliefs based action/emotions,1,1
+182,Non-Literal Communication: Faux pas,1,1
+183,Intention: Intentions explanations,0,0
+184,Non-Literal Communication: Faux pas,0,1
+185,Belief: Location false beliefs,1,1
+186,Emotion: Discrepant emotions,1,1
+187,Intention: Intentions explanations,1,1
+188,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+189,Desire: Multiple desires,1,1
+190,Belief: Content false beliefs,1,1
+191,Emotion: Atypical emotional reactions,1,1
+192,Desire: Desires influence on actions,0,1
+193,Desire: Desires influence on actions,0,0
+194,Emotion: Moral emotions,1,1
+195,Belief: Identity false beliefs,1,1
+196,Intention: Completion of failed actions,1,1
+197,Knowledge: Information-knowledge links,0,1
+198,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+199,Emotion: Atypical emotional reactions,1,1
+200,Desire: Desire-action contradiction,1,1
+201,Knowledge: Information-knowledge links,1,0
+202,Intention: Intentions explanations,0,1
+203,Belief: Location false beliefs,1,1
+204,Non-Literal Communication: Faux pas,1,1
+205,Belief: Beliefs based action/emotions,0,0
+206,Desire: Desires influence on actions,1,0
+207,Non-Literal Communication: Faux pas,1,1
+208,Desire: Desire-action contradiction,0,0
+209,Non-Literal Communication: Faux pas,1,1
+210,Intention: Discrepant intentions,0,1
+211,Non-Literal Communication: Faux pas,1,1
+212,Emotion: Typical emotional reactions,1,1
+213,Intention: Intentions explanations,0,1
+214,Knowledge: Knowledge-pretend play links,0,1
+215,Belief: Content false beliefs,0,1
+216,Emotion: Moral emotions,1,1
+217,Desire: Desires influence on actions,0,0
+218,Belief: Content false beliefs,1,1
+219,Non-Literal Communication: Faux pas,0,0
+220,Belief: Beliefs based action/emotions,1,0
+221,Belief: Content false beliefs,1,1
+222,Non-Literal Communication: Faux pas,1,1
+223,Knowledge: Information-knowledge links,0,1
+224,Non-Literal Communication: Faux pas,1,1
+225,Belief: Location false beliefs,1,1
+226,Knowledge: Information-knowledge links,0,1
+227,Non-Literal Communication: Faux pas,0,1
+228,Knowledge: Information-knowledge links,1,1
+229,Non-Literal Communication: Faux pas,0,1
+230,Non-Literal Communication: Faux pas,1,1
+231,Belief: Location false beliefs,1,1
+232,Non-Literal Communication: Faux pas,1,0
+233,Belief: Location false beliefs,1,1
+234,Belief: Sequence false beliefs,1,1
+235,Belief: Sequence false beliefs,1,1
+236,Belief: Sequence false beliefs,0,0
+237,Intention: Intentions explanations,0,1
+238,Emotion: Atypical emotional reactions,0,1
+239,Non-Literal Communication: Faux pas,1,1
+240,Non-Literal Communication: Faux pas,0,0
+241,Intention: Intentions explanations,0,1
+242,Non-Literal communication: Humor,1,1
+243,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+244,Non-Literal Communication: Faux pas,1,1
+245,Non-Literal Communication: Faux pas,1,0
+246,Knowledge: Information-knowledge links,0,0
+247,Emotion: Typical emotional reactions,1,1
+248,Emotion: Moral emotions,0,0
+249,Intention: Discrepant intentions,0,0
+250,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+251,Emotion: Hidden emotions,0,0
+252,Intention: Intentions explanations,0,1
+253,Belief: Beliefs based action/emotions,0,0
+254,Knowledge: Information-knowledge links,0,0
+255,Non-Literal Communication: Faux pas,1,1
+256,Intention: Discrepant intentions,1,1
+257,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+258,Belief: Content false beliefs,1,1
+259,Knowledge: Percepts-knowledge links,1,1
+260,Knowledge: Information-knowledge links,0,1
+261,Belief: Location false beliefs,0,1
+262,Intention: Intentions explanations,1,1
+263,Belief: Location false beliefs,0,1
+264,Emotion: Emotion regulation,1,0
+265,Non-Literal Communication: Faux pas,1,1
+266,Knowledge: Information-knowledge links,1,1
+267,Belief: Content false beliefs,1,1
+268,Non-Literal Communication: Faux pas,0,1
+269,Belief: Location false beliefs,1,1
+270,Emotion: Typical emotional reactions,1,1
+271,Non-Literal communication: Egocentric lies,1,1
+272,Non-Literal Communication: Faux pas,1,1
+273,Non-Literal Communication: Involuntary lies,1,1
+274,Desire: Desire-action contradiction,1,0
+275,Belief: Location false beliefs,0,1
+276,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+277,Non-Literal Communication: Faux pas,0,1
+278,Intention: Intentions explanations,1,1
+279,Emotion: Discrepant emotions,0,0
+280,Intention: Intentions explanations,0,0
+281,Knowledge: Information-knowledge links,0,1
+282,Desire: Desires influence on actions,0,1
+283,Belief: Content false beliefs,0,1
+284,Emotion: Typical emotional reactions,1,1
+285,Belief: Beliefs based action/emotions,0,0
+286,Non-Literal Communication: Faux pas,0,1
+287,Non-Literal Communication: Faux pas,1,1
+288,Belief: Beliefs based action/emotions,0,0
+289,Non-Literal Communication: Faux pas,1,1
+290,Emotion: Moral emotions,1,1
+291,Intention: Discrepant intentions,1,1
+292,Intention: Intentions explanations,1,1
+293,Non-Literal communication: Egocentric lies,1,1
+294,Intention: Intentions explanations,1,1
+295,Non-Literal communication: Humor,1,1
+296,Knowledge: Information-knowledge links,1,1
+297,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+298,Non-Literal Communication: Faux pas,0,0
+299,Knowledge: Percepts-knowledge links,1,1
+300,Knowledge: Information-knowledge links,0,0
+301,Non-Literal communication: White lies,0,1
+302,Desire: Discrepant desires,0,0
+303,Belief: Beliefs based action/emotions,1,1
+304,Non-Literal Communication: Faux pas,1,1
+305,Non-Literal Communication: Faux pas,1,1
+306,Non-Literal Communication: Faux pas,1,1
+307,Non-Literal Communication: Faux pas,0,1
+308,Emotion: Atypical emotional reactions,1,1
+309,Belief: Sequence false beliefs,0,0
+310,Belief: Beliefs based action/emotions,1,0
+311,Emotion: Hidden emotions,0,1
+312,Non-Literal communication: White lies,0,1
+313,Non-Literal Communication: Faux pas,1,1
+314,Non-Literal Communication: Faux pas,1,1
+315,Emotion: Atypical emotional reactions,1,0
+316,Non-Literal Communication: Faux pas,1,1
+317,Intention: Intentions explanations,1,1
+318,Intention: Intentions explanations,1,1
+319,Belief: Location false beliefs,1,1
+320,Emotion: Atypical emotional reactions,1,1
+321,Belief: Content false beliefs,1,1
+322,Intention: Intentions explanations,1,1
+323,Belief: Content false beliefs,1,1
+324,Knowledge: Information-knowledge links,1,1
+325,Emotion: Atypical emotional reactions,0,0
+326,Non-Literal Communication: Faux pas,1,1
+327,Emotion: Hidden emotions,0,0
+328,Belief: Beliefs based action/emotions,0,0
+329,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+330,Belief: Content false beliefs,1,1
+331,Belief: Beliefs based action/emotions,1,1
+332,Emotion: Atypical emotional reactions,0,0
+333,Intention: Discrepant intentions,1,1
+334,Belief: Content false beliefs,1,1
+335,Belief: Content false beliefs,1,1
+336,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+337,Intention: Discrepant intentions,1,1
+338,Belief: Location false beliefs,1,1
+339,Non-Literal Communication: Faux pas,0,1
+340,Knowledge: Knowledge-pretend play links,0,1
+341,Emotion: Moral emotions,1,1
+342,Belief: Content false beliefs,1,1
+343,Non-Literal Communication: Faux pas,0,1
+344,Intention: Intentions explanations,1,1
+345,Intention: Intentions explanations,0,1
+346,Non-Literal Communication: Faux pas,1,1
+347,Intention: Intentions explanations,1,1
+348,Belief: Sequence false beliefs,1,1
+349,Belief: Identity false beliefs,1,1
+350,Intention: Intentions explanations,0,0
+351,Non-Literal communication: Egocentric lies,1,1
+352,Belief: Location false beliefs,1,1
+353,Belief: Location false beliefs,1,1
+354,Non-Literal Communication: Faux pas,1,1
+355,Non-Literal Communication: Faux pas,1,1
+356,Non-Literal Communication: Faux pas,1,1
+357,Non-Literal communication: Egocentric lies,0,1
+358,Desire: Desires influence on actions,0,1
+359,Non-Literal Communication: Faux pas,1,1
+360,Knowledge: Information-knowledge links,1,1
+361,Intention: Intentions explanations,0,1
+362,Knowledge: Information-knowledge links,0,1
+363,Belief: Beliefs based action/emotions,1,1
+364,Intention: Intentions explanations,1,1
+365,Belief: Content false beliefs,1,1
+366,Non-Literal communication: Egocentric lies,1,1
+367,Intention: Intentions explanations,1,1
+368,Intention: Intentions explanations,0,1
+369,Emotion: Emotion regulation,1,1
+370,Non-Literal Communication: Faux pas,0,0
+371,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+372,Desire: Desire-action contradiction,1,1
+373,Belief: Identity false beliefs,1,1
+374,Belief: Sequence false beliefs,1,1
+375,Knowledge: Knowledge-pretend play links,0,1
+376,Non-Literal communication: White lies,1,1
+377,Non-Literal Communication: Faux pas,1,1
+378,Belief: Location false beliefs,0,1
+379,Belief: Identity false beliefs,1,1
+380,Belief: Location false beliefs,1,1
+381,Emotion: Mixed emotions,0,0
+382,Belief: Beliefs based action/emotions,1,0
+383,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+384,Belief: Beliefs based action/emotions,1,1
+385,Non-Literal communication: White lies,1,1
+386,Intention: Intentions explanations,1,1
+387,Non-Literal communication: Humor,1,1
+388,Emotion: Typical emotional reactions,1,1
+389,Belief: Identity false beliefs,1,1
+390,Belief: Location false beliefs Belief: Second-order beliefs,0,1
+391,Non-Literal Communication: Faux pas,1,1
+392,Intention: Intentions explanations,0,1
+393,Non-Literal Communication: Faux pas,0,1
+394,Intention: Intentions explanations,1,0
+395,Knowledge: Information-knowledge links,0,1
+396,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+397,Non-Literal Communication: Faux pas,0,1
+398,Non-Literal Communication: Faux pas,1,1
+399,Desire: Desires influence on actions,0,0
+400,Knowledge: Knowledge-pretend play links,0,1
+401,Intention: Intentions explanations,1,1
+402,Belief: Beliefs based action/emotions,1,1
+403,Desire: Discrepant desires,0,1
+404,Non-Literal Communication: Faux pas,0,1
+405,Belief: Location false beliefs,1,1
+406,Belief: Location false beliefs,1,1
+407,Knowledge: Information-knowledge links,0,0
+408,Desire: Desire-action contradiction,0,1
+409,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+410,Non-Literal Communication: Faux pas,1,1
+411,Belief: Identity false beliefs,0,0
+412,Non-Literal Communication: Faux pas,0,0
+413,Non-Literal Communication: Faux pas,1,1
+414,Non-Literal Communication: Faux pas,1,0
+415,Knowledge: Information-knowledge links,1,0
+416,Non-Literal communication: White lies,0,0
+417,Knowledge: Information-knowledge links,0,1
+418,Belief: Location false beliefs,1,1
+419,Non-Literal Communication: Faux pas,1,0
+420,Belief: Content false beliefs,0,1
+421,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+422,Non-Literal Communication: Faux pas,0,1
+423,Emotion: Mixed emotions,0,1
+424,Non-Literal Communication: Faux pas,0,1
+425,Belief: Content false beliefs,1,1
+426,Non-Literal Communication: Faux pas,1,1
+427,Non-Literal Communication: Faux pas,1,1
+428,Non-Literal Communication: Faux pas,1,1
+429,Knowledge: Information-knowledge links,0,0
+430,Belief: Location false beliefs,1,1
+431,Belief: Sequence false beliefs,0,1
+432,Emotion: Hidden emotions,0,1
+433,Knowledge: Information-knowledge links,0,0
+434,Belief: Content false beliefs,0,1
+435,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+436,Non-Literal communication: White lies,1,1
+437,Intention: Prediction of actions,0,1
+438,Intention: Intentions explanations,1,1
+439,Non-Literal Communication: Faux pas,1,1
+440,Belief: Beliefs based action/emotions,1,1
+441,Non-Literal Communication: Faux pas,1,1
+442,Intention: Intentions explanations,0,0
+443,Non-Literal Communication: Faux pas,0,0
+444,Non-Literal Communication: Faux pas,0,1
+445,Desire: Desire-action contradiction,1,1
+446,Intention: Intentions explanations,0,1
+447,Knowledge: Information-knowledge links,1,1
+448,Non-Literal Communication: Faux pas,1,1
+449,Belief: Location false beliefs,1,1
+450,Intention: Intentions explanations,1,1
+451,Non-Literal Communication: Faux pas,1,1
+452,Belief: Location false beliefs,1,1
+453,Non-Literal Communication: Irony/Sarcasm,1,1
+454,Belief: Location false beliefs,0,1
+455,Non-Literal Communication: Faux pas,0,1
+456,Emotion: Moral emotions,1,1
+457,Emotion: Mixed emotions,1,0
+458,Belief: Beliefs based action/emotions,1,1
+459,Belief: Content false beliefs,0,1
+460,Non-Literal Communication: Faux pas,1,1
+461,Non-Literal Communication: Faux pas,1,1
+462,Emotion: Typical emotional reactions,1,1
+463,Desire: Discrepant desires,0,0
+464,Knowledge: Information-knowledge links,1,0
+465,Intention: Intentions explanations,1,0
+466,Belief: Content false beliefs,1,1
+467,Emotion: Discrepant emotions,1,0
+468,Non-Literal Communication: Involuntary lies,1,1
+469,Belief: Content false beliefs Belief: Second-order beliefs,0,1
+470,Belief: Content false beliefs,1,1
+471,Knowledge: Information-knowledge links,1,0
+472,Non-Literal Communication: Faux pas,1,0
+473,Desire: Desire-action contradiction,1,1
+474,Non-Literal Communication: Faux pas,0,1
+475,Intention: Intentions explanations,1,0
+476,Emotion: Atypical emotional reactions,0,0
+477,Intention: Discrepant intentions,1,1
+478,Desire: Desires influence on actions,0,0
+479,Emotion: Typical emotional reactions,1,1
+480,Non-Literal Communication: Faux pas,0,0
+481,Non-Literal Communication: Faux pas,1,1
+482,Non-Literal Communication: Faux pas,0,0
+483,Non-Literal communication: Egocentric lies,1,1
+484,Belief: Location false beliefs,1,1
+485,Emotion: Mixed emotions,0,1
+486,Desire: Desires influence on actions,0,0
+487,Intention: Intentions explanations,0,0
+488,Belief: Content false beliefs,0,1
+489,Belief: Content false beliefs,1,1
+490,Intention: Intentions explanations,0,1
+491,Desire: Desires influence on actions,0,0
+492,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+493,Non-Literal Communication: Faux pas,1,1
+494,Belief: Beliefs based action/emotions,1,0
+495,Emotion: Discrepant emotions,0,1
+496,Emotion: Moral emotions,1,1
+497,Emotion: Atypical emotional reactions,1,1
+498,Knowledge: Information-knowledge links,1,1
+499,Non-Literal Communication: Faux pas,1,0
+500,Non-Literal Communication: Faux pas,1,1
+501,Emotion: Typical emotional reactions,0,0
+502,Intention: Intentions explanations,0,1
+503,Intention: Discrepant intentions,0,0
+504,Belief: Content false beliefs,1,1
+505,Belief: Sequence false beliefs,1,1
+506,Intention: Intentions explanations,0,1
+507,Emotion: Mixed emotions,0,1
+508,Emotion: Atypical emotional reactions,1,1
+509,Belief: Location false beliefs Belief: Second-order beliefs,0,1
+510,Belief: Content false beliefs,1,1
+511,Belief: Beliefs based action/emotions,1,0
+512,Belief: Location false beliefs,0,0
+513,Non-Literal communication: White lies,1,1
+514,Belief: Beliefs based action/emotions,0,1
+515,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+516,Knowledge: Information-knowledge links,0,1
+517,Belief: Location false beliefs,1,1
+518,Non-Literal Communication: Irony/Sarcasm,1,1
+519,Belief: Sequence false beliefs,0,1
+520,Non-Literal Communication: Faux pas,0,1
+521,Belief: Location false beliefs,1,1
+522,Belief: Location false beliefs,1,1
+523,Belief: Content false beliefs,0,1
+524,Belief: Sequence false beliefs,1,1
+525,Knowledge: Knowledge-attention links,1,0
+526,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+527,Belief: Location false beliefs,1,1
+528,Emotion: Typical emotional reactions,1,1
+529,Desire: Desire-action contradiction,0,0
+530,Emotion: Emotion regulation,1,0
+531,Knowledge: Percepts-knowledge links,1,1
+532,Emotion: Atypical emotional reactions,0,0
+533,Belief: Location false beliefs,1,1
+534,Non-Literal Communication: Faux pas,0,1
+535,Non-Literal Communication: Involuntary lies,1,1
+536,Belief: Location false beliefs,1,1
+537,Non-Literal communication: White lies,1,1
+538,Belief: Location false beliefs,0,1
+539,Desire: Desires influence on emotions (beliefs),1,1
+540,Emotion: Hidden emotions,1,1
+541,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+542,Belief: Content false beliefs,1,1
+543,Emotion: Mixed emotions,1,0
+544,Non-Literal communication: Egocentric lies,1,1
+545,Non-Literal Communication: Faux pas,1,1
+546,Emotion: Mixed emotions,0,0
+547,Intention: Completion of failed actions,0,0
+548,Knowledge: Percepts-knowledge links,1,1
+549,Belief: Location false beliefs,1,1
+550,Emotion: Hidden emotions,0,0
+551,Intention: Intentions explanations,1,1
+552,Non-Literal Communication: Irony/Sarcasm,0,0
+553,Non-Literal Communication: Faux pas,1,1
+554,Belief: Content false beliefs,0,1
+555,Non-Literal Communication: Irony/Sarcasm,1,1
+556,Belief: Sequence false beliefs,0,1
+557,Non-Literal Communication: Faux pas,1,1
+558,Desire: Desires influence on actions,0,1
+559,Belief: Content false beliefs,0,1
+560,Intention: Intentions explanations,1,1
+561,Emotion: Typical emotional reactions,1,1
+562,Desire: Desires influence on emotions (beliefs),0,0
+563,Belief: Content false beliefs,0,1
+564,Desire: Desires influence on emotions (beliefs),0,0
+565,Belief: Sequence false beliefs,1,1
+566,Non-Literal Communication: Faux pas,1,0
+567,Non-Literal communication: Egocentric lies,1,1
+568,Belief: Location false beliefs,1,1
+569,Intention: Intentions explanations,1,0
+570,Belief: Sequence false beliefs,0,0
+571,Desire: Desire-action contradiction,1,1
+572,Emotion: Discrepant emotions,1,1
+573,Knowledge: Information-knowledge links,0,0
+574,Emotion: Atypical emotional reactions,1,0
+575,Intention: Intentions explanations,1,1
+576,Emotion: Atypical emotional reactions,0,0
+577,Desire: Desires influence on actions,0,0
+578,Non-Literal communication: Humor,1,1
+579,Emotion: Atypical emotional reactions,0,1
+580,Non-Literal Communication: Faux pas,0,0
+581,Belief: Content false beliefs,1,1
+582,Knowledge: Information-knowledge links,0,0
+583,Knowledge: Knowledge-pretend play links,0,1
+584,Emotion: Hidden emotions,0,0
+585,Belief: Location false beliefs,1,1
+586,Non-Literal communication: Humor,1,1
+587,Belief: Beliefs based action/emotions,1,1
+588,Belief: Location false beliefs,1,1
+589,Intention: Intentions explanations,1,1
+590,Belief: Location false beliefs,1,1
+591,Belief: Content false beliefs,1,1
+592,Belief: Content false beliefs,1,1
+593,Non-Literal communication: White lies,1,1
+594,Emotion: Hidden emotions,1,1
+595,Non-Literal Communication: Faux pas,0,1
+596,Belief: Location false beliefs,1,1
+597,Emotion: Typical emotional reactions,1,0
+598,Emotion: Typical emotional reactions,1,0
+599,Intention: Intentions explanations,1,1
+600,Non-Literal Communication: Irony/Sarcasm,1,1
+601,Belief: Content false beliefs,1,1
+602,Emotion: Hidden emotions,1,1
+603,Belief: Content false beliefs,0,1
+604,Non-Literal Communication: Faux pas,0,0
+605,Intention: Intentions explanations,0,1
+606,Non-Literal Communication: Faux pas,1,1
+607,Emotion: Hidden emotions,0,0
+608,Belief: Sequence false beliefs,0,0
+609,Non-Literal Communication: Faux pas,1,1
+610,Belief: Location false beliefs,1,1
+611,Knowledge: Percepts-knowledge links,1,1
+612,Knowledge: Information-knowledge links,0,1
+613,Belief: Content false beliefs,1,1
+614,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+615,Emotion: Mixed emotions,0,0
+616,Non-Literal Communication: Faux pas,0,1
+617,Knowledge: Information-knowledge links,0,0
+618,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+619,Non-Literal communication: Humor,1,1
+620,Belief: Identity false beliefs,0,1
+621,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+622,Emotion: Moral emotions,0,0
+623,Non-Literal Communication: Faux pas,0,0
+624,Belief: Beliefs based action/emotions,0,1
+625,Belief: Sequence false beliefs,0,1
+626,Non-Literal Communication: Faux pas,0,1
+627,Belief: Beliefs based action/emotions,1,0
+628,Knowledge: Information-knowledge links,0,1
+629,Intention: Intentions explanations,1,1
+630,Emotion: Atypical emotional reactions,0,0
+631,Emotion: Discrepant emotions,0,0
+632,Non-Literal Communication: Faux pas,0,1
+633,Non-Literal Communication: Faux pas,1,1
+634,Intention: Intentions explanations,1,1
+635,Belief: Location false beliefs Belief: Second-order beliefs,0,1
+636,Belief: Location false beliefs,1,1
+637,Knowledge: Information-knowledge links,1,1
+638,Intention: Intentions explanations,1,1
+639,Intention: Intentions explanations,1,1
+640,Emotion: Typical emotional reactions,1,1
+641,Emotion: Hidden emotions,1,1
+642,Desire: Desires influence on emotions (beliefs),1,1
+643,Desire: Desires influence on actions,1,0
+644,Intention: Intentions explanations,1,1
+645,Non-Literal Communication: Faux pas,0,1
+646,Knowledge: Knowledge-pretend play links,0,1
+647,Desire: Desires influence on actions,0,0
+648,Belief: Location false beliefs,1,1
+649,Non-Literal Communication: Faux pas,1,1
+650,Emotion: Atypical emotional reactions,1,0
+651,Belief: Identity false beliefs,1,1
+652,Non-Literal Communication: Faux pas,0,0
+653,Belief: Location false beliefs Belief: Second-order beliefs,0,1
+654,Non-Literal Communication: Faux pas,1,1
+655,Knowledge: Percepts-knowledge links,1,1
+656,Non-Literal Communication: Faux pas,1,0
+657,Belief: Location false beliefs Belief: Second-order beliefs,0,1
+658,Knowledge: Knowledge-pretend play links,0,1
+659,Non-Literal Communication: Involuntary lies,1,1
+660,Intention: Intentions explanations,1,1
+661,Belief: Sequence false beliefs,0,0
+662,Intention: Intentions explanations,1,0
+663,Emotion: Hidden emotions,1,1
+664,Non-Literal Communication: Faux pas,0,0
+665,Belief: Content false beliefs,0,1
+666,Knowledge: Percepts-knowledge links,1,1
+667,Non-Literal Communication: Faux pas,1,1
+668,Belief: Sequence false beliefs,0,0
+669,Belief: Beliefs based action/emotions,1,1
+670,Emotion: Atypical emotional reactions,1,1
+671,Emotion: Hidden emotions,0,1
+672,Knowledge: Information-knowledge links,0,1
+673,Desire: Discrepant desires,1,1
+674,Desire: Desires influence on actions,0,0
+675,Belief: Beliefs based action/emotions,1,1
+676,Emotion: Typical emotional reactions,1,1
+677,Knowledge: Knowledge-pretend play links,0,1
+678,Belief: Content false beliefs,1,1
+679,Emotion: Typical emotional reactions,1,1
+680,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+681,Emotion: Hidden emotions,1,1
+682,Non-Literal Communication: Faux pas,1,1
+683,Non-Literal communication: Humor,1,1
+684,Intention: Intentions explanations,1,1
+685,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+686,Intention: Intentions explanations,0,1
+687,Intention: Intentions explanations,1,1
+688,Non-Literal communication: Egocentric lies,1,1
+689,Knowledge: Percepts-knowledge links,1,1
+690,Belief: Content false beliefs,1,1
+691,Emotion: Typical emotional reactions,1,1
+692,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+693,Emotion: Moral emotions,0,0
+694,Knowledge: Information-knowledge links,1,1
+695,Non-Literal Communication: Faux pas,1,1
+696,Knowledge: Information-knowledge links,0,1
+697,Emotion: Discrepant emotions,1,1
+698,Emotion: Mixed emotions,0,0
+699,Non-Literal Communication: Faux pas,1,1
+700,Non-Literal Communication: Faux pas,0,1
+701,Emotion: Hidden emotions,1,1
+702,Non-Literal Communication: Faux pas,0,1
+703,Desire: Desires influence on actions,0,0
+704,Intention: Intentions explanations,0,0
+705,Non-Literal Communication: Faux pas,1,1
+706,Knowledge: Information-knowledge links,0,0
+707,Belief: Sequence false beliefs,1,1
+708,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+709,Non-Literal communication: White lies,1,1
+710,Knowledge: Information-knowledge links,1,1
+711,Emotion: Atypical emotional reactions,0,1
+712,Intention: Intentions explanations,0,0
+713,Non-Literal Communication: Faux pas,1,0
+714,Non-Literal communication: Humor,1,1
+715,Emotion: Typical emotional reactions,1,1
+716,Intention: Intentions explanations,1,1
+717,Belief: Beliefs based action/emotions,1,1
+718,Belief: Content false beliefs,0,1
+719,Emotion: Atypical emotional reactions,0,1
+720,Non-Literal Communication: Faux pas,1,1
+721,Emotion: Atypical emotional reactions,0,0
+722,Belief: Location false beliefs,1,1
+723,Emotion: Typical emotional reactions,1,1
+724,Non-Literal Communication: Faux pas,0,1
+725,Non-Literal Communication: Faux pas,0,1
+726,Belief: Location false beliefs,1,1
+727,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+728,Non-Literal Communication: Faux pas,1,1
+729,Belief: Location false beliefs,1,1
+730,Belief: Content false beliefs,0,1
+731,Non-Literal Communication: Faux pas,0,0
+732,Non-Literal Communication: Involuntary lies,1,1
+733,Belief: Content false beliefs,1,1
+734,Intention: Intentions explanations,0,1
+735,Belief: Content false beliefs,1,1
+736,Desire: Multiple desires,0,0
+737,Non-Literal Communication: Faux pas,1,1
+738,Belief: Sequence false beliefs,0,0
+739,Belief: Beliefs based action/emotions,1,1
+740,Belief: Beliefs based action/emotions,1,1
+741,Non-Literal Communication: Faux pas,1,1
+742,Intention: Intentions explanations,0,0
+743,Desire: Desires influence on actions,0,0
+744,Non-Literal Communication: Faux pas,0,1
+745,Non-Literal Communication: Faux pas,1,0
+746,Belief: Beliefs based action/emotions,0,0
+747,Emotion: Typical emotional reactions,0,0
+748,Knowledge: Percepts-knowledge links,1,1
+749,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+750,Emotion: Mixed emotions,0,0
+751,Knowledge: Information-knowledge links,0,1
+752,Non-Literal Communication: Faux pas,1,1
+753,Emotion: Hidden emotions,1,1
+754,Intention: Intentions explanations,1,1
+755,Belief: Beliefs based action/emotions,0,0
+756,Intention: Prediction of actions,1,1
+757,Non-Literal Communication: Faux pas,1,1
+758,Belief: Beliefs based action/emotions,0,1
+759,Belief: Sequence false beliefs,0,1
+760,Non-Literal Communication: Involuntary lies,1,1
+761,Non-Literal Communication: Faux pas,1,1
+762,Belief: Sequence false beliefs,0,1
+763,Knowledge: Information-knowledge links,0,1
+764,Non-Literal communication: Egocentric lies,1,1
+765,Emotion: Hidden emotions,1,1
+766,Intention: Intentions explanations,1,1
+767,Belief: Location false beliefs Belief: Second-order beliefs,0,1
+768,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+769,Belief: Location false beliefs,1,1
+770,Emotion: Mixed emotions,0,0
+771,Intention: Discrepant intentions,1,1
+772,Non-Literal Communication: Faux pas,0,0
+773,Knowledge: Information-knowledge links,0,0
+774,Belief: Sequence false beliefs,1,1
+775,Belief: Location false beliefs,1,1
+776,Emotion: Atypical emotional reactions,0,0
+777,Intention: Intentions explanations,1,1
+778,Belief: Content false beliefs,0,1
+779,Non-Literal Communication: Faux pas,1,0
+780,Emotion: Typical emotional reactions,1,1
+781,Emotion: Atypical emotional reactions,1,0
+782,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+783,Belief: Location false beliefs,1,0
+784,Emotion: Atypical emotional reactions,1,1
+785,Belief: Beliefs based action/emotions,0,0
+786,Belief: Beliefs based action/emotions,1,1
+787,Belief: Location false beliefs,1,1
+788,Belief: Content false beliefs,1,1
+789,Non-Literal Communication: Faux pas,0,1
+790,Knowledge: Knowledge-attention links,0,0
+791,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+792,Non-Literal Communication: Faux pas,1,1
+793,Intention: Completion of failed actions,0,0
+794,Belief: Location false beliefs Belief: Second-order beliefs,1,1
+795,Emotion: Hidden emotions,0,0
+796,Intention: Discrepant intentions,1,1
+797,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+798,Emotion: Typical emotional reactions,1,1
+799,Belief: Beliefs based action/emotions,0,1
+800,Non-Literal Communication: Faux pas,0,1
+801,Non-Literal Communication: Involuntary lies,1,1
+802,Emotion: Typical emotional reactions,1,1
+803,Non-Literal communication: Humor,1,1
+804,Belief: Content false beliefs,1,1
+805,Belief: Location false beliefs,1,1
+806,Non-Literal Communication: Faux pas,1,1
+807,Non-Literal Communication: Faux pas,1,1
+808,Belief: Sequence false beliefs,0,0
+809,Non-Literal communication: Humor,1,1
+810,Belief: Location false beliefs,0,1
+811,Belief: Location false beliefs Belief: Second-order beliefs,0,1
+812,Desire: Desires influence on actions,1,0
+813,Non-Literal Communication: Involuntary lies,1,1
+814,Belief: Beliefs based action/emotions,0,1
+815,Non-Literal Communication: Faux pas,1,0
+816,Desire: Desire-action contradiction,0,1
+817,Non-Literal Communication: Faux pas,1,1
+818,Non-Literal Communication: Faux pas,0,0
+819,Belief: Sequence false beliefs,0,0
+820,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+821,Knowledge: Information-knowledge links,0,0
+822,Intention: Intentions explanations,0,0
+823,Knowledge: Information-knowledge links,0,0
+824,Intention: Intentions explanations,1,0
+825,Belief: Location false beliefs,1,0
+826,Belief: Beliefs based action/emotions,1,1
+827,Belief: Content false beliefs,1,1
+828,Belief: Content false beliefs,1,1
+829,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+830,Knowledge: Information-knowledge links,0,1
+831,Non-Literal Communication: Involuntary lies,0,1
+832,Emotion: Discrepant emotions,1,1
+833,Knowledge: Information-knowledge links,0,1
+834,Non-Literal Communication: Faux pas,0,1
+835,Emotion: Typical emotional reactions,0,1
+836,Non-Literal Communication: Faux pas,1,1
+837,Emotion: Hidden emotions,0,0
+838,Desire: Desires influence on actions,1,1
+839,Emotion: Discrepant emotions,1,0
+840,Belief: Content false beliefs Belief: Second-order beliefs,1,1
+841,Non-Literal Communication: Faux pas,1,1

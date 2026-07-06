@@ -1,0 +1,1018 @@
+source,task,category,ability,answer,pred,raw,correct
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,D,[[D]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,A,"Based on the story provided, none of the given answers directly",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,A,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,C,[[C]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[X] [[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,B,"[[B]]
+The story clearly states that Xiao Hong opens the",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,C,"[[C]]
+The other answers can be identified as follows:
+",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[X] [[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,B,[[B]],0
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,A,[[A]],0
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,D,[[D]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,A,[[A]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,C,"[C]
+The story indicates that Mrs. Wu and her family",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,C,[[C]],0
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,D,[X] [[D]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Multiple Desires,Desire,Desire: Multiple desires,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,C,C,[[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,C,"[[C]]
+The story states that initially, there were ",0
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,A,[[A]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]
+",1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,A,[X] [[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,A,"[[A]]
+The solution is derived from deductive reasoning based",0
+ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,B,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,B,"[[B]]
+The story clearly states that Xiao Ming opens the",0
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,C,[[C]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,"[[B]]
+The story suggests that Zhang Meng feels betrayed because",1
+ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D,A,"[[A]]
+It seems unlikely that Anming's mother would",0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,"[[B]]
+The story states that Xiao Bei moved the jacket",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,D,[[D]],0
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[X] [[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,A,"[X]
+[[A]]
+[[D]]",0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,D,[[D]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,D,[X] [[D]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D,D,[[D]],1
+ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,D,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,"[[C]]
+The story states that Aunt Li says ""most",0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,A,[[A]],1
+ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,C,C,"[[C]]
+The story indicates that Xiao Fang can see the",1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,D,[X] [[D]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,B,[[B]],0
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C,C,[[C]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,D,[X] [[D]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,"[[C]]
+[Xiao Ming] initially saw the box and",1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,D,[X] [[D]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,"[[C]]
+The story clearly states that the label on the",1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,A,"[[A]]
+Explanation: The total number of letters to be",0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,A,[[A]],0
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,C,[[C]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,A,"[X] [[A]]
+[X] [[B]]",0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[X] [[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,A,"[[A]]
+The story states that Xiao Bei finds a cup",0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,"[[B]]
+The story clearly states that the label on the",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,A,[[A]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,"[[B]]
+Explanation: Xiao Hong acknowledges that Xiao Lan is",1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,A,"[[A]]
+Explanation: Initially, the sweatshirt was found",0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,"[[C]]
+The story clearly states that the storage locker's",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,"[[B]]
+
+The story clearly states that Manager Zhao prefers light",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,C,"[C]
+The story focuses on Xiao Li trying to make her",1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,"[[A]]
+The story states that Xiao Ming moved the sponge",1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,"[[D]]
+Explanation: The story states that the storage cabinet",1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,D,[X] [[D]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,"[[A]]
+Explanation: The story states that the briefcase",1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,D,[[D]],0
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,"[[B]]
+The story states that ""Xiao Bei and",1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,"[[D]]
+The story states that ""Xiao Ming and",1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[X] [[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D,D,[[D]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,C,[[C]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,A,[[A]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,B,"[[B]]
+The explanation for this answer is as follows:",0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,A,[X] [[A]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]
+",0
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,"[[B]]
+Explanation: Initially, Xiao Li moved the hat",1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,B,"[[B]]
+The story states that there are 20",0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,"[[C]]
+Explanation: Initially, the sales manager believes that",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,"[[D]]
+The story states that ""Han Meimei and",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,A,C,[[C]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,"[[B]]
+[[C]]",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[X],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,B,[B],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,"[[B]]
+The story states that Xiao Hong and Youyou",1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,B,B,[[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[X] [[B]],1
+ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,"[[C]]
+The story explicitly states that the label on the",1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,C,[X] [[C]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,E,[E],0
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,C,[[C]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C,C,[[C]],1
+ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,C,C,[[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,"[[C]]
+The explanation for this answer is as follows:",0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[X] [[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,"[[B]]
+
+The story indicates that Mrs. Wang originally hoped",1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,C,[X] [[C]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,C,[[C]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,B,[[B]],0
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,B,[[B]],0
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,C,[[C]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[X] [[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,"[[C]]
+The explanation for this answer is as follows:
+",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[X] [[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,D,[X] [[D]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,[B],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,B,"[[B]]
+[[C]]
+[[D]]
+[[A]]
+",0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,C,[[C]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,B,[[B]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[X] [[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,D,[[D]],0
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,A,[X] [[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[X] [[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,B,[[B]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,B,[[B]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,A,"[[A]]
+The story indicates that Sanming receives a document",0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,C,[X] [[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,"[[A]]
+The story clearly states that the handbag originally",1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,C,[[C]],0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,C,[[C]],0
+ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,"[[D]]
+The story states that the shop owner believes """,1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,"[[D]]
+The story states that Zhang Wei finds a sweater",1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,"[[B]]
+Explanation: Wang Ting says that the certificate is",1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,B,"[[B]]
+[[C]]",0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[B],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,A,[[A]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,B,[[B]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,A,"[[A]]
+Explanation: Initially, the lab assistant says that",0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,E,"[X]
+[E] [[E]]",0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,D,[[D]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,A,[[A]],1
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,C,[[C]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,A,"[[A]]
+The waiter knows that most customers like Sich",1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,"[[B]]
+Explanation: According relatable information from the story",1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D,B,[B],0
+ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,D,A,"[[A]]
+Explanation: Given that Chen Chen is a fitness",0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,"[[B]]
+[[C]]",0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,"[X]
+[[B]]",1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,D,[[D]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D,E,[E],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[X] [[D]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,"[[B]]
+The story indicates that Wang Lei is worried about",1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,"[[C]]
+The story indicates that Zhang Rong is looking",1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,B,"[[B]]
+The story indicates that community residents praised Zhang Wei",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,B,[[B]],0
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,D,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,"[[A]]
+The story states that the safe originally had a",1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,C,[[C]],0
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,A,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[X] [[A]],1
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[B],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,"[[D]]
+The story states that Han Meimei moved the",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,A,C,[[C]],0
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,D,D,[X] [[D]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,B,[[B]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,"[[B]]
+Explanation: Professor Wang says he is preparing a",1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[X] [[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,E,[E],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,A,[[A]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,A,[[A]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,A,"[[A]]
+Explanation: The total number of different types of",0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,D,[[D]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,A,[[A]],0
+ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,"[[B]]
+The story states that Xiao Li moved the rain",1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,D,[[D]],1
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,A,[[A]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,A,"[[A]]
+The story states that ""Xiao Li and",0
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[X] [[D]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,D,A,[X] [[A]] [[B]] [[C]] [[,0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,"[[B]]
+The story states that the handbag's label",1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,D,D,[[D]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,A,"[[A]]
+The story states that Xiao Ming moved the marker",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[X] [[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,"[[B]]
+[[C]]",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,A,[[A]],0
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C,A,[[A]],0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,B,C,"[[C]]
+The most likely answer is C because Chen Ming",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,"[[C]]
+The story states that Li Lei moved the beet",1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,C,[[C]],0
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,D,C,[X] [[C]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,D,[[D]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,A,D,[X] [[D]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,"[[B]]
+Explanation: Xiao Wang knows that out of the",0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,D,[[D]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[X] [[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,A,[[A]],0
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,C,[[C]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,B,"[[B]]
+The story states that there are almost half of",0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,C,"[[C]]
+The story clearly states that Xiao Ming found a",0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,B,A,[[A]],0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,D,[X] [[D]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[X] [[A]],0
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,A,[[A]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,"[[A]]
+The sentence ""I hear the company is going",1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[X] [[D]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,"[[D]]
+The story states that ""Xiao Ming and",1
+ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,B,[X] [[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,A,[[A]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1
+ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,C,B,"[[B]]
+The story indicates that Liu Fang is a photography",0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,"[[C]]
+The answer is C because the total number of",1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C,C,"[C]
+The wife uses the phrase ""the prime minister's",1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,B,B,"[[B]]
+The other members of the basketball team might feel",1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,A,"[[A]]
+The story states that Youyou initially thought there",0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[X] [[C]],1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,B,[[B]],0
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,B,[B],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,D,"[[D]]
+Explanation: The story indicates that Manager Li has",0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,D,[X] [[D]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,B,[[B]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,E,[E],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,C,"[[C]]
+The story states that Zhang Wei moved the sweater",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,C,[[C]],0
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,C,[[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,"[[C]]
+The answer is C because the total number of",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,C,[[C]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,B,[[B]],0
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,E,"[E]
+The candidate answer E, ""Chris possibly thinks Sam",0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,C,[[C]],0
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,"[[C]]
+The suitcase originally had a label that said """,1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,A,[[A]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,"[[A]]
+The story explicitly states that the suitcase's label",1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,A,"[[A]]
+The story states that there are 20",0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,"[X]
+A [[A]]",1
+ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,E,[E],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[X] [[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,B,"[[B]]
+Explanation: The story states that the label on",0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,D,[[D]],1
+ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,"[[B]]
+The story states that Xiao Hong moved the z",1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A,B,[[B]],0
+ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,D,D,[[D]],1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,C,"[[C]]
+The story indicates that Zhang Wei accidentally spilled the",0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,A,[X] [[A]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),A,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,"[[A]]
+The story states that the label on the storage",1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,"[[B]]
+Explanation: The story explicitly states that Miss Zhou",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0
+ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,D,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",0
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,C,"[[C]]
+The story suggests that Feifei is trying",0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,D,[[D]],0
+ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D,D,[[D]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,C,"[[C]]
+The provided story doesn't explicitly mention Xiao Hong",0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,C,[[C]],0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,A,[X] [[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,C,"[[C]]
+The story clearly states that Xiao Wang finds corn",0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),B,A,"Based on the story provided, Xiao Li's approach to convincing",0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,D,[[D]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,"[[B]]
+[[C]]",0
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,D,D,[[D]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,D,[[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,"[[B]]
+Explanation: Initially, there are 15",0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,D,[[D]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,C,"[[C]]
+The story mentions that Mr. Li's long",0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,C,[[C]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,A,[[A]],0
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,"[[B]]
+The story states that ""Xiao Hong and",1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[X] [[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,"[[B]]
+The story clearly states that the briefcase was",1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,D,[X] [[D]],1
+ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,A,"[[A]]
+The story explicitly states that Li Lei found a",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,B,[[B]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,"[[B]]
+The story doesn't mention any pest issues or",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[X] [[D]],1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,"[[C]]
+[[D]]",1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,"[[A]]
+The story explicitly states that the suitcase's label",1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,"[[B]]
+Explanation: In the story, Liu Na initially",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D,E,[E],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,"[[A]]
+The backpack that Han Meimei found initially was",1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,A,[X] [[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,D,[[D]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[X] [[A]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,C,[X] [[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,A,"[[A]]
+The story states that there are 50",0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,C,[[C]],0
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,B,[X] [[B]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,"[[B]]
+Explanation: Initially, Xiao Liu mentioned there were",1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,B,[B] [[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,D,[[D]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),B,B,[[B]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[X] [[A]] [[D]],0
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,A,[[A]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,D,[[D]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,"[[C]]
+[[C]]",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[X] [[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,C,[[C]],1
+ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,C,[X] [[C]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,A,"[[A]]
+The story states that Xiao Ming moved the marker",0
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,A,[[A]],0
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,A,"[[A]]
+[[C]]",0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,C,[[C]],0
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,A,[[A]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[B],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,B,[[B]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,A,"[[A]]
+The waitress mentioned that the menu has 5",0
+ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,D,D,[X] [[D]],1
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,D,[X] [[D]],0
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,A,[[A]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,"[[B]]
+The story states that Youyou moved the mask",1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A,D,"[X]
+[[D]]",0
+ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,B,"[[B]]
+The classmate's comment is clearly meant to",1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,"[[B]]
+The story clearly states that ""there is no",1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,"[[A]]
+The story states that Xiao Red moved the bananas",1
+ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,D,[X] [[D]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,D,[[D]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,E,[E],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,B,[B],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,D,"[[D]]
+The story states that initially, there were ",0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,"[[C]]
+The story describes Li Qiang being so immersed",1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,C,C,[X] [[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,"[[C]]
+Explanation: Initially, the lab assistant says that",1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,D,[[D]],0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,B,[B],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[B],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,A,"[[A]]
+The story states that the safe originally had a",0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,A,"[[A]]
+The story mentions that Zhao Li accidentally finds the",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[X] [[A]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,"[[B]]
+The story states that Han Meimei moved the",1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,B,"[[B]]
+The story states that Xiao Li enters the waiting",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[X] [[B]],0
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,"[[B]]
+The story states that Xiao Hong opened the brief",1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,A,[X],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1
+ToMBench,Multiple Desires,Desire,Desire: Multiple desires,B,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,B,[[B]],0
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,"[[B]]
+The story indicates that Andy exaggerated his political achievements",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,C,[[C]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[X] [[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,C,[X] [[C]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,A,[[A]],0
+ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[X] [[A]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,B,C,[[C]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,A,"[[A]]
+Explanation: The total number of students is ",0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,A,[[A]],0
+ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,A,A,[[A]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,A,[[A]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,A,[[A]],0
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,C,[[C]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,B,[[B]],0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,C,[[C]],1
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,C,[X] [[C]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,"[[B]]
+[[B]] [[B]] [[B]]",1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[X] [[D]],1
+ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[B],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,A,[[A]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,"[[C]]
+The story states that Li Lei and Han Me",1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,B,[[B]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,A,[[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,C,"[[C]]
+The most likely answer is that Aunt Yang would",1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[X] [[A]] [[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,A,[[A]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",0
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0
+ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,A,B,[[B]],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,A,C,"[[C]]
+The most likely answer is C because it align",0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,"[[B]]
+[[B]]",1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,D,[[D]],0
+ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,"[[B]]
+The story states that Sam accidentally added a wrong",1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1
+ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,A,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[B],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,"[[B]]
+The story states that ""Youyou and Li",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",0
+ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,C,[X] [[C]],0
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,A,[[A]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,A,[[A]],1
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,D,[[D]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,A,[X] [[A]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,D,[[D]],0
+ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,C,[C],0
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,A,"[[A]]
+The explanation for this answer is as follows:",0
+ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A,B,[B],0
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0
+ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1
+ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,[[D]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,"[[C]]
+The explanation for this answer is as follows:",0
+ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,A,[[A]],0
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,A,[[A]],1
+ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,B,[[B]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0
+ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,C,[[C]],0
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1
+ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,B,[[B]],0
+ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,B,[[B]],1
+ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,C,[[C]],1
+ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,"[[B]]
+The story clearly states that the label on the",1
+ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1

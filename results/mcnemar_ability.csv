@@ -1,0 +1,34 @@
+ability,N,base,ours,delta,b,c,p,sig
+Knowledge: Knowledge-pretend play links,9,11.1,100.0,88.9,0,8,0.0078125,**
+Intention: Prediction of actions,4,25.0,75.0,50.0,0,2,0.5,
+Belief: Content false beliefs,60,63.3,96.7,33.3,2,22,3.5881996154785156e-05,**
+Knowledge: Information-knowledge links,60,33.3,65.0,31.7,4,23,0.000310748815536499,**
+Belief: Sequence false beliefs,30,33.3,60.0,26.7,0,8,0.0078125,**
+Belief: Location false beliefs Belief: Second-order beliefs,30,70.0,96.7,26.7,0,8,0.0078125,**
+Non-Literal communication: Egocentric lies,12,75.0,100.0,25.0,0,3,0.25,
+Desire: Multiple desires,4,50.0,75.0,25.0,0,1,1.0,
+Desire: Discrepant desires,4,25.0,50.0,25.0,0,1,1.0,
+Non-Literal Communication: Faux pas,168,60.7,78.0,17.3,14,43,0.0001538890224443423,**
+Non-Literal communication: White lies,12,75.0,91.7,16.7,0,2,0.5,
+Non-Literal Communication: Involuntary lies,12,83.3,100.0,16.7,0,2,0.5,
+Non-Literal Communication: Irony/Sarcasm,6,66.7,83.3,16.7,0,1,1.0,
+Intention: Intentions explanations,78,61.5,75.6,14.1,6,17,0.03468966484069824,*
+Emotion: Hidden emotions,24,50.0,62.5,12.5,0,3,0.25,
+Belief: Location false beliefs,60,85.0,95.0,10.0,2,8,0.109375,
+Desire: Desires influence on actions,23,21.7,30.4,8.7,3,5,0.7265625,
+Emotion: Mixed emotions,12,25.0,33.3,8.3,2,3,1.0,
+Desire: Desire-action contradiction,12,58.3,66.7,8.3,1,2,1.0,
+Belief: Content false beliefs Belief: Second-order beliefs,30,93.3,100.0,6.7,0,2,0.5,
+Belief: Beliefs based action/emotions,43,65.1,65.1,0.0,6,6,1.0,
+Belief: Identity false beliefs,12,83.3,83.3,0.0,1,1,1.0,
+Emotion: Moral emotions,12,66.7,66.7,0.0,0,0,1.0,
+Intention: Completion of failed actions,4,25.0,25.0,0.0,0,0,1.0,
+Desire: Desires influence on emotions (beliefs),5,60.0,60.0,0.0,0,0,1.0,
+Knowledge: Percepts-knowledge links,12,100.0,100.0,0.0,0,0,1.0,
+Emotion: Typical emotional reactions,30,86.7,86.7,0.0,2,2,1.0,
+Non-Literal communication: Humor,12,100.0,100.0,0.0,0,0,1.0,
+Intention: Discrepant intentions,12,75.0,75.0,0.0,1,1,1.0,
+Emotion: Atypical emotional reactions,30,50.0,43.3,-6.7,6,4,0.75390625,
+Emotion: Discrepant emotions,12,50.0,41.7,-8.3,2,1,1.0,
+Emotion: Emotion regulation,4,75.0,25.0,-50.0,2,0,0.5,
+Knowledge: Knowledge-attention links,4,75.0,25.0,-50.0,2,0,0.5,

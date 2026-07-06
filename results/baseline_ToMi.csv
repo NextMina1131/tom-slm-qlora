@@ -1,0 +1,1244 @@
+source,task,category,ability,answer,pred,raw,correct
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The most likely answer is C because Lily moved",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Nathan moved the raincoat",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The most likely answer is B because after James",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that ""Hannah moved the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,"[[B]]
+Explanation: From the story, we can see",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,C,"[[C]]
+The story states that Mila moved the spinach",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,"[[A]]
+[[B]]",0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[X] [[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,D,"[[D]]
+The story states that James moved the plum to",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[X] [[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,B,"[[B]]
+The story states that ""The orange is in",0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Ava moved the lettuce from",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,"[[A]]
+The story does not mention any cupboard or envelope",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The story states that ""James moved the scarf",0
+ToMi,location-belief,Belief,Location False Beliefs,C,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The most likely answer is B because the story",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states ""The gloves is in the",1
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,D,"[[D]]
+The story states that Hunter moved the pants from",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,"[[A]]
+[[B]] is incorrect because Benjamin moved the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Amelia moved the boots to",1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,"[[B]]
+The story states that Lucas moved the corn from",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The story states that Mason moved the radish",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The most likely answer is C because the story",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The most likely answer is C, because Elizabeth",0
+ToMi,location-belief,Belief,Location False Beliefs,B,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The most likely answer is C, as Alexander",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that Sophia moved the cabbage from",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,"[[B]]
+The story states ""The slacks is in",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The story states that ""The underpants is",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that ""Elizabeth moved the unders",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[X] [[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that Ethan moved the dress from",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,D,"[[D]]
+The story states that Carter moved the carrot to",0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that ""The celery is in",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,"[[B]]
+[[C]]",0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Noah moved the sweatshirt",1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[X] [[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,A,"[[A]]
+The story states that Olivia moved the pants to",0
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that Lucas moved the peach to",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,D,"[[D]]
+Explanation: Initially, the hat was in the",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+[[B]] is the correct answer based on",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Carter moved the pear to",1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that Hannah moved the jeans from",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[X] [[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The most likely answer is that Ella will look",1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The most likely answer is B because Isabella",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The most likely answer is C, as Elizabeth",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The lime is in the box which is mentioned",0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The most likely answer is C because initially the",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,"[[A]]
+The story states ""Jayden moved the mel",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The lime was initially in the treasure_chest",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that ""Nathan exited the",1
+ToMi,location-belief,Belief,Location False Beliefs,A,D,[[D]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that ""Lily moved the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states ""Alexander moved the pants to",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,"[[B]]
+Explanation: Mason dislikes the socks, which implies",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,C,"[[C]]
+The most likely answer is C because Jacob moved",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The shirt was moved by Alexander from the envelope",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that ""Hannah moved the",1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,"[[B]]
+Explanation: In the story, it is mentioned",0
+ToMi,location-belief,Belief,Location False Beliefs,B,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[X] [[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,D,"[[D]]
+The story states that Ethan moved the slippers",0
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+[[D]]",0
+ToMi,location-belief,Belief,Location False Beliefs,B,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The lettuce was initially described as being ""in",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,"[[B]]
+[[C]]
+[[D]]
+[[A]]
+",0
+ToMi,location-belief,Belief,Location False Beliefs,A,B,"[[B]]
+[[C]]
+[[D]]
+The most likely",0
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The story states that Oliver loves the carrot and",0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states ""Benjamin moved the rad",1
+ToMi,location-belief,Belief,Location False Beliefs,A,E,[E],0
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The story states that initially, the onion was",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The cabbage is in the container at the beginning",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,D,"[[D]]
+The story indicates that Jacob was the one who",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The most likely answer is C, as the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,"[[B]]
+The story states that Jacob moved the sweater from",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+[[C]]
+[[A]]
+[[D]]
+",1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that ""The tomato is in",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,"[[A]]
+The onion is initially described as being ""in",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The story states that ""The peas is in",0
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,D,[[D]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The most likely answer is C, ""drawer",0
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that ""Sophia moved the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states ""Owen moved the trousers",1
+ToMi,location-belief,Belief,Location False Beliefs,C,B,"[[B]]
+[[C]]",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that Carter moved the underpants",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+Explanation: According to the story, Ava was",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that ""The corn is in",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,"[[A]]
+The story states that Sophia moved the jeans to",0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Chloe moved the strawberry to",1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The story states that James moved the cucumber to",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that the orange was initially in",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,D,"[[D]]
+The most likely answer is D because Abigail",0
+ToMi,location-belief,Belief,Location False Beliefs,A,B,"[[B]]
+[[C]]
+[[D]]
+[X] is",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,"[[A]]
+The story states ""The coat is in the",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states ""Carter moved the under",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Isla moved the lettuce",1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,A,"[[A]]
+[[A]]",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that ""Alexander moved the lime",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that Carter moved the radish",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that ""The green_pepper",1
+ToMi,location-belief,Belief,Location False Beliefs,A,E,[E],0
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[X] [[A]] [[A]] is incorrect because Ava,0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,"[[B]]
+[[C]]
+[[A]]
+[[D]]
+",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+Explanation: Initially, we know that the orange",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states ""The corn is in the",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]
+",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states ""The gloves is in the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that ""The slippers is",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that Olivia moved the onion to",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that ""The green_pepper",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Oliver entered the laundry and",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that Jackson moved the shirt to",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]
+",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+Explanation: Initially, the undershirt is",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The most likely answer is C, as the",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Hunter moved the coat to",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,"[[A]]
+Explanation: Initially, the story states that """,0
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+Explanation: Ava moved the shirt to the suitcase",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that Mason moved the stockings from",1
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,A,"[[A]]
+The story states ""The shirt is in the",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that Ava moved the boots from",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+[[C]]",0
+ToMi,location-belief,Belief,Location False Beliefs,B,A,"[[A]]
+The story indicates that Elizabeth enters the living room",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that Benjamin moved the slacks",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states ""The lime is in the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,D,[[D]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Avery moved the lime to",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states ""The boots is in the",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that James moved the tanger",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that Elizabeth moved the eggplant",1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,B,"[[B]]
+Explanation: The story states that Jack moved the",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The story states that ""Jackson moved the grape",0
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The story states that ""The dress is in",0
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that Mason moved the cherry to",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that Emma moved the undersh",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that ""Noah exited the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The most likely answer is that Jack will look",1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]
+",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+Explanation: Initially, the grapes were in the",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[X] [[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[X] [[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states ""The slacks is in",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that ""The watermelon is",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states ""The slacks is in",1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[X] [[C]] [[D]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that Mia moved the slippers",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states ""The celery is in the",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[B],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story indicates that Mia moved the slippers",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that ""Alexander exited the study",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states ""The t-shirt is in",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,"[[A]]
+The story states that ""The tangerine",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[X] [[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The most likely answer is D, ""en",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,"[[A]]
+The story states ""The underpants is in",0
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[X] [[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,D,[[D]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,D,"[[D]]
+Explanation: Initially, the beans are in the",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,"[[A]]
+[[B]]",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states ""The slippers is in",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+Explanation: According to the story, Ava moved",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+Explanation: Initially, the raincoat was in",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,"[[A]]
+The story indicates that Emily moved the tomato to",0
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,A,"[[A]]
+[[B]]
+[[C]]
+[[D]]",0
+ToMi,location-belief,Belief,Location False Beliefs,B,C,"[[C]]
+The most likely answer is C because the pumpkin",0
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[X] [[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The most likely answer is B, as the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+[[C]]",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[X] [[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,D,[[D]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that ""The apple is in",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The story states that ""Lily moved the",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[X] [[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that Avery moved the watermelon",1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,"[[A]]
+The story states ""The corn is in the",0
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,"[[A]]
+The story states that ""The slacks is",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that Jacob moved the sweatshirt",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The cucumber was initially mentioned to be in the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Mila moved the as",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,"[[A]]
+The story states that Carter moved the radish",0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that ""The plum is in",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that Carter moved the tomato to",1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,"[[B]]
+The most likely answer is B because Nathan moved",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that ""Mila moved the",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,E,[E],0
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[X] [[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Lily moved the jeans to",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The most likely answer is B because Jack moved",1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,"[[A]]
+The story states ""The melon is in",0
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,B,"[[B]]
+[[B]]",0
+ToMi,location-belief,Belief,Location False Beliefs,C,B,"[[B]]
+[[C]]",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,"[[A]]
+The story states that the celery was initially in",0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that ""The peas is in",1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,"[[B]]
+The story states that Abigail moved the corn",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,"[[A]]
+The story states that ""The celery is in",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,"[[A]]
+The most logical answer based on the story is",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+Explanation: Ethan was in the office when he",1
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states ""The grapefruit is in",1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+[[B]] is the correct answer based on",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The onion was initially in the treasure_chest",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story indicates that Hunter moved the green_pe",1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,"[[B]]
+[[B]]",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[X] [[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that Lily moved the slippers",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that Sophia moved the cabbage from",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+Explanation: Initially, the spinach was in the",0
+ToMi,location-belief,Belief,Location False Beliefs,D,B,"[[B]]
+[[B]]",0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,"[[A]]
+The story states that ""The lemon is in",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Ella entered the master bedroom",1
+ToMi,location-belief,Belief,Location False Beliefs,B,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states ""The skirt is in the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,A,"[[A]]
+The story states that Noah moved the underpants",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[X] [[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,"[[C]]
+The most likely answer is that Isla will",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,"[[B]]
+The story states that ""The underpants is",1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Emily moved the pants to",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states ""The shirt is in the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that Alexander moved the boots to",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The most likely answer is C, as the",1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,C,[[C]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The story states that ""The sweatshirt is",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,"[[B]]
+The story states that ""The tie is in",0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+[Explanation]: Based on the story, Nathan",1
+ToMi,location-belief,Belief,Location False Beliefs,C,B,"[[B]]
+The story states that Elizabeth moved the onion from",0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,"[[B]]
+The story states that Mila moved the pumpkin",0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[X] [[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,D,[X] [[D]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,"[[A]]
+The celery was initially found in the basket,",1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,C,"[[C]]
+The story states that William moved the pumpkin to",0
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The story states that ""The radish is",1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,"[[D]]
+The most logical inference based on the story is",1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,"[[C]]
+The most likely answer is C because Hannah moved",1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[X] [[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,B,[[B]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[[D]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,D,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,A,A,[[A]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,B,A,[[A]],0
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,C,C,[[C]],1
+ToMi,location-belief,Belief,Location False Beliefs,A,B,[[B]],0
+ToMi,location-belief,Belief,Location False Beliefs,D,D,[X] [[D]],1
