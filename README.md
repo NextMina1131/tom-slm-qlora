@@ -10,15 +10,20 @@ We fine-tune the 4-bit pre-quantized **Qwen2.5-3B-Instruct** model (Unsloth) wit
 adapter on a stratified ToMBench train/validation/test split, and analyze how the in-domain
 gains transfer to four external benchmarks (ToMi, OpenToM, SocialIQa, Hi-ToM).
 
+**Authors:** Ji-Hyeong Hong¹, Sang-Hyun Yoo²,\*
+¹ Department of Cyber Hacking and Security, Seoul HOSEO Technical College, Seoul, Republic of Korea
+² School of Computer Science and Engineering, Soongsil University, Seoul, Republic of Korea
+\* Corresponding author: simonyoo@ssu.ac.kr
+
 ## Key result
 
 | Benchmark | Metric | Base | Fine-tuned | Δ | McNemar |
 |---|---|---|---|---|---|
 | ToMBench (in-domain, held-out) | Acc. | 61.52 | 76.13 | **+14.61** | sig. |
-| ToMi | Acc. | — | — | **+4.90** | sig. |
-| OpenToM | macro-F1 | — | — | +2.67 | n.s. (acc) |
-| SocialIQa | Acc. | — | — | **−4.50** | sig. |
-| Hi-ToM | Acc. | — | — | **−5.00** | sig. |
+| ToMi | Acc. | 75.30 | 80.20 | **+4.90** | sig. |
+| OpenToM | macro-F1 | 48.33 | 51.00 | +2.67 | n.s. (acc) |
+| SocialIQa | Acc. | 67.40 | 62.90 | **−4.50** | sig. |
+| Hi-ToM | Acc. | 63.00 | 58.00 | **−5.00** | sig. |
 
 The gains and drops are both statistically significant (paired McNemar + bootstrap 95% CI),
 suggesting ToM ability is not a single learnable capability but a set of distinct abilities
@@ -38,8 +43,21 @@ docs/       ATOMS ability mapping
 ## Model
 
 - Base model: `unsloth/Qwen2.5-3B-Instruct-bnb-4bit`
-- Adapter: QLoRA, r=16, α=16
+- Adapter: QLoRA, r=16, α=16, dropout=0.0
 - Trained adapter weights: **https://huggingface.co/nextmina/qwen2.5-3b-tombench-qlora**
+
+### Training hyperparameters
+
+| Item | Setting |
+|---|---|
+| Learning rate | 2e-4 |
+| Effective batch size | 8 (per-device 2 × grad. accum. 4) |
+| Max sequence length | 2048 |
+| Optimizer | AdamW (8-bit) |
+| LR scheduler | Cosine (warmup ratio 0.03) |
+| Weight decay | 0.01 |
+| Epochs | 4 (epoch-3 checkpoint selected, lowest validation loss) |
+| Training time | ~15 min on Google Colab |
 
 ## Reproducing the experiments
 
@@ -74,7 +92,7 @@ not included here.
 @article{hong2026tomqlora,
   title   = {QLoRA Fine-tuning for Theory of Mind Reasoning in Small Language Models:
              A Cross-Benchmark Generalization Study on ToMBench},
-  author  = {Hong, Ji-Hyeong},
+  author  = {Hong, Ji-Hyeong and Yoo, Sang-Hyun},
   year    = {2026}
 }
 ```
