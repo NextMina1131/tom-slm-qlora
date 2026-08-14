@@ -1,10 +1,10 @@
-# QLoRA Fine-tuning for Theory of Mind Reasoning in Small Language Models
+# QLoRA Fine-Tuning for Theory-of-Mind Reasoning in Small Language Models
 
-A Cross-Benchmark Generalization Study on ToMBench.
+A ToMBench-Based Cross-Benchmark Generalization Study.
 
 This repository contains the code, data-split indices, per-item prediction results, and
-statistical analysis outputs for the paper *"QLoRA Fine-tuning for Theory of Mind Reasoning
-in Small Language Models: A Cross-Benchmark Generalization Study on ToMBench."*
+statistical analysis outputs for the paper *"QLoRA Fine-Tuning for Theory-of-Mind Reasoning
+in Small Language Models: A ToMBench-Based Cross-Benchmark Generalization Study."*
 
 We fine-tune the 4-bit pre-quantized **Qwen2.5-3B-Instruct** model (Unsloth) with a **QLoRA**
 adapter on a stratified ToMBench train/validation/test split, and analyze how the in-domain
@@ -25,9 +25,10 @@ gains transfer to four external benchmarks (ToMi, OpenToM, SocialIQa, Hi-ToM).
 | SocialIQa | Acc. | 67.40 | 62.90 | **−4.50** | sig. |
 | Hi-ToM | Acc. | 63.00 | 58.00 | **−5.00** | sig. |
 
-The gains and drops are both statistically significant (paired McNemar + bootstrap 95% CI),
-suggesting ToM ability is not a single learnable capability but a set of distinct abilities
-that **transfer selectively**.
+Most gains and drops are statistically significant (paired McNemar + bootstrap 95% CI), with
+the exception of OpenToM, where neither the accuracy change (p = .917) nor the macro-F1 change
+(95% CI [-0.25, +5.59]) is significant. This pattern suggests ToM ability is not a single
+learnable capability but a set of distinct abilities that **transfer selectively**.
 
 ## Repository layout
 
@@ -90,8 +91,8 @@ not included here.
 
 ```
 @article{hong2026tomqlora,
-  title   = {QLoRA Fine-tuning for Theory of Mind Reasoning in Small Language Models:
-             A Cross-Benchmark Generalization Study on ToMBench},
+  title   = {QLoRA Fine-Tuning for Theory-of-Mind Reasoning in Small Language Models:
+             A ToMBench-Based Cross-Benchmark Generalization Study},
   author  = {Hong, Ji-Hyeong and Yoo, Sang-Hyun},
   year    = {2026}
 }
