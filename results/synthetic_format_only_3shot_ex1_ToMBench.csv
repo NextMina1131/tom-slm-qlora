@@ -1,0 +1,843 @@
+item_id,prompt_hash,story_id,source,task,category,ability,answer,pred,raw,correct,n_options,condition,seed,exemplar_seed
+81b7c33c3c6b250f,27589011d12fe0ed,b512b9fc2259f77e,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+11dd213c37e0cda6,a434eb4b81669fe6,d2afd3527a42b595,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+96fedd77bd63bcb4,624900582648559f,de6816cf072d7953,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+9b1df3e1443a60ca,29c95b08f2b4d764,5deed5c3f8260efe,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+ccf189ec7a98d238,8bce15a9fa51cbfb,89f608c6a17c9492,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+1fdfb41adb97c31d,213036805d8dcda9,940b5a7fa3b9b3bb,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+976f55635e050166,8aa9da43e5209d9a,14749c80a473b9bb,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+cdb8174917e00086,869c80ed9e7ae673,f278a56b25bf2ced,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+ad8b2b6498433c3a,0a15ec1880d54f0f,51751075455ca64e,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+bcc6f85af3b6ab86,843daaffb77eff08,d618e77854ecdcd3,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+75cc4b7e40b75572,972c119be8977236,da7d68253a774a2e,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+2fc12d2dd95a5150,4c6e03429f5097b3,178930889067bcd8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+c3d0953fabe26835,1f8d7142ae398805,59b97bc8b90581c6,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+1883e9335d5d78ee,63e4c239f4dbe73d,36e6946e1770c0b1,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+cb5bbd3085d21ca4,e3a7f5490b6dc07c,4dce08ed4ab4d34d,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+5d4ea84d569764f3,eaf179ea0393bb3a,0675d2446af43a9c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+2bed39a53fd46238,11455ba039508e10,0925af0113e6ed95,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+d768d2f1f51c1cc6,dd1c85e8961f14ac,3326845717e36426,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+dd8cebb6f4d1ee18,3b0e33522bc81d5f,f0b620bbf970bdbd,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+f2a59473e603eca6,1b61b0b36a716e73,1b0d7ab1c19a50de,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+c538f54bc8647bf8,56a93b98f8f779af,a68edecbba34ac20,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+b6ccee2985b301de,d42e9028008ac69f,52f14e458b413c77,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+a5f2e3b5cfda57c1,7c2ba6c703496593,88b70d2fced69d61,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+366b802a6d730bf0,cc024871f6560d19,9bd3fd247be23a07,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+9e2ce9b431240ce8,c2bc95f15892821e,32a36ab960249f4e,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+1d8ed0e297583cb4,c97d77532fd8a4ce,cc43e41e768ba63b,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+5683aae1a3a88a91,ee1b5b9cf792a698,c82db080f4bb4965,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+82778fa01fe4675b,24ea9973fda5421b,f7b5aa4b5051772f,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+5ff5e310c195558d,1718eeb6514de04f,1ba39052b924e214,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,D,[[D]],0,,synthetic_format_only_3shot,,1
+004c597f733a0142,c9e83a1d6f10ac6f,7a4310ab5cfff9b1,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+728879fcbe9555af,d73a600552c05946,c4a8b7c6f48c2246,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+867658ff722bc6bd,3428092bd6fdc5c1,26dbdd3ab8485c07,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+d2ad7e1f742c66c1,5b6bdb567c051701,30073d61f98d5c66,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+e6adcae501e27c75,58a988322f4b82dd,d6282f5069fcbd73,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+ae5e08607dfde9c8,22c103b6a01f432d,78142ee194e3246a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+26f94d2b52e72d1c,70a6a4205354a40e,9f7fdbaee030f1ae,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+5d89a6f9f0278485,1f1c67421fda760e,b955a319d9533a24,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,D,[[D]],0,,synthetic_format_only_3shot,,1
+d0a8486029938731,fdedccebb237cbf1,59b20880aeec9272,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+79fc533bc05df066,f4151de473af6548,24bc0089ca63ddaf,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+804607d210b363a5,5b61f9d3fd9314b8,ba3a69f7eb5601ad,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+254b664a7cb18c6a,2bfae6a38c9e67f4,1a8be0ac0d4a0bfe,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+bab0abbb4c65a659,9c2f5993ea36e904,89d6436cbbb377c8,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+73f610e40a5e4dd3,d1846b9e5e02cde4,77970ce5d8c697f4,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+7a177b7f36bb1db3,183e7e6607dee841,21654579439a5d59,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+febc7c08501f35b4,578f460d85ea87c5,1b484ecb80c5059f,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+a2492a44508a9427,5cdf297e4dfbd741,ae425851321b2961,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+60dd6de5c9012b5f,e5622d479c9b6d85,8e3cbeb3079b3d5f,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+329ddafeeac39932,77ea29206931d1f2,6990f656456426c6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+498ddfbf44fa30a9,c5011fec9fc34a3e,532f29114f0fbaf3,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+d8f4e248fed443eb,126124dd981e9fbc,ae7e592f19b47331,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+0bc7f71bedcdd259,120155fb0151d9fe,46deffeb539e4a2a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+de760bc2683b6a5a,a5b2b515f0c9b46e,2df5a81bb6d4761e,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+42bf069d324b9784,23a0bc28155a47ae,2bdc2314b8a94f12,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+5d07291d991813d6,d2a2fa6bec61d86b,28d2d60be38ae3af,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+860e9c34aeae49e1,2f261d637e61f6d8,ba8d8fe5b3ef99e6,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+e8a4ebaf9814ed18,bf410175299b625b,cd0d589d938dc4de,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,C,D,[[D]],0,,synthetic_format_only_3shot,,1
+4404efbd4701fe3f,1d074ed788a54c4e,3c308ef048bd29b3,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+a05a3a76cd6cd1df,3df64b8edb5bf19f,b99b2243d9873f3f,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+28ee093ca13e9c03,ced08da18a5c5c04,eb2fc60c2a9ade22,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+d3748bde0b1eab4a,cd6e46f7e4558fbb,856b38b39da29f9a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+732a641030e26c38,35ad0a3ce4948cb3,6bd8f7818c3ce138,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,D,[[D]],0,,synthetic_format_only_3shot,,1
+7fd833a9a2f788d3,77e295a83502545e,c2c2daa557f686d4,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+e47361acd08ac2f3,6d3c1cfed323d862,c47dc391e020a880,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+3da999344002ed4b,b3d6074cec177e1f,fc367b5a2768a34d,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+c36025d84a52d0e6,f84feedabd381857,bcba93cd7b4e29c9,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+261d74f91710df67,45e952f9a3854a14,1198a00c3ecf613f,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+a1cbf352237149a5,c98ae4a2cec611ee,10eec51e3eca97a3,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+590f53d9d8156fd1,a4ad3d78773619a7,e4ccd627d727e7f9,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+5b2c1bf19d0ab19a,335022ced7327c53,86b91d247a94dbc8,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+980c0e838fcb0f6b,be7a4f74856885e6,d8cf337a6cbd6f4b,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+709cfae6ddbbaad0,e60fd28012d54c82,17908714ec03f3ce,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+ba6708c1aee902c0,2b712efebd94ead7,3e94384daa814ada,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+2932e580b6529436,ce70c682cd64fe0b,ca75530ddd3c0f92,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+cf92abe469cab3ac,704423e2f956f9ae,52013cc438f1d8a9,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+1c224d7bdbf7355c,f9067264530530ff,e27a1f7501d99d9a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+a576b54291347133,a08e12e05fcf30aa,b87cb8eeaccaf801,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+d5b15fe697a84a22,3ddcd3651e9104de,b3791091f0492539,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+03b60d4e11f127f9,8bce93be1892c8b9,b8f9fa2a5863c8f9,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+8c819af5ac1d6c7c,2bd1ad75ad504156,cb95a3075bc27dfe,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+d25be83d04187df1,267e9a7a3ca80eec,890d31bd0cf4b1a8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+7db0062b2bd8b518,594f6808e9491e66,dada9dc84af1061f,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+27906df1aca16a96,3c8612de29fc40fe,60a62f0747a1444f,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+67e8656537048f48,0708c15815245ba6,889fcf1ee083d5e6,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,D,[[D]],0,,synthetic_format_only_3shot,,1
+8e72fa4331bfc454,2f948cb5bf728833,a23ad26f2ab7cfc5,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+aa91c935edeaac64,4cb345f78e2a3186,fafa098a68e63efe,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+ce8628e7da4c23fc,c621077d7c74d826,d68f62b9791cce9a,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+b42217963d32e7c5,890a15782b858773,621fd005dbc24b8a,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,A,"[[A], [B], [C], [D]]",0,,synthetic_format_only_3shot,,1
+b42cee5fe8fb7a73,b33b40c8ec5869ac,111446a056ee87ee,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+09affa0fa0c55ab8,3e21a2bca642e2e2,7f2ae376879262d4,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+6189f5045994b0f4,c0a97ac96c0996b1,a441f9065e27a529,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+06b3443bca426a56,e450f486dffe3236,0ebde7e09ab35fe4,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,D,[[D]],0,,synthetic_format_only_3shot,,1
+ded2ae9fd0f9da11,ebe0aec5694878dd,a51852759de9d81c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+bbda6aef8da1c3c1,12c53f896cf23663,1f6ba848b58ad9f1,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+c1ffca393ac4c9a9,7cf5e18b8fc5e987,f4eb43a13a63109c,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+d1afb6a1177186ab,eb137094507896e0,234cf099100f8056,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+71531b232ec1daf6,e8c14c94d56dcfa1,6b6846e3bda29bed,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+849868c85dc7f8a2,f4fe37ee9d61dd71,83298e947eb6bb8b,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+1bebb1788d7b572a,1ad5ca4aea5567e3,f3a53db3933f2acc,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+9a9d6233dc6bd9a3,b85e16d8a6536e09,c5fb66e7a9f15909,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+18d4bed89278a428,011386a9c86c34c6,3f2fe7353095bb4b,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+5a430f19de833f72,e5129ec2456ad822,05fe8c8949b8d9b6,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+6d85574d1f0470b1,3337bab8e2f0a3d3,535f9aac14edb0cb,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+0903e5a8ae87682d,187c11d073675347,2ff77fcefefecb28,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+fc5c7202e6d698f2,f20c10fbb7372fea,38471056910b1c60,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+f8f4aa7f3f747d05,f5b745b491d9de83,eeead4d6b79c1423,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+57d7d5897f88875b,2e5f4fb9719d372e,de532ac01a57ba0c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+593efa60affc940a,7c8e1fc97b63e638,cb4ba94a37d0b6d7,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+b52b308d6bf23439,213944824725d622,c02dff8613c1b83f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+339f04bcf313f934,7ba50d258c9aadd4,6d23546815c0a68c,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+df42ae357786e773,0f2d7db970761c03,fbaf577515455271,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+68cef30e577404e5,9bee8835210f3b83,7e3eac56c26223dc,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+bf34a0ecc996163a,9cafa3858b1e3899,d304cdbc953528c9,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+4e430ea5abc33d37,57722f9eb2a14073,c4d312828ad6d1de,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+9f741c2e5bb776a5,cfdb098178cef781,fda5a64045fcc45f,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+16f25660baf7c516,f81a11072e0210cf,ad318a2c50b34b17,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+786bd49b025e41a7,4bc4064851402eb6,17db16b1290210cd,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+9781fe707ef58a5b,3ffba00591c02b96,148e73c6c22bfaca,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+0b9d7344e26b3b6f,a103a56df1a4dbc6,578d6d4392866030,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+0587ca5b3ad1fe1c,8d49a8cb830b3035,5ca278fb20c2f040,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+4131698e83745e59,52d2d92fdc0ec3d3,b4dad71ef31cf9a6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+73e734d28210d2ff,f0bece3c9b07bc12,a207f6537701de15,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+2c2a987335245b87,a6b7feabe7e5aaed,7b1f89fccd529702,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+c1d466032a7268ad,e0e1e3edbba1a8a2,21159f37fea5de88,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),A,A,[[A]],1,,synthetic_format_only_3shot,,1
+2b15d6821ac3ff0e,6f2eebba0b5f5d08,dc4a9107f253b26a,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+3e17f591620b0ed1,ba36d303d212c9c4,f356027af17a7152,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+79f3477cb4ef1f8e,f9402cd8790b2d60,adaf5fef4b5a1ef3,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+89a1c5de0f9fef3b,90869c85536c3a69,15c2bf0824af9af0,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+3a42c367b3cd8c22,ca020bd3352525df,180555e2691398d7,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+d46be10cf86a7434,bf7678b83b951d9a,88f5bfec47a1aa5a,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+acefa70c246ffcaf,483b21a80d83ff80,f051013dd9676c43,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+8cd99e8e06570354,bb18a0cc39d52ccc,023dd0cdede96038,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+60da9d27334f7ca7,b192cba09f071b09,27af36c85b4c96cb,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+f89681f608fd5dd8,29696639e2411d02,6e39570c08678594,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+ba63b0f557c7de5b,71f2c48900e17865,876892b5e721d4d1,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+98722a175f854754,fa278d4626dcc192,ce3975e9985af33e,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+88cafd7ed6137704,f7d603e96870bbb3,e04785d63c2c7f06,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+14864f7fff66d98e,796b846977755a6b,b512b9fc2259f77e,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,D,[[D]],0,,synthetic_format_only_3shot,,1
+536f5fb362ea7d6c,aa3f0fa745d25399,641e31f56aaf2c13,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+5aaf70902c6b60e8,ae2abd65eeb826d8,cc193df3d661ffea,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+195aa16690bad2fe,4ef79392b08e9c0b,e1b6d4b3cf3aa88e,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,D,[[D]],0,,synthetic_format_only_3shot,,1
+d22edc19ad6e602e,d1020b95d1cf0c12,8793b62da23e4a2d,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+08104d923114e727,28c59f8bfc79ff78,ed9bc56536158ec9,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+7e3b9f0fe5a93415,fe5ae794162f487c,ca79dc406a708af0,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+49f96ea22d49d51f,e2672f3b2d4bd4a9,ebca817781445afc,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+0527bf3bb6a15988,93404656648a2ead,4e277606bc962852,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+9c14967c3180bc48,0d96e1d3e54e00ee,139daaf628e8af1f,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+44dcbb0e5404fc99,7f94d836f2f539d4,b8f9fa2a5863c8f9,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+ee74b9b0ab60f2f1,26e8e487834fd310,e028f53c941c3b30,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+e74358855446f73b,6394585accd094f0,9bd3fd247be23a07,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+bf2cb6f56844c8d7,d004ffa749579992,63bc9d6ec4cf63f0,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+5f79a307ff722dd5,00bec43b6e62e228,f4462bf2491af5b6,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+a59f65e2701d3b88,34f8c8b036e3d4b1,9e90a73b34ada4e2,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+e6345ac49701e008,20f3431fef88f5e4,f0d290d2a1e6db1c,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+3bb19fc85d3e3aad,2897878158a81285,591f92c68405b43a,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+5dba263cd093a227,2477e5dd734a186b,30f779fd5fb453a2,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+bcc6d94f047bc692,9c01ca36ed6bf07f,15c2bf0824af9af0,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+6db5a6dc16a61a03,9cce081a9a179495,7065e33ba454109c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+53d63b11722159ae,12cfb343c1d1f661,1d156c941d605480,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+907f7b9faeb13b3f,4586d858c8d058a0,8fcef6e74838a681,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+f23d880d50b41bfb,2a7b7ebd5c511e5a,f9e12edecf3d3cd3,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+98218dae947c820a,628c85b9a1c12f97,eda89cd9529b6e5f,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+4868b9455c88bea9,74a8479ce9e0b954,864c5b6d90159b84,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+5c4697908e1379d0,767e4df350e2f1d3,77970ce5d8c697f4,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+cd937f57bcdd830b,98d3407d3df90c21,797e8ccdd8a955c8,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+e7ae141fe1acc0a2,cdb0f2b6a344c516,dea80f3f467b2837,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+644463fc45d6b4c6,a81da535417a4f9b,45ef630c8fadca1e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+1f8e614046be9f82,141f0805699b8cd9,f9e12edecf3d3cd3,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+8e74befb20ff8f7e,3a0bb6db98d8eb53,3026f069b69fab29,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+609f1ab37902674d,eb86857b7411ef0e,85bb9f9992658904,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+796bffaa3fb6344b,eed2f733ef2bd53b,6d5189e7f58d4976,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+7eabb43b76b4e98a,59b932ce924e474c,8e1b86fd5b1a5536,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+2c45551f1e41d54e,f6a6974492275835,739360d58d0028e2,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+67e906c81ccc6be4,af5281e06ed6f7f7,5c9f4700dedbd53f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+9b0350492c2793de,e5f73f78b0539260,2a6b00033335798c,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+64604f7efeb77628,ac69bb0c10345a80,b332ae581e443292,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+263b3de9cd65251f,b0416a08b7662873,cb4ba94a37d0b6d7,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+ef33401897664d41,02f3e2ce7b6a24e3,4fdd0b28557707e1,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+deeb31e62751d904,f597e9c5225b9b73,4c63bef19c04eb08,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+07c85b8df25d3b1a,90924c9092cef910,9a36b22830aa9df2,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+56b91f45761638a9,4cb90fda71b098b0,63eee35b5363c715,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+896e5a45b6e79457,5355569e91b6f186,c02dff8613c1b83f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+127a86fe7aa39aeb,ad284b78981c9251,cd54af08275707c4,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+7f5e87a7561b09f7,f053613cbba31b27,9450cb28345a82c7,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+775206550165b717,f3a81174789b639f,3800784a8f914e27,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+a70850a866e9b907,1cad03f0eb2851a3,0917be28bf82b245,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+56d0eacfe984281d,eb56bc4615c15f73,ff6c7780b0a4a175,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+5f0f901d31eeb434,9b576675a670d981,de8302e1f1a43fe4,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+a8dd5bfced01f371,28d2cca6c8dde567,3033f49706453af0,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+03c73544121536a8,81d3757cc8df7ff5,f9fe72ef11ba7fc4,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+1b65973769b4fc1e,67dd499ce1878233,22c82358e882af7e,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+59f23d85597076bd,f459e4989f897050,a51852759de9d81c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+95cc476667087c12,9e81dbf6959f9702,a8e90c77e0d9ab3a,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+21881e78dc8b2c92,f1f9810b4bf11bfd,84535379ac804659,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+9a8068a258452c9a,47adc59ee877e21a,905b4d1b55e05ee8,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,D,[[D]],0,,synthetic_format_only_3shot,,1
+fd61c9434b44a38b,3ea60d7084cd2695,212c349cbe74204d,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+69543dc62d01844a,70ae3f3e71bd84a3,f10ccd557e7287da,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+0b153f311d7df6bd,8d1316f3adac6949,809edb9221da5c5c,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+62493268ea08b008,ca5f3f9fc4901988,7e0aecf49113f4af,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+d1f733f5f78a9096,75021fc1f7d86113,9e6b5fab2ddac996,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+e356c05b981c4697,15feb5343f861631,6b519e348cfbdf10,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+3e4c96dc691e5f56,f5eb1803884b316e,c17809ee55a38197,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+fa66ab12e62fde2d,94d46308084399fc,bb97437fc2e1f84a,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+74419047a8e3c159,c7884a0c3ffd90f8,f4eb43a13a63109c,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+545dd801068a1256,cee7ccc20358944a,38471056910b1c60,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+f7c80eafc0a86b3d,ae30f2b460ad34d8,ed00f59901d6648b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+ef6ecddd00b9cc60,991f41e0dc25c099,ec41f7d7435b6093,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+1f7731b9d39d0302,16b375e9bf511426,623a43973ff83d99,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+aeb0819e2123e0fa,f98752820a55cb4a,f105605052289106,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+d25eac85b93d779d,b060ba358902b7ca,c17809ee55a38197,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+d5b897a8f4012e9f,9a435b02c707afdd,e9c0ed94eab26929,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+0933e43b7fc04463,e71a7cdfabdccf0d,70b8b51a1e848696,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+4a70a765908520b0,1590d1ddbe060c62,eb2fc60c2a9ade22,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+133c8e6eef4a69ed,f09bcd81a86aa245,46c65e7e79fed778,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+c320b5c9328efeb3,06fdd0d17ddbf6e0,f1f4ed52d05464b5,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+1594a538d53b3d92,ebd56627f923c8dd,9a3adbbd98670c98,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+dbfeb216bfbecea6,5bf8f16f601903e2,63eee35b5363c715,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+5a8b6d8ca9edacdf,3a6e581d2eef62b8,9e2869ac753caebd,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+c5fd9a988fc88949,17b495a02dad5ca9,9abf6af5f7ce12ac,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+0832d6239b95ec30,dd478c81e30838d2,cd423c6e965d73ed,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+45afd94a215cfae0,a430f1320f316af6,7026c4bd4f8f5bdf,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+01298cfe2b412ef6,b8e5141856cd63d7,d5558abd0fe9fec7,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+b983e8abf1ba2bbf,b53a6d79b551e576,119329f0de190707,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+8c6cdec9732bd9ab,f2a390f3b4f5647f,b1f4a24fe978413d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+92569cdc02734a6c,df34e70eacbfbe3d,4a03840106062440,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+af708ec45709cfa0,bb3f202d801d2634,27ee635e35513853,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+d5eb10ea8940b54c,5f0357d540944d2a,0ecee7128a4396c7,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+4a804fbda0f3f4a1,9b52b7a6bf9d0b4f,5c7ff076aaa837e1,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+d2f6a7850f869947,3a137dd2a1cff1d9,6a54154736c9c231,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+97417c18b3409fe0,8ab7eb7fd4cb10fc,c7f0c834c992e4fb,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+4301e0fe91460b28,a31acf641706bfd1,e0e1631e7e362f93,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+a84b493973cc8e8b,fcc252784a07fa19,4a4a7d5e09124d8d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+4b990e93355cfedf,f9f62b5b16d0c90a,f9e12edecf3d3cd3,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+8c88fee1d10031ae,a6c894b9c264e65e,b0319971cc7f1c3f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+df3c92f4d3e2ba9b,49f96eb497b1f120,febab96df3993370,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+fe458b92e2111fec,caabb49ea1a76463,30fc1f6f007bf197,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+7bd81f40f169e4a4,53be49b21aa5f288,fc6efef1d4713bce,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+e19439bc2e5237f9,e761afa0148ad7b0,f7be9c79ac82afbb,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+f1cec29727882242,9bc5fc5db31cf254,688477195c57c6f9,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+a516586982f89e68,a32a0c96a2587e94,ab066dcf186268cf,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+13deadb8d7654ad2,e5f2711493ed614a,2d3f92e6da935541,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+a6589dc04c436023,854f997aa0538e97,ab6e68a7c65790c8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+0e407e7fe1ce6195,da584b15abc7720f,f60db119c0534b5a,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+2bf9c2f1292cbd4a,cf8b52585c2e1d39,a6c8d470bc6fbd16,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+5ebe22b34ebbbc2b,73c5ca07f14b5618,119329f0de190707,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+d53515a824f4cdf0,19c68a4d0ca1d3a5,3532119b310d2b54,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+6a04af003a25d9bd,06ff6d8aaf19ce14,55ead88e3fb201fc,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+f3c16f0891141704,9c92e8202370650f,d5682794190a1079,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+1d520e6e8d3ebd15,c2cea11e9a23e8f8,89746d72c279955f,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+75b27a1de4efe95e,790bbdc4c99ef333,34d54844c1b42e5b,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+f8aab51d7785a487,4463b4d922455fda,08aa5a3495e6e93e,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+e3e43d9d90ef9a25,6657ff196ea4063b,1b7018322c4d864e,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+f90f040492bf9d8a,53438dabea4a52de,fafa098a68e63efe,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+d47a618af7404d78,92a5698364bfe992,e0e6ddc54388fe6d,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+6471a9e157774722,f5d12c5a6591af5a,e5c32d9e2d096880,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+7b3a8e500b1483a0,7b63b750109bc398,e17f87440cd07846,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+6e44ca088c59b805,e633350e4379029a,3532119b310d2b54,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+ec995c26b2734ffd,4e606c6e83b5d9ec,067e92865d1c8c3d,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+c7ca5b1f665a6f9f,2736212c862d4605,d945e14464fccf94,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+3003251f4cd1e48c,630568ef3d94601b,44c1146ee434bb9a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+05e072a0666eb1ad,ed2824106bf05b17,d010a0aea30b38b0,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+6567845878b92d3e,3061e8a24da9b37e,38182b26af5128c6,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+a5d4e6a1ad58a8e9,e0af75748dc64985,6bdbc0b9e52cb200,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+9f553d8b568a95f7,b123ed66263d58f2,0ba9149da3030385,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+4cd6155e16290e8d,d51826290928491e,006fdc53d0cf8b1c,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+99b8a146eb3d06da,e5e13b844d55d69f,71be14299e018984,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+7d5ee4dc9fc944db,2807ca28f9555896,234cf099100f8056,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+6f72343c669df1dc,2e06ed25b7f79a6b,72794cc5440cd62b,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+6ddff744949b5892,fcdfdcaa83686c53,b5527b1be529ebfb,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,D,[[D]],0,,synthetic_format_only_3shot,,1
+a65215279c1cbc80,92ab7e6fa3923a2e,3821964262b5ef66,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+424e58799dfb71ab,62364a77be0fb6fb,656cd8ba1f455608,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+88b483b69478e46e,29a35e62ee3c9f17,857618fcc2ac3f1f,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+7ff28a7808726d1b,717b47a070472300,6d8faf22c10939eb,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+ab7f47105dfc1cb6,26f815cbcbe644aa,c02dff8613c1b83f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+6880663ee27cda8a,08efa827f7cba686,cd9d0af17d15e3cc,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+fbba97ed2d7ccff3,559ddb8871afbb46,81c5474dead2d28b,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+75467fea13aebd6d,0e1e0d14a53667ef,3920bf50e26e83c1,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+028c42dc0a559da7,6825e67efd0eb395,7af5e3ffe0f54093,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+7b22154181146af6,a2420a6b7af51166,1bdc07335ad4b645,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+6320666ce8fb676f,ff0c5c5f06f99224,80d681e51d269192,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+580869efe77b08dc,b32c565ce20fadbd,6d5fcb73935800af,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+32549f5bc913cf6b,bef822fae305d3f1,eedea554fdb2e543,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+b79077e3c9c974f4,a980daa9a80a716d,45eae71fde210aae,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+5dfe53ffeb8fd6e4,27e709c46bbdf149,e04d6f9f9ca97eca,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+500ed6348b802d06,75a9a441d748b0da,4a548a36a404bbe8,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+c0d84cee167ae8cf,45eed3fa15fcc1eb,ab4504c65118e4d4,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+715c30bfcbe5b932,24877a6ac5209323,72afcc7cdf11a468,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,D,[[D]],0,,synthetic_format_only_3shot,,1
+64613995b1cebb82,d43963e6d9868968,c356b300c48698f4,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+dddd3b14486c75f3,f1d36c5a0683a180,855554fe85aa7c0c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+0539bf97de436ef1,257f557f1c42d0b3,819e05ea0584a05c,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+1d991c29d2bed27b,a11e1f7a89c3da3f,bf8f72517f3a144d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+eba797dcb8cc4fab,af0c679bfa1eb3fd,5eb6f5f8893e36fe,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+9c5a2e3b7511f09d,1e75e27a0758f120,56b28f0f25b82155,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+d069d91ea02605bb,c98b7a237ddb1db0,1198a00c3ecf613f,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+c8f23ea614fda07e,ca41f4b312708ae8,3225633b153b0a44,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+e8773439ad86dc04,76a73465ee0ac029,44de2705bcb1f0fb,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+9b68cc1d6c9365e8,8949efb5f17371b0,3b2663212b72cc7c,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+1a5554042824154b-1,594b7aed1e7a3ba9,ca741f885fe8ed78,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+a8d011623ef87bee,5626d270a79a73cc,d617abf94c85c588,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+c71edbb8606614b4,446ae90513fffafb,4a4a7d5e09124d8d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+9d2609addd3c7593,b2435ee3fa27e793,ccf515d394b6d54b,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+b3d7aa6cafb79f53,4743fe8c927ba078,ada16cbaf45f01ff,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+1678e57a5968fff3,5ee7bea4dd752997,914ce0aec69e1739,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+ab37e9a1157f5371,c4a1bceaa1c1a181,f006f1d76dacb812,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+c23b99bc3361eda8,590d921de4863c84,1de6d42ada88fe70,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+4dfac8528f57b7e5,f6ab77aa32de27be,30073d61f98d5c66,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+2c7a989ac9641b8f,cdd014e81ea2f1a3,628e4ba9ff55f3f5,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+fb053c14f5dc59ea,50f329e615ba1e1e,060232d29b681d8d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+6e1bb240736d6749,433498832f333470,14749c80a473b9bb,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+0a3d9faaa2dcd915,565de98e40470a42,5e571079ac375dfa,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+4e055749c40faf6c,0f577cab91c2629d,9ed389714267a404,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+96f2961252ba7fec,e4c66b78aaa6590d,1242a5219b4700e6,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+88c23e6d8e88ff72,94d16e1361f7fbe0,df392ac5743213aa,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,D,[[D]],0,,synthetic_format_only_3shot,,1
+ab0e05a18da4f353,5e2d61c5b1ed791d,aa9ace7ee23dc87b,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+c1dfe169266b4584,a56920e55e19be4d,178930889067bcd8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+5273e3941ce80b8b,fc7b8f9e59418d1c,bf8f72517f3a144d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+7429318f7864c0fc,b15e819bf3fd8724,cb28c7c51a900e60,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+bed205c71d33db09,d8cc21ffff4adf42,bca2f78234b9398f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+d989bf5491d11ef7,5fa62da929d6017c,3739e4bb4e14e379,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+2c8e1e66a6aba6ed,7a3ba6f59b3bf2b8,e3b37ab79ae25c56,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+79ec93ccd1ccffbc,4d982edcf1049d43,ccc28e806f81c745,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+c2f1bc160b924ab9,b7822eb9deef7387,987b30fff13db6ca,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+f36b5ebb73f98f8e,c4c58ea75045d443,63eee35b5363c715,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+7ef8f96978c06a39,8de489334c0f2468,9118e38a033e2cd6,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,D,[[D]],0,,synthetic_format_only_3shot,,1
+a4b861bd83f8dda3,f253fd93b6f28294,5a1703cac64705f8,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+8d2fff22dcb5964a,1c978948d01a23b1,230b32c0ef32633e,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+96d5bc1eb641009b,93f0738a109780e8,a75176d211272d33,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+c017239de5806ad4,bcda7e3eeaf2dc95,813324c98d7826ec,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+0b6d74b6ee59435d,085ab3038c32e277,34c9c666ce63cb59,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+fa3349493aaadd6a,af9c2d9d388ec5de,0dc1521ed2c301b9,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+a22ee8c38de848ac,7c39bcca3b16bbdc,e27a1f7501d99d9a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+e9c400be426975a5,5d1c305a87a3af56,65efa8e6032d98c5,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+f926701ad6b9091c,8afdcfecaa2fc672,0ba9149da3030385,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+ff33ee54adc2cb42,f8ad8e25d586f8c6,f5d97cf703660652,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+31a574bb3f013d38,6387ab0106d89c7e,874b1b6215a8d625,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+84019226e3ea3ef4,8a1c0784f7a23b40,e1b6d4b3cf3aa88e,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+231846598865cd35,2d0b58b885076816,9da5fc53ff77d35b,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+ae01f9b8205a5f71,fbbad1a4c905145e,b99b2243d9873f3f,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+5cc018b68c43bf8d,5310478e6f5b3193,ad2508626e06dd5f,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+366b66f3566bec2d,470f486010409674,cd4c05edb1aa1c5d,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+5e23392c47633005,0afcb154ca667a9f,bc01375662481b98,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+d9f1f40a12d734de,ac9a2b793922d1fd,2dfd96157fd4ae0a,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+de234f541010f4af,4fdfed2c4603d9ab,e3f92b0044377c77,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+3ae20edd860f29c4,198caf6c85f53c96,15c2bf0824af9af0,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+92312d09e8c844d3,07197cbf7d157caf,939ca56f6bd7a869,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+9737a43be01b90b5,beecfaf727c530a2,5492d5df6e35ff11,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+421eaa78793b06e7,1b4cc3d912d5d047,45451d91c8e961a1,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+f57951a0df3787c7,4aa99f9237f50966,b4a84304db60243b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,D,[[D]],0,,synthetic_format_only_3shot,,1
+88702964d4f80d61,c5e0185d5e37443c,ae9659aea0f2417a,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+c39bf22531abe40e,73b639d767a3a98d,544508e1f474c78c,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+d31b076709206a16,c40d62d1aff725c5,ac584d1fab6e54ad,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+3f6c77cc77f74d2c,c8e62eaabc9c1e96,2f6f01f0ceedfa36,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+da2726d7315c3b4a,332f39207a48ff7c,738d049d6d0f682b,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+6a2c87867799c2b9,f83ccc43b617c6f1,3920bf50e26e83c1,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+41162f6828851c6b,57930ec00e6304cf,695a9cd68fc66a27,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+eaa2fbf3cc10d945,77eb7e34a46966ee,c771fbab5de62c32,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+41fd2ffc84c5bc50,43d800a02729076c,d61f0d6bb7267b85,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+df04838f52f818ad,d543a8b6077ca9d5,89808bcd3a0a1fe3,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+a589d929416096da,8b0cd68408d1171e,d3cc676d7bb5ee6a,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+e4418f51d33952fd,7228ed789db8046f,91e9bf4f4024c0b0,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+a4e7e43354f2f908,dc618e6682173835,78142ee194e3246a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+b78f1d4290a52398,64036ae26895aa7a,ef54586a886506c0,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+bbb580818873ccb4,a30088967fe838da,6e356947f0c3de55,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+977ea8a28c140b88,4cca3687f40b18bf,5c6a86701d524b36,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+01f94bda77767118,746e113eeecb3961,bf220f72c760b273,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+6bb49344f6011c89,71592cf71c3b64c0,4d323c9ba204422e,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+29a5e982992a2736,f15df1b267fd4934,60ad82b3eb4f951c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+d7db28427445b8a9,cc450170dada9ccb,9dd7c2fc5f4c388f,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+4b6a289ea0008ef9,9d2d508ae61762ac,68499abb2c8a270c,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+0aa81ede08fc99e1,9f5cda3d285adf19,2b0bf1922f531983,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+e3e3c452d9b0dd70,74bf194abb6748ec,b28f5a5f2e80b57c,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+8779869090d5430c,270ca380bd98873f,e2e485204e59b8e6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+57114163143b621e,523349e915ac1356,38471056910b1c60,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+5468beaec977a3fe,08c67ca50d7b04d3,85099a6c4e73432a,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+fc6dd21215eababe,360fe41cc3b8d03f,2c02507ae12be3e2,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+f275818fff2a72d1,4491ccf324f8f48d,ff2e9fdb47d0f846,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+5d622938eb5286fa,27cef6b59c294f57,2dc22851c44fde53,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+0d6a53ed624d50c0,99ea3cc0d4dadace,2a88752285e27d75,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+313a96a8d6b22e65,66e52c33e6f9457a,b2e77bfc624b490f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+3d54730eb826161b,626ba84a8a0662a2,3a76f13fde0d150a,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+88dd912140eea74f,5f70888a254e2a19,952509462fc72b97,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+8bb08fb768a5c7cc,034c3d1b9f0ab48d,4e277606bc962852,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+f11cf5058a906d31,d564d52764b429c0,41c892019968cc28,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+05a5a8d36e807c04,374500700d3c11cf,5ad9b3242c9b722f,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+a1449ab4f0e12e81,27f5b8fdd02d19ce,b512b9fc2259f77e,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+0143a69cb2d86828,b1eed5110329fa1a,e14b316435d47bb4,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+c8cf84ba69df29cd,2720ed485e662f02,b6fd9598bd2bdbe7,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+9de680e278d351ea,50f7a906cc6cf704,a63ba66663546899,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+c9fc0c1ba2943e1b,cbe886f69cafea47,e875711a63b0c66e,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+f96502d98b8239c8,1e2e1b5b9fea95ed,bf8192a36c49fc70,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+5080799581ac8f11,27a4354f23583797,f04edf77abdab7f4,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+bfbbe78d8f361758,06298d6000e43918,35cfdde87e29c7f3,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+de1b6b925531d87f,241a80d783e4d60a,b4a84304db60243b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+84646b8f90656c7b,766b78d53f9bf1df,09629a0e6319f2ea,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+768645d0021fdbd3,d973cc9d66878afa,bb18c787767d3136,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+9c4bf3b4c8b6a30d,08b52d69265f82ff,92564ed28e9a639f,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+5efeb3c94d406630,7e6925b2f22a71e1,f07abf43351b271e,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+7c0209c49f3ab330,894fe102f24a3fad,f8b539999abba4b8,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+a44f314ec296c04c,5c8e0b694974e52c,c771fbab5de62c32,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+d0894d7359969412,10d1f34982c06af9,c49d33a746d3cd56,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+377f335da330af64,b2478fd9ee70640c,77bb7c59531de8ba,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+17ab62627195a0b2,563bd49ff5bff88c,53e020fe81e5dbb0,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+bd989217a417baf3,3d5547aad69ee7bc,f5212afc9915ae20,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+b9748ca82dbec0a4,0d5622c665b557fd,f4462bf2491af5b6,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+270009de4578ce34,71b8644490ce4325,61f01c1533819c8e,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+68b52f00cf515f06,513f3e21fa9c4cb9,a9228443d15c45ad,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+53c7f14720b789ce,4fe03e8b0566eaf0,c0ff001ea2574631,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+934e571d6c5c2178,5a260b82ddd73e0a,7f2ae376879262d4,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+37493c22b3aee255,fee6f2e99fdddbd5,badf732d84d7c0a2,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+279cc643eec0727a,32a76eab38f3fd23,cb4a4b4bc8efaf29,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+e50ddbd50f70e763,02edc69a7e14b0f8,de532ac01a57ba0c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+e82aa99122a0914c,0b9815d182fc3a00,a9228443d15c45ad,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+40be6927e0fa4cf2,7f56fd83d657dc57,1d8a7e747f0934d5,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+0802dacf27bb11e2,65168dbba0747266,dd8b531e3536c7a7,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+603a115fbc247906,17175ee154bbcdbb,8a79967ac8d6afdf,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+3fa033fae948600a,c4da2b2de67a1e00,d80ef96e006d9810,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+1f91f61f0124de02,b0dab4202b3e2ad6,ef54586a886506c0,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+60f4fd99bf75f37c,310353e394623204,332e9361c7055367,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,A,D,[[D]],0,,synthetic_format_only_3shot,,1
+f99d22cc2e4b54ac,93ddb385e0b4dfac,3345364202832980,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+727d19eb336a3413,8780050d4ee6b7a4,3a76f13fde0d150a,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+2496bfb06b5b4cce,63ad0baeb58a6804,c49d33a746d3cd56,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+a028ce25da2e4851,6859cb76cb1e38e3,5f49932225b07fe1,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+e2e17ae322fc3cad,e2f523cbdc347042,4e277606bc962852,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+dbadb8b72b47ff6b,a523086566222d8e,d61f0d6bb7267b85,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+2af8a4726d18b4fa,30652a6f06689b4f,e7792dcf67dcb2ca,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+f06b52729262332b,3ab953abf8099d4a,9c10acf930a1afec,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+f545abc3765b7109,70bc4984a1e07000,9f6ff5ef86896cd5,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+bdfbc0c38704a225,53005979ddffe52a,6990f656456426c6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+e2a6e9ef81315ba3,e7260cea74ce17d9,ff2c34568a56f126,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+3e7ff355b65399e3,0fe7e7226a812bfd,1b24f9ffd232750e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+5ed48621fff8ce8d,70954e37758edbcc,469aa82a97fcef69,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+c81422c9aef1f756,ccca1fb95d668c2b,1b7018322c4d864e,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+3dbb8fea520455d6,a23e477f2937736c,40b4c2f6834822f4,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+0c665d597e642f6b,61ceddb924a1a460,4ac0b07ef90aa6dd,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+0d121e6e7516be6b,a79a6ed728e560e3,c3bd2ef972377fc2,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+57a7f3dc1e2d2855,3f533de786dc87a8,119329f0de190707,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+4e2fdf79536f414d,bbac0ef713802538,6bd8f7818c3ce138,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+4511f0c231a9dd0c,0a13374cfe00e623,06dd4c516b61b801,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+f4a6469d5d1af528,286351d2671942ad,8afdd0c7cc279941,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,C,D,[[D]],0,,synthetic_format_only_3shot,,1
+21c15943a25bfa25,c8474c33b570f21f,ff4508c6b0c56bf0,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+53d1faf5c926ab92,05edf9d187623ce0,89a057bb04de6d96,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+145ec6426365be92,ef030eb8f14d2fec,6bd323f7ea5c21f8,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+f8be367394575875,2ff6152251cd5488,9450cb28345a82c7,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+db0a99b2e078a394,1d7369c68aa9b479,8daa12eb50295f81,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,D,[[D]],0,,synthetic_format_only_3shot,,1
+21acdc9bfbc63eeb,e9099882915b8ae8,9f09ca5fc982ef7e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+01e2dc51a8f1da3e,f5f99bfaf1007afa,b2e77bfc624b490f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+8a337ddcf3938c8d,36b4e10b63810de8,f01b671192f4bb41,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+167320842d0754cd,4754411ae42c7f91,b1a51b85453f8eef,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+7446fa425a34a029,8d53905170c5e3ab,60769dd2f8c1349d,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+5537e02d75dcc00d,72bbccecd9d4289b,0ea27f27f5dbbeda,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+f13e32542b8a52cc,1acd38e3ef83799e,871c0a600a0410e2,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+132e6af0e2dc70bc,f644df8f03b2208c,95ce99400777a274,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+8e039cadb76f5ea4,e1de72291229d9b4,c02dff8613c1b83f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+861f58e74da4f7f9,8884cf3eeb46ff61,c775afcdb96c5cb2,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+8624f5f197cab411,f3446503b6740a60,729c4adec327b179,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+7c323cb4db99e15e,23b26ca2fe6ec863,9e6b5fab2ddac996,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+a559704cf82a790d,c40e69bf8bd58353,610d7d28b12d48ad,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+29940f3b5f4cca71,1a71c775296a3f00,2b0da39a5cfc8157,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+80ab8f9ee06033a5,a56e6c973db91f5a,1f6a783073867807,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+7d2f6e96c8422ea2,6e5d097902c2f6e5,157069db112cfe35,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+b4d06d85b72302e5,431416393214d186,15c2bf0824af9af0,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+1285d70a8b75e096,8be7b9cbccd36f8d,d80ef96e006d9810,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+2796fd9ec97c2b35,bed8c2d3bced5425,939ca56f6bd7a869,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+80fee5b6ce31ba89,928648d98cf839da,3d540e0920fdb0f7,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+747194bba08272e3,d82075e59e8b1269,a4359bde54c036f0,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+972301450d51b8cd,dd78da102a496f91,532f29114f0fbaf3,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+060f925b8be15619,25d2537f03ebe45e,b6ee7b6c9accf598,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+8b22bb7230fcdfe2,d53c88a37104cf4a,8c1edd1d40278d73,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+83e199ddfe175305,45b88eb49e74f71c,da144ca3b65fa5f1,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+e977dd3121f5b895,41bf03f1bdba82e1,096a8969c1272c5d,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+6c8a9a51e1fa19d7,e73b210d8500a919,60ad82b3eb4f951c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+96b69f06d333ebb6,0b52c504137debb8,a51852759de9d81c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+a6ed3f769842b11f,4eb5fe330873e730,8bd92262f03fba3d,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+869eb920793758f4,917342d9d40f828e,30a68d647a4e0294,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+e4cbae8b0c980723,fe7fbbb496c57bc7,f7b5aa4b5051772f,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+16a61a8f6212df59,38484bcc480a3405,89808bcd3a0a1fe3,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+0d7d3f2c106022fb,412919b1b44f1bb7,c7014f8f53cfd173,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+638a3027732c5ec0,d53731c93cfcb648,f7f1714af68f3a55,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+9faa4e46646e5e93,72bfca8dc39ad8e6,5d042dbb68fac3a4,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+1dfcafd1110e1010,453c4f8e8010ac19,5e4b206c71906db0,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+78aef258eb07aa4d,8c36fc0ce25c1195,ed65fdbfc02962d3,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+92a5726b917efd5a,43591f5deaedd9b1,0917be28bf82b245,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+cee12879c03163dc,0b70feb342a278aa,368361c242083d63,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+1cb86e596cda523b,6e1f4e30189f7f68,178930889067bcd8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,D,[[D]],0,,synthetic_format_only_3shot,,1
+f584f92606fbb78b,89b1aa1826afbf49,92cef346fb51e801,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+4ef3adf399a3a89f,1c95702b527e2328,ccc28e806f81c745,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+e096cb9599295634,26c73017d82afe14,148ce7092e541408,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+bfea280f48d0338c,c410995da04450c0,be061fb9032e7dcc,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+c99dd2af13f3c36c,a15d62bc239935cc,24731258f5b0f31b,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+e0dad5019f4ad66d,516ffbf3372c890d,cb4ba94a37d0b6d7,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+11c950c2741b5321,730e4d3446eeb420,5f49932225b07fe1,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+ac9232378f1eb4a4,07e452e635fa7a67,d35e03338dc5a7d2,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+3f3f294fda58e8f9,7f07e04f5bba9cbb,e00bf37d176fcb69,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+1f87b56dd797afc9,4b67514ebdea6beb,656cd8ba1f455608,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+6e4752db1d176536,b8bad80de12a8276,a68edecbba34ac20,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+8bbe37aef2eaacfc,e93a773df54cc86a,05fe8c8949b8d9b6,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+3adfec2092b1141e,682e606864650349,7c342b665b72182c,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+5e3b9ddcf3e62bdc,4f704ab36d4bff6f,bba8c01fb7cb99a2,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+b8fd85a1f52ce945,7f4d37090abffd86,ac3bb099695f76d6,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+6456dd0cf835c68f,3a4864cd3a5c56dc,83b46e50d1e80207,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+2a8d5bba7275425b,581ad15e117b6f64,9f09ca5fc982ef7e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+eccb769a36ebdb73,b7e67ede985320bd,099f2ab00cce50ac,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+6adb60af74d2a82d,a4a68fc843f400bd,ea85c87b90940c63,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+944f856279968e12,ccaf1a48f284e4b9,4605537ef3dfff3e,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+d9e38bb621636b3e,48e23d51db539350,20739d80694b75fc,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+baadf7e823bfdea2,2fb6aea6012490a9,4a548a36a404bbe8,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+a7bb21727664dcc2,105f7a4b1bd59e80,6e53d18aa7e7dedd,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+f18d600473881f7b,c1fca89efcd87bde,486d1296d04dd274,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+a0c66b17d1279c52,14f3579d38664a2b,b3791091f0492539,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+a76968ff23a85e23,96a2cad14207d3b5,7263d5c18a30fc8f,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+aa71393ef70c3774,811e39da60196d27,3a76f13fde0d150a,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+4e5a094a747697fa,ce13686009087c46,daad1bf89268b335,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,D,[[D]],0,,synthetic_format_only_3shot,,1
+87d722f7613b5fd5,33ef41f5c59a5297,8e3cbeb3079b3d5f,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+a641e99f7c90796b,a306735b0079e0a0,00d9cb38e3036ef6,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+5c91daea292025da,19802e7b3fc35949,2e152cd41c27758f,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+bd5e296a81611c87,22721e3a1371b641,9f8af2be1d583a15,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+c52c91c9cb9de182,b225930bab006442,63eee35b5363c715,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+04a2bedd7912efb7,62fbad50bdb417c8,248c6c400457bff8,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+64e763136190edcb,b1d40a07f604c799,c4d312828ad6d1de,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+fa4020f017a7bccd,a6cf375f2b0b94b5,2571b9fc4f2ea472,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+3f20f5de74e58823,bd5f6d39304251c3,f7af30d8b54bcf80,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+2b12a4003b4861a2,3a9df45f930c49f0,a7695cf732beb7d2,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+21fbf5e70163795d,34419db84c527f78,2a1b5affcb737fb4,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+cd39c18ef046b95a,ab22771da025d685,871c0a600a0410e2,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+cb96c1ed9501d036,25779b616eeabb61,de532ac01a57ba0c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+9f1d9154b59afe11,a1d1fee357010efb,b2ec2f0059ea6a3c,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+a37be7eff145f2a6,6458b47dbb25616e,25d23b44fd1a98d9,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+4ce36f0b1e33592e,e2bc791ded3bcb38,006fdc53d0cf8b1c,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+9cc8a4016924b7ec,d731aeab06afa774,6bdbc0b9e52cb200,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+c97a2838d934bed3,9a0f7449c40626e3,b80ffdf3df201d93,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+f3486cde856d996e,f66af66660883311,0332b8c2f717c79e,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+aea077809f148427,2dcafbcf6f9deeb8,cd8f3338615c9082,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+4309fe65469f0616,a9870c8f88f46804,65fed921608be4ad,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+769ed4787068351c,375a890b0a88d9b4,de1a86abf177d687,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+0a8c2a7051427213,b81e53be52a91e9a,7ef7f0d261629824,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+bdbd3c681c3d7f71,12d3af998106b685,3a0832b40de83252,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+12763c43cfc5b66f,010aa7c3e5d2572f,a441f9065e27a529,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+3b5d6d9fadbe29d1,f760853655795f36,d548d4189b8df8d0,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+11035bdf2b3fa1f1,56dbf20c3be30d8e,82ae7102e25a198c,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+888e1b6ff4f79222,0ee757625f419940,d548d4189b8df8d0,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+393e70d19958904a,618209fb0e9457ed,3092c847620eb8da,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,C,[[C]],1,,synthetic_format_only_3shot,,1
+df6c368d2966dab2,a9116b9c1ccc4433,4ac0b07ef90aa6dd,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+88bbb2df797cd7ba,7ee6490f3bd58288,de532ac01a57ba0c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+23ea4d2f6789d16b,1fa343a1d477b124,53dfdf5d7d94ff74,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+7d02219d15c08558,0055425f7d34d3ab,e7792dcf67dcb2ca,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+c1f1a7b89fac4210,2402dd87c9b4ec6a,d9d012ce313f6287,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+d4ff0a684a202f25,117d0c7607b3aa74,8a79967ac8d6afdf,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+25ab2920f75e0c4f,459653df0c7bea4c,6dc00fbe83521921,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+755fc84d2f05d776,ab3074a8a802c1af,df2c89e08273968c,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+52f7e24963a3bfbe,cbf0823e349f130e,b722b4194c2afba7,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+fed737028ecf8e2f,c15b9edfc02ebb14,c0ff001ea2574631,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+7124594e7eb14ee6,ade60fa81992a8df,4ac0b07ef90aa6dd,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+27b7a512f10cd67e,8136a66220c56bda,03cf3fd133d313b0,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+7777ddb3b4b0df7f,6c10400189cb87f3,a316e61408c84dd1,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,B,D,[[D]],0,,synthetic_format_only_3shot,,1
+d9eb0fd256c8f8b7,6c9902c3d5f5ba33,b332ae581e443292,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+3bab620c670c909b,9d2bf14fb9af9f67,d087d9850e71f593,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+845b4db32b49bd53,4d2ca3cc80257f10,b1146e1542d8de02,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+ef07972c3042df80,7fca250bdbc2e5a1,19a3df7ed2fe3393,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+607a30807c5f58df,ef7d372d2ad158f2,85bb9f9992658904,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+56c5a7d90192d74c,942f2162248847b2,0815897934815f63,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+691bacee21bb30ee,2bb49bd363ba0c96,5c62c3279ab5168a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+54a2cd54e4e59e8e,8206397db589ff1b,426883d45b4fb3f7,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+62691293a6ca423e,b69bf3879b7fb16c,32941ef2812c58bb,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+52a592efd0612952,a9b3062f3d296162,c6b74debc8cc9ca2,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),B,B,[[B]],1,,synthetic_format_only_3shot,,1
+259a24925596e366,5c08d11aedd2d0bd,44c1146ee434bb9a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+8caf837aa46d2016,e903fae4d88127f2,4ba5ed9f75af1be6,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,A,"[[A], [C], [D]]",0,,synthetic_format_only_3shot,,1
+94cf239d5dc4c1c8,f68572265f9c6c85,876892b5e721d4d1,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+a297dd48e73d8b40,e0d30fd817bab509,89f608c6a17c9492,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+3925cf99e12bac14,cf98cf984e6d374e,757c0b2f4db82584,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+0bf52407a96944ba,121a42ca1f77edba,b99b2243d9873f3f,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+dc76c56323ead35e,e947395299c35cb0,e5c32d9e2d096880,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+0bd9a421b21df571,0d3ad74468c36012,20e247a956b883e7,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+58a948397b23b2c8,6c94f5536b309d61,18cce71c5dac0570,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+53ca9c246c1a3f3c,cfc96abb12ba82f9,6686bfea23281d6f,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+68943118f1dd9d11,4407ffc40b8fea51,4e81791a7059c398,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+8b6d884dd495154a,84eada9796832c80,d9f544aa31929966,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+38a99d596b739f66,988b1cb0e925cc5b,9f8af2be1d583a15,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+279496ac72a5ebb8,2d992a575d264572,967ac34ab5bbb416,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+98c70b8ac7c5d6a2,48c37f3ca21819f9,2c813ee02ebb4bda,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+d6298273e6038933,35156d4945218cc8,f07a4970094e2289,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+a705d417895f59cd,0bbc3d823d016097,2cf11e8d9358d924,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+099b090938c1070d,496ef8ede6810448,30a68d647a4e0294,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+86bda627486e7f93,3583b104a8eccedb,83298e947eb6bb8b,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+fe8883177cc6e514,bbfddbd3fb9916e1,e8b2d1976c6f093e,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+86fd21172603e107,c5e1326cf6513574,122323a6695d8bb7,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+81a2709ec47c62ab,760d51adf4d731ef,e17612965f3b6c27,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,D,[[D]],0,,synthetic_format_only_3shot,,1
+ef9527254948ce0a,119ffac4f0f77527,1b7018322c4d864e,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+131fa21a94a863f1,9fa23a74f9d933e9,6992b1af82881b58,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+60bfa08183487e2b,62bd6e5179ab778b,a474418785a7234e,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+90c03f2ccdea5a00,88b37aba6710f04d,544d05d2fec2195c,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+1813323af3bc7d29,60f5597edc3b8127,72afcc7cdf11a468,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+7b6ba118369bef6f,a08e9e46f500f6f9,f947f854d880bb22,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+744ba71f8dfb2cf7,44fc745fc4083e45,cfc663e773291b8e,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+ba69f43a85e712a5,75eabc6dca6faebd,023dd0cdede96038,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+a098be335a5e1fff,469bee44d6614e88,86b91d247a94dbc8,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+746d57d5e4838b53,491274e5a3eee65e,df392ac5743213aa,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+d4870e5dcd15e237,fe2308982ac98fa8,26dbdd3ab8485c07,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+433f571c8b68c15a,ab31ce1560abdf5d,0ecee7128a4396c7,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+a31070d6f7e5cacf,910c98a56ae0c5c8,f28bac3371fb9a21,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+9974cca052d4768f,d2820105c950b0bf,ffc56a33f2586602,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+a1b3986d446b8651,6261b0308993cec9,2a4e0abe923cac26,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+a4c5e0b49cfb33a7,ce267239ceffdc30,84508e21e6b393b8,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+461251272f514c94,1bb8ebc586544dea,7065e33ba454109c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+b3acb0ca5cc3d1ab,a787676c14bcf564,df392ac5743213aa,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+beb1335fafc1bef8,7cc2fb6979ab9b6a,1910e2ff9a9035e9,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+d00a3bba5f0ecbb3,ff78b08b5f21c32f,baae2eb612787967,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+be3efa223083ee76,92d1c223ed11c093,5bb361c0e33fde18,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+db95b2deba234566,69da672d7485d51b,42b332686ae8d826,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+19596c51a0279500,6e8a06a8baa28f38,460747e22dedf996,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+757142d69093047e,c6cc6b4c70ebe17c,677f10c9464bb385,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+3f6fc55f2cc425ca,4f6f802c00232a73,9a0e2afddc814248,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+9055fe3f04de744e,392cb2dc1bc67152,1d42931e34b9d557,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+e2194e6fa3fa67e3,326c80a8e542334d,381ddb15b468f30f,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+ba3953823f89f009,93fffd775358998b,80633f6bfa3d5cae,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+f88dbd383e3cb017,a723cf32aac24f8f,dfc13b8dbf593cdc,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+206442ba616cd3d8,85af379f7dd3289e,5a1703cac64705f8,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+2e5b7fe22efa4263,25abc0275c7e0c46,76b88541fec667e2,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+cbe9fefe85fb548d,c01bb259a172ae9b,71b4603904372348,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+cca8b9fc94b904fc,efea05c6c5437ed6,66d224b026f8a3f2,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+e9a43e9305360ae4,3db593443b1c557d,ff6c7780b0a4a175,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+a27ef98211eb4372,c685135a9ba73749,0861509c2bc4f573,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+8b1c95f8f8361dde,016c06bc24555bc4,578d6d4392866030,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+6bc75290e662968b,332b02c747b15171,2a6b00033335798c,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+80e4238d20994ae3,2b2296b9f0e188d0,96c071bce71f39e7,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+39018534d1cec62a,3c48f4d78d272792,bc01375662481b98,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+251e4073e3714dd5,cb5bc616170ee596,13647b52a8d17420,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,D,[[D]],0,,synthetic_format_only_3shot,,1
+40972782caa369c3,e410b02d55d4ca57,557c946f606bd3a8,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+3bd774a75c387b9c,4b12b18c99d7c08a,9a36b22830aa9df2,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+7897f8e02951ea36,2bb0752b14d30712,0be30d51e36121a9,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+cced6a7a753394e4,55934508530a2199,96d9758c81132b0b,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+181c86579c94ab84,f687d5df033bc83f,b6ee7b6c9accf598,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+b32091fe5aaf046d,7b39430e3c1e26c9,97a588dabd758af0,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+df3ef487728266b7,7e6a02f94a0c467b,4f2affcfc111d65e,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,D,[[D]],0,,synthetic_format_only_3shot,,1
+2f5ec4ea125c401b,7f298a8f2181c075,7026c4bd4f8f5bdf,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+259f5313c3ece53c,c09de98177d2d4e7,f0fc8ac6cd856d28,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+6782c8e912e70c21,dab45e5356802796,493c38d564ba76a0,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+e473696949841d64,ad639fa24f40a8e5,ccc28e806f81c745,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+c4bdf74515a4c9d4,f6acd66c013f4e86,f356027af17a7152,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+e55328feb116f1f9,0ea36597a6f44a4d,a3881f537c8cfbae,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+c80df6c2bf937377,dc3e7af18d2176c5,60c317b1fff796b7,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+53de9d7c3f10f663,1198964e40a67bbb,1b7ce2f576f35cc5,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+7638eca957478413,00c2c130a52877fc,f78dfc17448cfbb4,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+ea333f4ece6723dc,6a1781a45e421db4,3103de7ae807f4f0,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+4f61360ad86616b9,edc36cf19a172e5a,ab9c8f09688615c7,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),B,B,[[B]],1,,synthetic_format_only_3shot,,1
+4111bdd7c5a4be39,24a01cecb3701d17,4f9906ace8f8c2e1,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,A,"[[A], [B], [C], [D]]",1,,synthetic_format_only_3shot,,1
+ad2f58ceec370011,58178166a5d23c2b,9db5cdfc23fcb96d,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+0207c65c09243d97,8bbb7481b1e54e03,deb4f34c50ad87ce,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+bd3bb8a4ba03a5eb,54be971dbe555f42,c5bcc9b269af8b5a,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+2b834a66d3b4e965,915d03b9e9aa6e2f,98b46fcdd845bb03,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+a723dffa9d741fd1,634cfcb570171c7d,cd0d532467226b02,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+068841c4a29fa838,b05b41462a13bb01,28139d31ce5f717f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+e718d50931322e71,67a666713f8a230d,d6cc24d8eb020f14,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+eb1face80a2a93fd,7b01bb4cb8917c7d,e6784ec757f2af90,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+54b13649319388d3,0b586ec344407fd0,0675d2446af43a9c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+5682b330c733b43f,9f608f7818e99a86,f947f854d880bb22,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+04acf0bd1b318bc0,722712ecd1d992aa,824010aae73bed61,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+8d1a7d27edfbdf68,27b517acc05fa115,bd9e4cfc255e541a,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+4b120b442112bd1b,52a9a03875748323,30a68d647a4e0294,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+0738f345d8a1f9e7,5619f2940b54d11c,35cfdde87e29c7f3,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+0244c64aef846969,4b5911c143cf6322,58da0fc1b6c9596a,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+c16743a75631e358,b7a89e88c3becfcd,22f720c0b47e6ae4,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+9957406d53780d8b,58c92529ad7d4990,493c38d564ba76a0,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+dcea00c376c294a0,7861c04d83bc4e63,59eb652a7c154553,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+2dc3e1e1576892cf,bbb4805876a2abe0,f4498d6c949b4e1b,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+1420dca1d4fa8302,a69a0c5cb9b07166,eb740fcd199f5b2c,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+c6b73b2cdeea9707,878ca7f9954fda69,9a0e2afddc814248,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+d00caf23c010a2c2,777583758ef17685,5f49932225b07fe1,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+d9f95e32f1066b8c,60dbd3255e6086b4,615a767e2c5b2c40,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+635be2709bc1ee40,811cefb7cd260bd9,4946cc2fcd758b6b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+f4b10d41f6b0c0a3,a933523f8d5400c1,89f53079446cd889,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+d7a2293b16436c95,1fc467c776e63413,23383ea310c18e82,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+14b84509b6304869,09e43a37d7eca12f,5264d69e4b90e233,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+7bb9a9a7d53492ba,517f2e34f48dd7c7,fafa098a68e63efe,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+2f1122990bea3814,f31e31c789d1e39a,c813f2e6a8d676a9,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+71fb380c9366dc41,d6854800429580a5,83a8f6dd711bac5b,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+756fc91aa2d88c90,b99177858ab17fbd,8b86bd69827ddeb6,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,A,"[[A], [B], [C], [D]]",0,,synthetic_format_only_3shot,,1
+60d148eef56b9859,b5dc15e2c611e111,da45360c4115318c,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+e568286184cac7c9,76479eaf25feec88,af7f4aef0cb10789,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+bd754fd022130b56,3da561651edd659a,5508d0e354e81982,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+b5cc2f0873a46bd6,1afcc6ca82ab42d0,de532ac01a57ba0c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+3976080f65b1c45f,4dd4f84f2c8874cf,8d2f06be7df20725,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+b59d33fd1ac2583e,4bfffbf856f3efac,3c308ef048bd29b3,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+b95cd54901a8c7da,d226cec0ade774cd,eb740fcd199f5b2c,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+5b37be995b3eda04,190b59f49e680f81,b332ae581e443292,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+fd5bd5b0723c48f8,156a99cfbe2c56ed,ad3477bcbca19daf,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+045642847cce9f58,e41337f4894bc48a,5ed7c16d27f93111,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+fd38805541739b23,107dee391137577b,febab96df3993370,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+99b3ad5de7c50f64,e9d0248ce765283d,1242a5219b4700e6,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+32f4cc73d43f26ab,511388df185a1506,26bf0184d2262901,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+b79c50e4f8b2e481,5422629d0de02ef0,3026f069b69fab29,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+430b9458e0d865af,62b252c96a8f1a0e,d4479c50b983d8ad,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+7736abc7889a10a4,7d41f4099503b36f,d945e14464fccf94,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+839faf9bc3a258fb,0772d595afe146f3,53f9db7661841956,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+1ab3c21d5e959615,944a5b40d227fc53,c47dc391e020a880,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+5353c89604d8ae9c,83d2881acdc129f1,96c071bce71f39e7,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,D,[[D]],0,,synthetic_format_only_3shot,,1
+8d5bd9f8a3dc1898,483d437f634973e0,f830cd11ab2c69ab,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+acb8589c2f9d66af,178ab992cc61278e,bfa8c1889539c218,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+6b553293b5129e6b,3792ffa2e0a7b157,fdf14bacc5c33b2d,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+bcb60d4c2f923359,cc2353120120e4da,db1ad5ca0847f410,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+a76251dda8033866,99760692c1351da8,1915eb6e749020c8,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+83527388039b6c45,b3ad95e0e784bf79,bb18c787767d3136,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+94f8b5025e99d152,cf586848d9910852,ea887706c694857c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+d414682d137b9061,1df25d0b037a6a2b,df392ac5743213aa,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+d5e6f9bd0b3e9e17,99e16824f1be60c3,faa217dce8ea60a0,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+ee85db9596c3bc6b,549687158c931d19,a8d9d043301b08ae,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+13803d0b12f01269,0fb80a9617622e59,2e18afd22b6dd91a,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+a6547af6a370459b,74f4f6ce246500e6,e314d0e419933188,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+70543712603fcae7,c0349b69bca373ba,6c2058f2e5b7e66d,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+3cd6e8572eb99bf6,cd86dd0a200f369f,ed65fdbfc02962d3,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+d1f861bc5d623a8c,41555f43e6ae8d5b,e27a1f7501d99d9a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+318b5931a45b51de,f9b623f1fc830fe7,d304cdbc953528c9,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+e60e6475fd1c96d6,11809066eda16121,d522391049e02b67,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+2f8149ccd49d8e0a,f5e5a281d8212b2b,cb405e03e9c0e059,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,D,[[D]],0,,synthetic_format_only_3shot,,1
+85cef76eb0553a4b,8e7503915f2bda1c,6bd323f7ea5c21f8,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+ed21fbed0f81944a,3b6041a0e0e5ba75,7683dad89fe03999,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+2476aec0274dff17,212c5cd1ee4aafdb,1a8be0ac0d4a0bfe,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+f288290349005de4,8b4a1d897ad8b7e1,eda89cd9529b6e5f,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+ff4ba2245aa53a2c,de82da82a623f8fb,e1ed41dec707d29f,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+8c89697ffef19b9b,07e458fcff931b04,4ac2a87f889d4019,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+2870f340ed8a4ec1,4075355c09ea4a5c,e27a1f7501d99d9a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+0fefc11ec5b847d0,ab6a1fcdc5058214,f267dcc11cd49489,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+3d023c7c74a3c21a,ff96d78111088ba0,ff2c34568a56f126,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+ce67155cda85f3eb,c1f041d2e4715c03,e9ff670dfda3dec0,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+1836aa02630349e6,b929a6e263ab3313,a26ffbdb15801fb7,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+5912d0a2575fd793,71e73d0fc74c1b35,59eb652a7c154553,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+121a9baa1de326dd,645d58f50c84d211,cadc4711f8735090,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+8fd650702b4364bc,2864f506c08b730b,f70562e14f7acd8a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+5c81e701164c2308,e80cb91913bc7405,cd4c05edb1aa1c5d,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+1a19ff936b60a4e6,1bb6a18395661d75,b677d8b9be87d0b9,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+03dfaef930c132c8,1fbe5aa1db449d58,dea80f3f467b2837,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+bfa232cf9dc2a7e3,8af5cf9b61196180,c47dc391e020a880,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+f94b95a42228f412,9805fc1450ef704f,76d5f50c7ffa1054,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+24f61a5e3ad5f47d,f48d68770a7935ad,515cc72ac32f343f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+15315602e6a70d15,eda59fc2c1bdf3af,02f3761d504a9f0e,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+908898f5fe2baa1e,29094c964e59f80f,cfc663e773291b8e,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,D,[[D]],0,,synthetic_format_only_3shot,,1
+88f012c0eb3122aa,a5050406d3bed0d8,737994fa875c9def,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+8704e65b4f1172e9,45f8bb16af10b63f,5a1703cac64705f8,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+6775b9fde0684e0f,e55109291dddbf79,dc83c8fba9736e61,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+15fc28602092179a,a6ae96b567c322c2,9450cb28345a82c7,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+dbf4a1e310157aa2,ee8b1c2303bf58dc,7c173a0c0ef4ab8c,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+f7c7f367caf7da8c,228475cfa3033555,94a76da7229d8ca6,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+a27781eaf3e4c8ad,d27c091468339c79,1a37b6fc950a117c,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+a6d0ba49946b8aa3,10878170aad9f3dc,9f09ca5fc982ef7e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+76847920204f32c3,389c8f3485bbcadb,3800784a8f914e27,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+ee6fab84808e96a4,63e47930c16ba50d,6969da4f3e856f74,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+8e88d9126ab1d81e,de9346990ccbcd4b,928819f8ea22ab4f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+a70c2e5328b0a14d,ad5f7ad7d2939670,d89074cb641ebd6f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+e75ed86f3904793b,0fa7d0235ee809e3,2f5b1ed950cb7382,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+017d36991a521d14,80994235b4fbe928,95dc92b068d827a8,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+7c53527bbb35855f,f3a79725170538c9,43fd2e9c77838093,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+d5dbfc812916c203,c079ed4c321943d0,9bd3fd247be23a07,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+7dfd134667b2dec6,e2fb50a102740b4f,b824e2cc53fc1ad2,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+308ab7c53681227e,d1ae851f16cbbbfd,6cdcfd4e0b9e0040,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+61dce5f3eb04d0fa,55b62ad12f973902,8a86fbba421d321d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+e982da6c3920c9bb,303e8e3661f1c469,08b1ac1e7b02bc60,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+baa981837ae3c71d,e4937b1e0990e193,a707dc35a5c05a2a,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+d939b9eb6644ed03,652f0b223d6f9a3e,1d6b7e32301125a3,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+161f206c5dd4a678,2085458ed20c28b8,a5808762abf68354,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+8ff91b58802a999c,9cc115f63d11ba9f,0675d2446af43a9c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+1d45280f5137b426,b8bee982e391dee4,035d1e8df007f06a,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+0837cae4403a9899,c8b733ea2d8471f7,96d07019d1ea0373,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+d0f40fe23ed31156,c32c69139f506cf2,43f5d4a4a38eb2ff,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+e368b4cdfb387797,5c6b7f9737e79275,ebca817781445afc,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+d4cdfbd2ba0e1147,f6dca81a3b08617f,227c028fa6b26475,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+f3e4c24da34f8a4a,542465a1798c68e4,4ac1c22da896fa90,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,B,[[B]],0,,synthetic_format_only_3shot,,1
+34c58aa418ede73a,e0247164c996b8b8,0f9cbc0da85f4e80,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+d44556fed8cf7296,0204851358c7b778,36d05227cf5379f9,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+931872f76b8f9d2d,3574585b7cfdf557,bf220f72c760b273,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+2f51d87955d49e85,a59b14be46d6b3ca,d548d4189b8df8d0,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+71774329b41f3cd5,b94a5fbe63d71e15,c0ff001ea2574631,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+f610954935d10ebf,63ea78af4008ddcf,cd0d532467226b02,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+435aa3cbd269e8e0,d49712eccd2f8298,8baead1ab152d637,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+c2ea54e4ac5db832,8d87fd86760d4aad,034368341e5c0120,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+35c52e7a75ae59f3,340c25c5cc32a3bc,01c5952bd3c60c32,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+db052f6d7f85bf8e,dc6a0c35122e454c,bb97437fc2e1f84a,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+9368540accb31df0,835d45ccbd5b979d,ea85c87b90940c63,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+c48a2a48e1442d8f,aa0b67f8a08a5093,0ecee7128a4396c7,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+061b873e471cafb3,d8b59f0100ce129c,5e091c8dd3a65841,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+5d66d86c6b9026c8,44eb66e223d41d02,9a54b19218df936e,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+7eb6776cedd265a6,707c5630ea262cc7,d945e14464fccf94,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+609097ac3f69c2d7,7238bd7cdde6da21,060232d29b681d8d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+0f32a760e09e0b10,249a59141f6004c8,b2ec2f0059ea6a3c,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+66d808ba08c8667d,f9178bded1e4da9a,2a0d207949c53a5d,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+f6ca34d1ed7ce1eb,469855d8cbfea94b,856b38b39da29f9a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+767efbc674052876,5f6dc89bb2f8d094,c47dc391e020a880,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+5c556bce9cfad9df,17eda63a598c3f06,994806db3180eac4,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+38d231cd8a954f32,cb6a3cc062eb1a38,a571ce4ae8eb4d0b,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,A,[[A]],0,,synthetic_format_only_3shot,,1
+bc44c0f6fec28fd0,e44140a83d1109a0,844d5527fcc6d25b,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+ec940e1f1391049d,971bb11e95416417,febab96df3993370,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+07a389fb8b356588,4f8b984c25222da9,cb4ba94a37d0b6d7,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+4f4dd2873dcaaa7e,2a513ca59f708f06,17908714ec03f3ce,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+917436889c0ee0b6,2d00668eea9cd887,a62f673766a5992f,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+9d66ff275cbdb3a6,d3a9cdf5eb32b004,9da5fc53ff77d35b,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+954b17a4226de9ae,ff3dcc39415a7319,01c5952bd3c60c32,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+52150d87c15b0aa8,7c10ef5f2dc66e9e,e7404110c77e74c4,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+1de8331972dc75ce,98a2edba667256e6,b8302b2c16302ed7,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+69e8b4d2382a4838,948716a63dfdd1b2,c8b4a80e9dc76c1a,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,D,[[D]],0,,synthetic_format_only_3shot,,1
+86d6c135f658d931,66d5d6f203d5ced9,20739d80694b75fc,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+a61bffc85dd5a716,5908f5ef2d1bec03,3c308ef048bd29b3,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+09a3493e2a5a3ca8,f358ce529d1b94a8,19b4d884e22a32a1,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+c00690ede87f2faa,7b00c4e068a6cabe,fbaf577515455271,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,A,C,[[C]],0,,synthetic_format_only_3shot,,1
+1071659855863fd0,e53dd0eda7787c30,c1ccd63bb55cb124,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+1dc1c8beb4edb204,77b461d929cf8a44,5b4116fbe771f99a,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+55c03f306494686d,1405397692b0f0c8,096b684c019ef9b3,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+57e60358c47a7c3a,e6bbf1bd993a33cc,76d750cb5bfd2c89,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+2abdd71247f49933,ea2c8f6067de4e48,94736a448649a353,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+3998d4cf59b2141e,d945e812506dfe61,ae425851321b2961,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+684751df3f798bc0,e72618c6621b2106,43b774be62fb413b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+e3b152a3bed07ddf,6cbc5720ce906c63,cadc4711f8735090,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+6477ae6ed0c5ef1d,63dd7d959a88912b,ef461d69ce86b9e6,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+5d0b691c42296e3b,35665fb92a7ce72a,f07a4970094e2289,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+599da6b290d8424e,bfcdd8ed4dd70004,3a76f13fde0d150a,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+6b219b254a1bfec0,d7d0f07bacd1b4dc,f947f854d880bb22,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+d1e79ddf733d7905,0bb7187c2cd96b71,a7d032a83e0f661b,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+e2c342655c5dcf90,b8e418b7f56d82ba,a9e866463f789969,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+776aee263db3bcfa,900fb6c4300e9a66,75aefdd61529d95f,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,D,[[D]],0,,synthetic_format_only_3shot,,1
+31d1b96b89e1f7ec,87a92084524c052e,099f2ab00cce50ac,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+4b763708a6c2ae68,047e24e1d51aff7f,e8f35e466eee1c50,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+b9c05fce6da97925,a4f08ad1de3844d4,b6727b0df2ef13ca,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+efcd0f3f13ecb4da,8f57e5ddbbdb7fec,43b774be62fb413b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,A,[[A]],0,,synthetic_format_only_3shot,,1
+f1ed0332f06ad8ef,6f150277506876d7,7a1c02937acd204d,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+b07348ed4ffe93e1,00d25f3402ec151c,5c62c3279ab5168a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+95f4fb862192d8c6,02f4081f7ae54b0d,ab765b51f8b838da,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+bf68daac3fb921fb,0dfed5a54f14ffbd,315683697f4e7bef,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+dd14b540fe6f930c,f5cc262cf2e544cf,e80b3697f7993086,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,B,[[B]],0,,synthetic_format_only_3shot,,1
+d8627794d2c01d50,5497660d29b7623c,4605537ef3dfff3e,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+7e0226748c90b5f0,5ecaea4cff7fde4d,f8b539999abba4b8,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+e8a06e2e50025dbb,b8046b0b4a3b5825,ae9659aea0f2417a,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+d9b4863a1f966c2e,3a48f6f4e22d1726,9da5fc53ff77d35b,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+4b4ff56eb1988e3c,0c4344346588dffc,2f88ca147fd7ba6b,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,D,[[D]],0,,synthetic_format_only_3shot,,1
+f7fc3f3ee0392c5f,959134b52ed6fc9a,dfc13b8dbf593cdc,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,D,[[D]],1,,synthetic_format_only_3shot,,1
+ec8e569a34953db0,a454395e2cf47fa2,4c06ed2f697ed242,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,C,[[C]],0,,synthetic_format_only_3shot,,1
+49dce1ca422c6d7f,3038ff340a6617e1,4bf4de6aa39d5d22,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+8c5491b1ecc31c38,8803e8b73031dfaa,9426ab1fae1a2f9d,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,A,[[A]],1,,synthetic_format_only_3shot,,1
+4b991a3242242ed8,56417a9e8dc41574,f64110d587bbc86b,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+5fef387560465666,172bdd255319296d,6a54154736c9c231,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,A,[[A]],0,,synthetic_format_only_3shot,,1
+62fe821c594dd1b9,0ad8bef0d09ed56b,a62f5d3200af86ea,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,C,[[C]],0,,synthetic_format_only_3shot,,1
+8e33f53a909b47f5,29aec984aa1bf414,855554fe85aa7c0c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+337be1a8aa9aad8b,72b6f29c12e622d1,78e42cd002402291,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,B,[[B]],0,,synthetic_format_only_3shot,,1
+3f77a1bdae125b45,08018df14a0b610d,3d0701a93a6560f0,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+d82d2b850c67b291,dfc47d252002d0a0,ab35902705aa1245,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,C,[[C]],1,,synthetic_format_only_3shot,,1
+fb50ef93c4ab439c,a6479c80d25611da,46deffeb539e4a2a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,B,[[B]],1,,synthetic_format_only_3shot,,1
+7c3b50180ed6e3d5,7d990fae673cbbd0,01e4ef923d203bb0,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,B,[[B]],1,,synthetic_format_only_3shot,,1

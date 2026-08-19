@@ -1,0 +1,23 @@
+# Captured via `pip freeze | grep -Ei "unsloth|torch|transformers|peft|trl|datasets|bitsandbytes|accelerate"`
+# on a Google Colab GPU runtime, immediately after running the setup cell of
+# notebooks/tombench_full_rerun_v2.ipynb. This snapshot reflects the exact versions
+# used for the fine-tuning/evaluation run whose outputs are in results/.
+accelerate==1.14.0
+bitsandbytes==0.50.1
+datasets==3.6.0
+peft==0.20.0
+sentence-transformers==5.7.0
+tensorflow-datasets==4.9.10
+torch==2.11.0+cu128
+torchao==0.18.0
+torchaudio==2.11.0+cu128
+torchcodec==0.11.0+cu128
+torchdata==0.11.0
+torchsummary==1.5.1
+torchtune==0.6.1
+torchvision==0.26.0+cu128
+transformers==5.5.0
+trl==0.24.0
+unsloth==2026.8.18
+unsloth_zoo==2026.8.12
+vega-datasets==0.9.0

@@ -1,0 +1,23 @@
+{
+  "base": {
+    "n": 100,
+    "latency_ms_mean": 350.8219289779663,
+    "latency_ms_median": 271.30305767059326,
+    "latency_ms_p95": 688.6730194091797,
+    "throughput_items_per_sec": 2.8358446171744247,
+    "peak_vram_gb": 5.383020032
+  },
+  "finetuned_seed42": {
+    "n": 100,
+    "latency_ms_mean": 416.15968227386475,
+    "latency_ms_median": 414.8085117340088,
+    "latency_ms_p95": 426.0125160217285,
+    "throughput_items_per_sec": 2.3923942117063173,
+    "peak_vram_gb": 5.563227648
+  },
+  "_meta": {
+    "gpu_name": "NVIDIA L4",
+    "gpu_vram_total_gb": 23.65915136,
+    "measured_on": "ToMBench item-level test set (n=842, sampled 100)"
+  }
+}

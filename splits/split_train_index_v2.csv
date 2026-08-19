@@ -1,0 +1,1608 @@
+item_id,source,task,category,ability,answer,split
+09e3a7bc955a77cb,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+7b7861300737bc7a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+9fba544520f13fe6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+6dfd33220d88f3e8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+4f10a9c8febf0e75,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,A,train
+8a97dfdae91f1c47,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+dca0631edda7b23a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+55db99ca8672690a,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+28a72d00674a6fbe,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,B,train
+35b6f199924dfd66,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+d08aaa83a43f44ff,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+88eceeffd5ecef66,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+c1c0ceb914af6149,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+5a368f6a645f66e1,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,B,train
+9f8ccebbd0d7bf29,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+05216dc979715491,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+3521a6b190e93fd1,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,B,train
+2f777fea909bf9bb,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+2208d5b79f582862,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+b9f717ccd33c930e,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,train
+72ce15459e8b8780,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,D,train
+36ebe26ff3f72ce8,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+edeefc3e1ba22512,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,B,train
+78b781028dc7079a,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A,train
+6baef3e3c4f0ef03,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+d8d5382ce92e70b4,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+94f08983bcd4f45b,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+e9b0536431173306,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+aecd6f5588ce4b97,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+61079cbca8062b61,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,A,train
+2bc8bfa21feda80d,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+6f86363ba546cdb2,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+15ffcef7235a5ef3,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+643bcc8053f490ff,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,A,train
+d153f597ac38f6d3,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+5033a4c18fa05269,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+d0da0e65ce56f30c,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+6e3c082ec9c7144b,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+972911e3811045d7,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+e731b686062ac451,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+93bcba0c73dfe46a,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,train
+d6cacf18d37baa5d,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,train
+5b4558e29225d110,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+9c3f4c0adeb50939,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+73ca7e79edfd0f96,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+1b0422af2d82fb77,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+4bf408440b546e01,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+bfebb56de6256872,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+f64f09e508ab6c22,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+517a53cecb292548,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+0fa3837e841d8da7,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+5f99b406be0696da,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+fe59b1c3200f79e7,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,train
+2f9cafd444843e28,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+ad5be7e36f85f449,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+07181e9c16d2187e,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+82b2c4096ee0f23d,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+4dfb79688ee2f0dd,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+a1a153c62ad81b8a,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+7fdcb1acc2488b11,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+06e4ef95ed4b9848,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+740d40d5e8543f25,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+8824a8af9c1143b0,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+7c040c0624c19a77,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+f98aa6599d888be1,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,train
+38bd2533f92234de,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+1e639651c5dc6d3a,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,train
+a6214af1b41350ea,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+cd5f8a811d8d3043,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+ac83a572583bdbf0,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+297666e16b10cd81,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+aac7f329eb0e406e,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,train
+12d267415642609e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+e0b4ac3f29e8b380,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+61f95689b0a1393e,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+0084cd767b876085,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+1e1cc11ec8bbf856,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),B,train
+cac628482697aaa1,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,train
+f220419e0f62b8a5,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,train
+d3806147f50bdaa7,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+3ca68e29b534963c,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+1b376c8e35fbd195,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+04bf92919da58eec,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+5b5e6c94f6f36e23,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+6f816a8096dd5fc7,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+0092ec4fbce9f8f0,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,A,train
+78d8fc1bc32f9e28,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+4a865cfd991fbbaa,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+6af97a6690d177d4,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,train
+ed94fd9f60c0a2ea,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+56c1dc6e4b0a045c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+913ad63e4e55f0e8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+0ecbc3d13a87fb92,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+42af8abf5d8fab6f,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+66d781276fae7ec7,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+238879c1dc87ff06,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,train
+9897aba1d4c07c40,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+082cb5381e01bd6d,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+cb26586766f2d584,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+6e2a6e556e55edca,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+4ea7f492fe00e4f1,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+bb7689bba2897be9,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+9613d4be82805b41,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+f3cdc735806f42b5,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+02d7d3a18bd44574,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+5f7393bdf74309ea,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+6da6d5785b8d8b43,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+db5492d1aec7510f,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,train
+89ac3cdb9d4921df,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+83cdca5288d5ffae,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+79776d2674f6176f,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+b834cad5a8c91085,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+ff964339e7140d31,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+318fca6eabd42162,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,train
+988822d686a23401,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+2c170ba812fbf575,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+eb215c8d8d26a522,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+c998bb653b07f6ed,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,train
+d3c792f164e8f464,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+53752565123245bc,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+cb80160e0eb64bb4,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,train
+7f5bcae42c0bcb79,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+cc14eaae26c1558f,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+d6fa89a17e6f161b,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,D,train
+39954593a02a5a1c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+f0e1e86014dad62a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+4050d52b1c7b50ee,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+3370c6bc1719c6c4,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+8ad6419f30861d46,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,train
+fd6cb8a89da9ec77,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,train
+83d621564c023986,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+db1215703e45522b,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+2157f8fd871fb607,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+757f77554f3865c8,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+0715157ca5d47208,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+be719d6f1a9252a8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+917a2a0d4d26f958,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+8d4fa6717aa3d931,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+98e148e5c9d22446,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+66ef8356624110e2,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,C,train
+b62f2c72aec12a05,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+756e34d6ae1c26cc,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+3c8fc5932d74f5df,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,train
+068657be879cb4d4,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+618980a34f114e61,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+ee2ba79b451efcb5,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+9b93b5b520a0e3b5,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+a17972f5734a4ce2,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+4bf0481d6aff6d75,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+2e13bbc4cf65f91d,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+ffdf724173727cfc,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+f80a358451638efd,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,train
+9fd4fd8cc0910eb2,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+7a1cea57d20a8768,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+3ccec66b57498f84,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+54c64ebc33b7ee8b,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+e4e0759210598f67,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+9ec60b0f4a4d1e2b,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,train
+6fe39131c97690c1,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+e56e9e793c185c46,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+b5159f83c15bc566,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+fbf35857d7a8d946,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+3859c6a546d25c73,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,train
+bd5d2c7b42a189dd,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+0cfc10e5977c0f20,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+201caecb94c198b5,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+adc7b85c32339ea7,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,A,train
+6b313661ae7b20b8,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+7b67c378f6d811fe,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+bbb6941cd4eb8d51,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+e018787811332fd9,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+04b0544e0b690f7e,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+662233bf9697fea9,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+ba8c3e3094afc2c4,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+f852d79add337b78,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+426f171a2eae1dac,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+f69f3521a163b8a4,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+90b6fa35f903989e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+f2c36b90358e1daf,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,train
+d40f0b271ba2b065,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,D,train
+002fb0dad2fc119a,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,train
+baeb52526c2d17d3,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+fb577a78998faa62,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+1b4d8fddea886d88,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+a723cae0e6167fe1,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+574d7b3d73d1f674,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,A,train
+b88c54493364189e,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,train
+ad56732d4b3b456b,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,train
+cdfce6370642321d,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+2d7a448e706e2947,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,train
+61707e5c85470135,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+ed76bc1c8a8e2150,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+eb01abe361698002,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,train
+768b3928446e81e9,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,train
+6044cfd9fe49512f,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,B,train
+3b936fb6eed7dde2,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+f4a5ad9d70c13b4b,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+6296ddfe5dd473ac,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+59cb4e6911e45437,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,A,train
+9170c338c60ac8cd,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+2531ff98e6fb4179,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,train
+2c26ee7f6acff352,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+5beaa9f65bd722fe,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+b97b7b14293aca49,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+d4d2a9a1682ddb6c,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,train
+0ba3a46ced34fe6d,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,train
+a3f2ac061a08a814,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,train
+9188a4b6c62531b9,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+6fff71a805f6ca62,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,D,train
+2f273d40967e16d8,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+0a83933a71adf8fb,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,train
+0e73a8fe79007779,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,D,train
+c2640ea7fe360fe0,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,D,train
+a5e4e4bde3fe68af,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+cc1f45ae4bc34a6c,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+d1b66791db16a19d,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+2b0295d87b362514,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+67a850d2a019883a,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,train
+754ad6404f219134,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+f0d87b730dc3905c,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,C,train
+c686098dfc09f67f,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,train
+f871496881c3b507,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+6c42df87f3e05cbf,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+ebf9b64c25b04770,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C,train
+ccbff4e13c9481cb,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+7cbd43380dc69b1d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+06afc7891dfd9407,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+b73d757a283bb693,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+89f7caf34fa28d35,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+1f573e4631dbb4a3,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+d5c61b5829d5b636,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+def2a5508e7de405,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+9a9543f3ceaf2ff1,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+c935e836a675b45e,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,train
+443061e684215791,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+4761f9f2568fdeb5,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+6c69dd756fc1a393,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+1d8241486dd92203,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,train
+e24389323b6923b1,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+813e7c7d8c6753f5,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+8d94438f2cfe4786,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+f9171595f5b909c7,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+c4607ae23f0c03fa,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,train
+66b7e1a6c4fc6e65,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+d645ac83dab293c8,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+3237c08960d88663,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,train
+21b38b79cfb96c6e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+61cce607e235c527,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+5a368cf9ef665e37,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+fef378fccd38216f,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,train
+9da66e099994346a,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+796217336c2d7265,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,train
+246f339e3dcd551b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+ace9b972c5c83b1e,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+2d18dceebc180110,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+3c328a505d9277e8,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,train
+a97664a932a4b4dc,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,train
+d42d8a2c90c96a76,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,D,train
+7b120300416ed844,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+53a05cbb2975c238,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,train
+290d9d3a84c50003,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+b285beecdf51d8da,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+0d46ea24dce0e808,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+a603f18e2872e0f1,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+f9b94f031fb6053e,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C,train
+71de20e9d7b5403f,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,train
+45d6de5d1f8a94e2,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+438535d5359ff2cf,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+c600f184f642932c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+1d49689ded54e6d0,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+a0e4ed5182cbe148,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+163bb172552e28e9,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+c45f6f03dcc09a88,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+8e55cbaee744df1c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+4f685962ff6ef743,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+c913b9417ffa550c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+c3f4031498b3f71b,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+2e9d1adc2405168a,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+23a7d5e99cf94c8b,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+812e35e2fdbbbfc8,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,train
+24924c16550f2109,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+39937f3885926030,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+5350ff104ca3865c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+cde76eda65ec65c7,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+c02f4692f0d70432,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+a220a8535e889796,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+7b6240f1522d1408,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+d16c2945123da3e2,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+bc2c322b5cc43af5,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A,train
+8b1f42f456f7cda6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+19c565c0fc859601,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+9df31ba2ded23869,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+a863c980fd4ff8bc,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+3be99530d2b923d4,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+f35949c7dff4c161,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D,train
+2f6de0e584bd6fcd,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,D,train
+cebfa6b8b9d1a91e,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+228346da5bb8168b,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+f353070ad31bfb96,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+06cd4cbbb243ef6d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+f111db6dcf35875a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+9c7ba0e98fe7ac15,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,train
+96af628fb39e8998,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+45ff5673e717370f,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,A,train
+dbc25b10e3153a65,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+e2e6e8161cf64fd6,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+fe7cc4fcd6ff9997,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+3686c0f436a2397e,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+7a48993963074cb0,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,D,train
+f051ec02c33e2490,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+c00d1ae481b8b6d5,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,train
+0c04c51b32209872,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+cf05927b9471f8d1,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+0dfbc39b5ed7f50b,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,train
+0d775e4bc1931c15,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+7f8fde4737f30ebd,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+b203601057b49564,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+9d35c2d4caa286f2,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,C,train
+ba6a21aad0d0bc28,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+276c3b56e5290448,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,C,train
+eab5ab2a64b5b7ac,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+4a7fc23d82d35279,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+f247e6fbffc329d9,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,D,train
+e94f85c3253a2a32,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+973be0055ebc4aaa,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+285a3b6c390e7845,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+4c6581368c06afe4,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+2f25e4d792d29163,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+7058025dc0b10618,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,train
+0045380722083375,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+e988fdb2e713f7cb,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+398bc870caed08e8,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+2d04df6bdc9c2a07,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+7bfca9515c41b999,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+6c0b80c8171a1cd7,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,A,train
+f31b044f0f4155e3,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,train
+38993577a60c0d51,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+77fbbe074f8d02c6,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+932b3991c0b16c1b,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,train
+1eee9624bc4ce55a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+1073d4c092c85fa9,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+40bae93e6df4639b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+f84cdfb03d902c65,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+1d55e7ac0a7e8f85,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,A,train
+fc5788f7304df478,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,train
+b120247919d36e70,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,train
+9c84be63efa6b1c2,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+c6136a9016f64886,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+83ecb9b55188ab68,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+9e8d651a344970a0,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+937ee0ce116b99af,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+1717b1ab128baa03,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+011853323b99cff3,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+a56cd32c3fead5d3,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,train
+be22242c42e26ede,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+e71b9788b2dec50b,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+049559717c087189,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+41436b34b8a20f03,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,train
+3375e80dc086805e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+36df99fef54043c2,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,B,train
+03eb07b42cfbf4d7,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+e38b6b48bd510839,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+d3159d8cc27bd240,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+0ca2a4732f16efb5,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,train
+3103eb480f9ddd54,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+d24e2f5a731b72e6,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,train
+e0fb770261d70709,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,A,train
+1248f0f3c9cdef4e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+94e27d7a4f1e1cec,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,train
+19c55548fc0f222e,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,D,train
+aa2c002627527945,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+3d6a095384ccc44e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+ab3f264ac74a11e3,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+cf2f1e0c9b5aaf7c,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+814365fc9a8412d1,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+969542cf79f90a5b,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+0a2cc6603f49baf9,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+d285e15cf36f7b2e,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+e41d5572989c8f48,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+67ea8594afaaad86,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,D,train
+53c6e3766fc3a10f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+9e3e20091aaa9621,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+1450553c8476d424,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+29f4baf89c5ee471,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+1e247cfcf3732dbd,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+cc1f179f36135c67,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+3f4914013e3a7b7f,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,A,train
+f15faed3d06b5996,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,train
+9a8d99303148c4a0,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,B,train
+02765c8d9938e963,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+67383742f0e402bc,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+aad09b9e4d34693a,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+dd37e32a435fdf2c,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,B,train
+ff2d88724f60a8ce,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+bb7c27868b8ab8b1,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+41199a75a9110059,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+ea1df588327a0062,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,train
+ffc2eb2fe6b7c9f1,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+9fd93018618fdb6b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+941e60b08877a5de,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+99e23e8cb1bf54f7,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,train
+63f919b287a24103,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,train
+3d6298941de9c0c6,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+4e66ea19c7220380,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+b8afd82baf4e54c2,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+16e9f0a538dd48bb,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+50ef402cff4c3d91,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+5daae91392ebd8af,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+05a2ca3473779145,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+aab22742b4bc324b,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+f693ea4897ea742f,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,train
+cefa27b8f1c80a94,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,train
+991a9095db74b267,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,C,train
+8fb161d6ae4b77d5,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+2d9467c379548b8c,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,A,train
+155992ca9eb0374f,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,train
+118a8be83e84b96a,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+cf1eb35fb90db292,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,C,train
+9c9d86e6dcb43166,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,train
+1406a0d9e40aa1b9,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,train
+c2b9d0df6ef87a6c,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+f377007537f32674,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+a9a2facba8836438,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,B,train
+de7c91cd17eaa33e,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,C,train
+cb14e647bff8ea78,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,train
+dcf3c7971c7893e3,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,train
+d0b4428b8d8e718e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+bcb4bf1bf1700314,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+909f5ca2bbbfaf00,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+4c609c5194633c22,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,train
+21adfaef52d38e58,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+bc81d42ea61d819c,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+55b5dc6a7ed4c2e8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+1a0de4b97780293c,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+abba55582efd2e15,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+5b5d67bfd4bb789f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+07f3e638f2279c10,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+5ebb44629dfa6aa0,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+f3a7233785c377b6,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+0eae220800bc7a37,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+8544ec9ef57cd83d,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+f7955e7be7bf17e2,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,train
+18d49d400377d14c,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+cae7a703f0a3cd89,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+5e573f4fd55a60bd,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,train
+0c507e77da4f6d7a,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,train
+929821ccb70f1cf9,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+1691cf083c170786,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+475ca753a99eb3d1,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+46ad8cc84b522784,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,train
+a278c4e6e37cd096,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,train
+cb693803ab34de46,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+1faff76a53ae77b4,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,train
+5895dca283457f95,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+8c60bdac74071806,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+e5269ee3f76bed0b,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,train
+6abafa98337b4795,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+b5e4556a851f97a5,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+0f90ba0909e24c7e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+679ef24b57748127,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+5c515ad0c0312ce9,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+36914ec71b17a678,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+0f2da7d85a861339,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+41b6d6d3c35928d8,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+d12458070b4afd2d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+a88ff738d7a6cb5f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+c1c14e6fd116884b,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+5abcf2a6ec40d16c,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+8dea42cfedc15094,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,C,train
+22c9b5ed57863f26,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D,train
+1259b1b446bb9230,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+7a495a42743d55a9,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+f4612116342f404c,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,train
+e93e9f5319c5d143,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+2eb145f0b31acb38,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+acd459ea83067e2c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+1d9c192c669f54ce,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A,train
+13eca6192b5ee686,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+66db5a1058702d42,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+461a4903468fc6ac,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+510fa42922914f7d,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+f03de3e49b7a6ca6,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,B,train
+18bac602a1b02fe5,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+1a37a431693e2daa,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+0c5398d2f81cf18c,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+53d1a35acfec0e09,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+5288f50572143e04,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+f079b47097906be1,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+b49764025b5cb1ef,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+c146735e4f54d3ab,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,train
+747ac8059314ee59,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,train
+f64fa7221a775f14,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+92f1f9337436bd76,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+e9f30cbcbf83d5f1,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+07b83aebc23ec51e,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,train
+60d435103cc00cd5,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+8c3cfa73180fb43e,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+1aee3cc2a2e7e41c,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,D,train
+10458349fcaf6e4d,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+9ab9dc9e5ebf2004,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+7ad54b30cf0e795d,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+ff290881aebc5406,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,train
+c2618c8399087819,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+453fed2d0812731f,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+26dc278618317b6f,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+d9b5f3ccbe33f399,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,train
+2eba379006fadfcf,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,D,train
+6f906e8b99510608,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+22a47781bcb7be2c,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+b2c197b96a4032f8,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+40de9d84f5a5ce20,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+6d2a930efd3bcccf,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,train
+c3e254b324a4537e,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,train
+215f247958193e9e,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),B,train
+d917d276640f3b4d,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,B,train
+90c66464781df5fd,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+c168f90201fc4ecc,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+1121ffd485d1988b,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+9f4f579b83129e6c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+6981ed049a245b48,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+a73afcf2ea238a20,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+884288b67e950168,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+e631209cfb87cec3,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+99a9ad9bdd48810d,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,train
+d7d99c9b4aa07e70,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+efde43d72fd6a106,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+23f858ba9339c149,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+975e8e27b8df81e3,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+bb90a013cc8a713a,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+a8bdf5571473736d,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+ce456cf577223208,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,A,train
+3c1d2f8c9e9ce5d5,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+3e0b9ffdf84f226f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+401072c2943ac833,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+2dea6ecf6896cdec,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+b7b86a2ac92cc1c9,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+ad487f62e3382d9e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+eae2ea15a5085cc2,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+1f75631a7cbbc84f,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,D,train
+efa92c005f8e954d,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+ff314ab85a60ec31,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+7dbd2ffe1ab5fcac,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+fddba526f93f688d,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+1ca61b66e7e1d2a5,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,train
+ababd15b8f0e174b,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+ab4e7a0017683744,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+fd3343def2b6a385,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+7f48892279f49962,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+2bbc577b3d9a53a3,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,train
+4077b02f2731b6c4,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+eee79d2c3d260d40,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,train
+c6dc2456ec7f3665,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,D,train
+66f54c4e5d1883e8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+a3f16a1d8de0c5d1,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+814d8eda7e1e8147,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+3524be8f884e9c3e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+91acbd47f0e5f6d6,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+e8536d419674b66c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+7258d5a8cadb317a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+c8c220ea98020b68,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+38022aadfd40279b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+ed0742ef56ea662e,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+99f6d203d39bbf5f,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,train
+b2cdfcc65a9d5ff6,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+3830e93d75a9fd92,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+4e68cf101328e699,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,train
+72c14a096f9d37c3,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+76fce430d6bb9bc9,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,train
+82fd9d6322d6e30c,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+7401e63492ac4af9,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+49963db1c92e003d,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,train
+035aa9c82fa8fe92,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+c240f7ef2a78f236,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+9308c0b6ee2f335e,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+781a9ed458d59165,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+0e2848222a55ee56,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+6cd6a37f172dfdb6,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,train
+afd700c7ac42b51d,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+83d3d059b4956852,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,train
+78ffb10d0856eb53,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+2708f2469b979789,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+ed2892d103c7f667,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,train
+6a931cc6b37773d9,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+b594fa7f18df70f8,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,A,train
+5ba7e8b622b87aba,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+1d07d81cab129d01,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,train
+f03942a476a98be2,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+0cf8c67436096331,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,D,train
+c24fe582e5af693a,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+fa2649a8d5362c99,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,B,train
+0f5589eec1cd8126,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+e8f9adc806f1c920,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+c9c287c4903c277a,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+a8cdfef1237de653,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+21d1661f67dc6917,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+2828a3a58d329866,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+7581d6894011c563,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+7079cf3353caf2a5,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,train
+fee65184c002e679,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+92e1688cbd81f21b,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+ffd01f02c21d906b,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,C,train
+c623dc1289323888,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+3d968ce2120e2223,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+d201edd15c49a489,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,train
+e95674029ac8f4f9,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,B,train
+81b5e21879a4fa11,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,A,train
+b524e02f3408c31a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+fc5c78e91d1883f1,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+19b39f90d2faaa2b,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+3bca13707df8792f,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,A,train
+b9b9af61baeb79e7,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+f1b8f4f079767211,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+2825b31ee9be23c6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+b40284720156a465,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+44dbd491ee313739,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,A,train
+448d1b2210314f12,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+83f7186deb83a953,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+5b9640736ba75eaf,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+860b9172b996eba2,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+73cad5c32fc58099,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+3d00d9f6f188f94a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+41911618156e6332,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+2c823a3bf064a4c6,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D,train
+00d87f35471297f9,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+0a03ebd74966f262,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+fad0c5cfb66e2516,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+757122863a6d7b39,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,train
+59d267aab8ba9c9e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+d8d0e195bd79365c,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+633ecc3e2c113647,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+1c1bed79bb54a065,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,C,train
+2168fd09902068f7,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+51a8589d64b8109f,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+5269ccf2b8c81f12,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+c617442d39aa5287,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+e0de74fb5a8bb2d7,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+1f121d9fc2366b3f,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,train
+55340921799e15d0,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+afa3788f0cb7dcd6,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+c316d54bdf0ed228,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+043760bda03f10a3,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A,train
+9fc35a127b256013,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,D,train
+1930ed59fd93bc2b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+a55028a7b6ecf708,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+7646341d1bf65db1,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+2480d9589aa237fa,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+f8961e0497103bf8,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,A,train
+37fb8b65448eb06b,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+391e155508efc31f,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+0f966eb6b8a58e23,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+229483b096f5407d,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,train
+28b6ad1955e5eb7f,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+14260957eae9b603,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,train
+eaa238b30e7fd802,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+462b7e74542f5129,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+6cf6ead82f2ff014,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+d98922e6672bfc62,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+284a423b59ae770d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+b44b5b929f67c10c,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+60d19d0f33481dec,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+fdf76ae8df933d9a,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+56a835ebd76fe940,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,train
+7b8983ecaffc2656,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+e8568dba36dc7238,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+d8ec4e0083a795bd,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+c3e3a84aa2f06611,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+68e594ffe01fe9c4,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+6d31d98e0791387c,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+ea98cc576d187101,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+acae55b384522d15,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+1af4a782b056c92a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+b755aedb26dad96a,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+2aebeb2fac2cfd74,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+06941e569d1cdb97,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+40390aac0d45d937,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+e005ed34aa09f694,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+4cad06d224c6eb03,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+aed14d2a9812ac26,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+306590804330131b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+6281fff76284bd57,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,train
+cf6e840e7f500335,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+28bb1832d4822f97,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+bdcf0372d70d1dd7,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+34810852dd7af24c,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,C,train
+9328ce6c884514d2,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+9c77b540cc247cea,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+bfc470f4df67d955,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+71e3b030f028f500,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+8bc06c2a9fa18249,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,C,train
+c5ea42f14b5bd42b,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+00ad1fc9c5f37506,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+4b56d5241fa4c034,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+a678f62fc8679ad8,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+d9a89efdac11a5c7,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+7d57bbbbc90a8b40,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+971c1b4b0153b85d,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+a68ea6ec6e3055a9,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,train
+36836cd6e847390b,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+50b304162c496557,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+4dd04217079aad06,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+1d2431e728751d66,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+3f9df130c8b27df5,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+387951ebaa7ca8b9,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+1617116171904051,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+9b22104e5d7ea566,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+367d09ca713659d1,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+4de1839083254680,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+edce55f6358bdb9d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+d97a156f784c5048,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,train
+8a1048cb8bb01eb8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+5c47ee7172ad9aa6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+5a41eec1440fe5c4,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+946ccbdd8e597ae9,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+73fbf779bd9b34b8,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+185330ac74fb79cc,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+c4fff56051e65f21,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+c2577ba647191e89,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+f65c8c62a8646b7b,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+824b952920434220,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+72bf7bc314ea222e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+f5a9b7363382eb93,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,train
+60df579a1e6719ec,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+31a0e3a2de5f5410,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+c58e157b2ea26cb0,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+cc00ff2e57dc8eb9,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+c0a3576051aa9642,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+eeb99ce6879a05a8,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,train
+85ee356a7733ff18,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+d6193161bd13d12f,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+698263788372c34a,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+a0b62081df57d5b5,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+ce1338692cd7909e,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+b4c462e308bf7bf5,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+0f04e56814459adf,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,A,train
+097c79b34be59b20,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+9a1511914ab3ad7f,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+bdf9fe86e7cfc206,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+0007b1057784151d,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+886fbebcc0d32e4f,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+739bac59c78ac847,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+a2dd7c447fa83e96,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+49ca0a1205ba673e,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,train
+44e5b139dd1da62f,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,train
+fdcc61c8cb5cf5f5,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,train
+6e0164447f8c7b33,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,train
+aaf0a14acfa23fcf,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,D,train
+79a49782672fa76a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+f77a47c0a0a03bac,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+0a93903afb760cd2,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,train
+f507edef186a7a51,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+c6bdde70caac19c1,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+a12c9429fb986462,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,train
+c26a033804b66b3b,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+c7834be3820d346f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+3dc122f5470629d4,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+8b8e5962ec0b1e20,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+0f376ee6f6289deb,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+af47717482de3666,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+24368f446b9b3ab7,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,C,train
+c4f0da0444b1e75c,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+cf58a4efd607f837,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+725181421c9b05da,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+cbb4aee8330b6eed,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+0fff4207cee34606,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+50bf4cfdd93a8afd,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+c5d91177a0bc619c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+105c8806d9ef98ad,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+59a9d98a4852fc44,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+f8923f0f6671fd3b,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+4f3c5b2e5137a731,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+846322e78d5132cb,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+7659d0b916e2af76,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+f09c755b607d770a,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+cfbc81598fe1bb87,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+b3d3ff29a9a271af,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+67a8ba2d59756ce9,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+0018eaa1038b035b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+fb1b6473227bbb37,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+0e323a56f8a5599f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+d4d048ecfee7032d,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+445160baa0fbfeff,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+2d61d9bbda4b987d,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,D,train
+61651e8d0a66a1ce,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,C,train
+cdedaf14ab70da46,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+582859e7ee1fd6b5,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+ad375e78148273d9,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+1f4b67341e8ea8e5,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+6a15c0baeebadbc1,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+3a91543117933e9d,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+e45679e103ce980b,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+95fa9e3cdc2c29ed,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+73b6bb6bfa965d20,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A,train
+9c2005c10cb870ac,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+3e4a076b32c0a6ef,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+cf2a570d187a3ea8,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+d8b54b39e50d39e3,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+d8b12625764426c4,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+9af3f53a12f0763b,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+c2d799fe9eeb05db,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+7bb1a9495cde23f3,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+6cd34728404d201e,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,train
+35a30016bd0477de,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,train
+92abb4ddee4d91fb,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+59b48883131cd43b,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,train
+c477a13014444445,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+dd34bc0500391396,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+986152865a23ed55,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+46ee98c23d4d8ab8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+afdb3487e634018e,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+e1866eb63a072d85,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,train
+130efc394f506464,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+3a3b1fe75599345d,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,train
+0a949a0544a922ae,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+9b39c66043934136,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+9a07801e6238b914,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+bf73abc3969ded75,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+8098f0c5e36fb8c7,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+2739a60fb3debc65,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+1af4429a4b2cca4e,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,train
+712919985caa4c4c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+869ff77797d51ced,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+dc90698dd54caed6,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,train
+76fe1e9457b44168,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+1ac37277b96905d2,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+5f71fae1f18a5b18,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,D,train
+8ca88160be4f8425,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+12d466decfeda5e1,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C,train
+8f61eef496ae68bb,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+54d823b476dfad8c,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,D,train
+12d04aca8ba60b1c,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,train
+b3136ae64e1016b0,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+9edbcdbfe579e1c1,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+698591e8e3d6fc8a,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,train
+f2a0a89a94ca1413,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+17976d2eebf213a7,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+73097d3a60034359,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+44a307087de2160a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+63124253a6f6ca4e,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+9ceecbef20e51552,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,train
+478171dcab916f6d,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+b31c4e93ce415866,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+9a288291873ef7ae,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+0a44bbc195107fc3,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+c4506a37dec77d6a,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,C,train
+a4b394c92700d0a7,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+8b3079deab8fc553,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+62024f6ff3a3209d,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+0d15d1a4a8f2c2d1,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+1cf75b5c5cd0198b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+f7a500dd65c4fc47,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+bf61cc0b27dca980,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C,train
+63e4fbe117a123d2,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+95630c2a6758461e,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,train
+f873d8a9f65d3985,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,D,train
+cdffe1f985faa29c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+d13a4ae2e857d838,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+791338bf367ce338,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+da4ab5b501fe2b70,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+f441f8f5edca67b8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+0d70b2509893abb6,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+f765c0afb1cb5fec,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+94439190a53abf89,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+aa404e08f07bfa84,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+67d3618e3aa89c21,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+7599add51ff9f64d,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,B,train
+a39b076b554792ea,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,train
+b35bad01587c2679,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+d36f7ab0c9ab2e27,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+f7d4e891c77dbc25,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+11fbc14f5297ee87,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,train
+82235089d55173d5,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+8b5719a20fd84632,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+7db08548a05586d3,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+32168703e7b5efe3,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,D,train
+ec2251bebf3cae94,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+c0794f294c26f19b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+a25250871f6110fb,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+ee1b8734d27bdfd7,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+69c0ddd8a7b04027,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+a5ab6a1a94c4de5e,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+b62b3d3a7ec67eaa,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+4d410b3a41de5bfa,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+759cc2779a9ccf0d,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+6ea3c451fcdcadfe,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+0574a0c8c9482a07,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+4ccd65a947ebb869,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+c8c07ed418a47071,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,D,train
+c696a1a866ae3d6c,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+f1663a70ec5ee4c9,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+027cd4a0a2f19da5,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+4ef892cbdd281e3c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+14d2f698a78bea33,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+455e17e6967df34d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+44db5341b23ccaa5,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+9c4056a3993a30c2,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,A,train
+7228ca69bd475305,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+3becf572299a6956,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+1498ea5b0c933e70,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,B,train
+d312ae149c17af16,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+576a661822b53d11,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+5c547260fbaa40c2,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+2327e6348dddd9c3,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+2604afa3429753ff,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+a8af4ce390d52b7e,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A,train
+c7c50fc7242d9d1c,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+852b781cc38e40df,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+8c44ecb179a73071,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,train
+9d761d3788bceb07,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+78648ae1e6c31ac9,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+91de9173b778ac7e,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,train
+8c6ef51e93f83275,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D,train
+6fbc0aefcff10716,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,B,train
+b59dece5a42fa7d4,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+e9a0e597d761b74d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+5349dd3e0ac7436d,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+adcdd45577b6b3fd,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,D,train
+dea946cbbb05a8d7,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+43c7b12f36455502,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,C,train
+9842c5d6d87b136d,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+c8ce424c903dbc76,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+5841cea63cfd1c25,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,train
+7a7208ab072c34dc,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,train
+498053a3a0d21dbc,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,train
+43de6dc47590a7af,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+1c57c5a6a99d7d34,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+5cf58906740164ad,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+19cb0872332e4a72,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+a61682c5a907478e,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,train
+b76b857ad754c0f5,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+59faab78085e4d7d,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+28206ed5d0e2a02d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+63611cd901443b2c,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A,train
+d9e2fe479aa5db4c,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,D,train
+45c701c36b90a47c,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,A,train
+82393e0e966ba6fd,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+8b5c60de8a5152c4,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,A,train
+e9815aef41d199fc,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+618a6225777844a3,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,D,train
+3c49654114080a71,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+8cdae4c2be769fbd,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A,train
+fd06459019030d93,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+82339900a8ebe63b,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+865be69ae569a3d4,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+58958747cf8bdef9,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,C,train
+1b493bf2b71c1288,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+422d33533b743ae4,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,train
+c1d22c2680b37ddc,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+eb835791d5861a54,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+cb33092605c41706,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+98fafa66e7721801,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+edbd6bdc1264824a,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,train
+4a0cf38212a61def,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,train
+e3c6833e7422e0d1,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+0b7ad57f6209a67a,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+a563dede90abf88d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+1f3998a63f959848,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,train
+9e0681a57fb8e15b,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),D,train
+bf42a14906f296a9,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+fedd6bce57fa48f5,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+7d954cc51aa12a86,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+1efd9f30eb13b41c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+5257a0985fd8a56a,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+3e2b7a5cea58efda,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+16c3b28b74a26dd9,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+438d78fdcbf5de6a,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,train
+7fd8b41f77d74e5f,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+656b977cc205bd3e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+63edef7328d5d062,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+8f5adbf18162c063,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+da70030bbcf92917,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,D,train
+4165f457af575db7,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+3395219c346ff0aa,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,A,train
+48d121b7ab981f17,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+01fd407221721b33,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+db5532b456e3852a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+ad85e897e7571b31,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,D,train
+38349939ef498117,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+da4032e7dc9a9151,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+828eeff3dccd02c2,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+012cf105b9902f27,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+959b123d168c0006,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,train
+5a4503a827b7b503,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,A,train
+444ae01c8a49e41b,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,train
+c2f21e085f89d23b,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+56bb41fe3c0eb239,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+4b2f72925b7a65ca,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+c6959da1c5da8e70,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+f4e98365b56c5a17,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,train
+fbc3a828dbd76272,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+e8e5b2629a87eeda,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+0df064a66570105d,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,train
+930f1474743f8b14,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,D,train
+b37a8a3015005a36,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+f4c1ebc9517d652c,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,C,train
+33f771cc01930a52,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,train
+015af946d0f8057d,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+41a99fe9f5c2fd2c,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,D,train
+a6c322ebfecdb7b9,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+e9a288edc8271554,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+710ce5aba940b195,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+126f97d4bce11ff0,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+cc108be3cef01ff4,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+2075866def9724a8,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,train
+bc818ccf2cb7999b,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+8cf9e755432bf48d,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+4bfbd042aec0d7a6,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+69c6d9d7876f59c7,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+b353e39e16a9ae9d,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,train
+1914443368d8b3ef,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+7591b4ca9627ee1e,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,C,train
+d96df80322f15432,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+26f6f2b7acf536c7,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+c133dd84cad0ec6f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+4803acb168477f69,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+25103642bd18e366,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+a28bde729cd30728,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+2f725a6e55b84c30,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+6b76de104e8d7f88,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+69d3765a4bb2c003,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+ac3143da61adfe23,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+0d2d061264898738,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+51694fe306f12997,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+83389bedfe20bf49,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+7f40c1a1c8022980,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+171b487520c9ef78,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+4d2e4178a037945b,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+056a4274709cd56a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+061c47546df99488,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,train
+64af93609be953f5,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+a5ca3300c4e37156,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+8390ff5b54a2c219,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+0fef70f02dc495d8,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+c48cbfaae93f9285,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+45cad74fdf12ab6e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+43d22919aac7f604,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,B,train
+1c0d90902f4ebeaa,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+52215d5af197979e,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+e4608ad89852e393,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,D,train
+0e6ccafec5e3948a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+903998871f5ed426,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,train
+937d6d32b38862ee,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+9043415d860c1fff,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+0bd7e2df50a1ff73,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,A,train
+6dac8bc5a73be5c1,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+04100f2722bceb1a,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,C,train
+370f8296568255f5,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+1db04a5bac070b91,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,A,train
+b8480d98cbe78609,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+a111629bcc27a498,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+f22e6103f054b326,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+fcf43bdd24ade15f,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,train
+e8bbe09e11e92666,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+843de6c0777017e9,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+fdbbebf658c7adcc,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+448ad66a804dff6d,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+7cf2fbfce6b30700,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+bc211339319bd84b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+501bae9cac63d8c6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+6fd3b0129693acb4,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+f55fd8f15afb1354,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,train
+1687b195b14dd3e2,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+348215ca3857232d,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+c34189d786f6a1fb,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,train
+f6dbe3416b16654f,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,B,train
+86872452e45560cc,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,train
+5cb1df7bb26c30a8,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,D,train
+d3d06acc7778220e,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,C,train
+2f2ec230847abf93,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+89f3643628639946,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+88347a62fe000396,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+45df439b512baac1,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+3f9d8dc782d07036,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+189f12248ed2ad08,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+bc77ab6e6c3d1ebd,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+8674b50b870f2e01,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+fd11b6f5aae0f366,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,train
+ea09397220b6811f,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+4d14fea4dabeeaa3,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+84ec18badb69dd92,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,train
+cb0bef19bb0852ff,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+0049d900a683a0c3,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+99837d7eb21086d5,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+7271132f0f169c4e,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,train
+2fe0723d73b2cf00,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+2c595a2901b08dc2,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+53eb6f0ea725d64d,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+88516d8285a0cd43,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+0ca315b76ab3bbc0,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+a2646f37bcf057fd,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+b4bbf40d0ed2104e,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+142c60f94712c584,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,train
+8b66fd41b00566b0,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+c5d9792b5746df10,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+e7174c9dec5f2c91,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D,train
+6293a52d9eb1d42c,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+add3680301952e21,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+0575ae50b499d649,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+71f28578ebdf70e9,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+cd63d5967b88c605,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+09998a4f0fa55293,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+6680c860a5162be2,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+7a56a3a438844228,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+6783662e71bcd8d6,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+c566a985714ca1bc,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+0277afb28188f389,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A,train
+8b1ec1e2aaecbefc,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+902dcef99e69ab6c,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,train
+616751ccd0e0be96,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,train
+3c352a3dd5c3f19f,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+4bd7cb9231029048,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+6e74d07811834472,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,A,train
+cd4ca849a5c3cf52,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+f9927ea74763cdba,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+96296dc6dec51edb,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C,train
+1db24e01b6aabbf7,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),D,train
+5fbd0e905c0f4357,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+ffdaff92d62e7369,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+5a923f56737adf3e,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,train
+c76e07f4b35e50f2,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,train
+1266be16322b0d62,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+5edd100ea24912ad,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+8b96d9b5f4c849ad,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,train
+8b48db58959cd10b,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,train
+ab6bed3c43ca34aa,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+a42373d8baa17615,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+f4d37166e71311cc,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+5d5911a56430079c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+d7c0151e647e86f1,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+808489c81cb49a09,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+e4cb1d5b2c074370,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+9166ba16285c8431,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+8b8dccfcad00b614,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+f1788b002e44fc82,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+7d3e83d0cfe93f91,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,train
+923995885fa5f277,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+3a66afc083eff544,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,D,train
+d88c444bd8d7a845,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+046c123ed2cd4723,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+4e0cdcc00a95a360,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D,train
+a32ad6f23e706c1e,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+c7edb7879e122fbb,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+fe54cc16e0d1777b,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+581074423d629d35,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,train
+974e77c78428a916,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,train
+735604ea3982e29f,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+121f0eb7b8a56ddf,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+4f429cffa171906b,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,C,train
+342a28f0ee8142a6,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+4e60beac6df6ad86,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,A,train
+f0f75c0ea1a1845f,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,train
+8262b378e6e46cc0,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+f27d3390792f7b2a,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,train
+b28ef4d232d72075,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+e1190c1a662f261a,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,C,train
+6df2b224ad7998ab,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+290160f7e74aacb8,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,train
+83ed40987eb1614c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+5d8fab6a230b43f4,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+2a755907b574286f,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,A,train
+6333d5d6def3fe0d,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C,train
+42564c29e97058a4,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C,train
+df12c6224bbbf1f4,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+14b7f20506635a51,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+95d4785374c5f211,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+d973253ed464d258,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+9866301016f13098,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+e6a66de97a68b880,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+94221ab0bec36d4a,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,D,train
+c485f7919d3a3201,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,train
+5a25074c207c814b,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,D,train
+b22ef6dfef99002f,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+be95a8dc0a572258,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+a4f1310691969035,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,train
+4ff8a6be34dd83d8,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+e8181c04acfa4777,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+c65d9c637a43b18b,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,C,train
+4613cbd9abe2fcef,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+2378fe718ad32d63,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,train
+0737c8f368869f55,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+9e3ffcef0ed5bb43,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+0d4e0582e289b1e7,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+8702d132c2ba4245,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+85da11417e76cb0f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+92bf1fe97a3e0a96,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+bc7c326096bfe830,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+9c15be569812add1,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,C,train
+fe458571f51f3f36,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+e21988df2339eb01,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,B,train
+cce5dca38b26afb8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+03330981d50b8335,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,train
+7341f6e95ecadf1d,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,train
+5c5594962702522b,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,train
+a2dd5060598bdbd7,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+151ef76a4d329f2a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+729232cf85e969a2,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+4f83526a7bdf33aa,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+45330a12c97c9df5,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+89b79bd862fc0655,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,train
+f8cb246a11f094db,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+025658239bdc323c,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+897f5fc3a92dd37a,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,A,train
+30a466851b55e93a,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+d5807aaa237ea995,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+51cef6be70c2f7f5,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+e3da465108d71952,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links ,B,train
+b01b6e4d1cd4dfce,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+a1fa8da9515a4213,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+b8e8069a884c9154,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+9ef4226edcf3ebc0,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+843fbadaae96ee8a,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+a84eab3f790dbf63,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+04fcac5fc2e27f9a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+8ffee863f3bb97b8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+45bed1e2e53cf244,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,train
+833723c8dd9ec61f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+6d9f12b6f7be8e26,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,A,train
+8be095a0b21a6ae0,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+bc4985f481dc1d5c,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,D,train
+d8e0955de4026ef1,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+a0ceb979a515ad04,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,train
+76f40bf07ce5c2e5,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+76f7c3f4e460492d,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+edc70651d08a4478,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+a83b1d936d73602b,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,C,train
+c9a326255ca2be12,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,train
+937677000341aac6,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+b9790ea8aa49cb73,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+f64940710c761538,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,D,train
+c664df49de22942d,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+1fa57064ffae9208,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,train
+042c2ec3b5af7b4a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+8823d61e438ae340,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+8edd632f5c990f6d,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+a2b989e0fab29264,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+395ae24cdca34c26,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+4d9abe64651790bd,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+f863ae640523d6fc,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,train
+104eaaf4afcf0148,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,B,train
+e30cb6e39b9e9d3c,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+0d8223141573f4c7,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+89a614b1819ff082,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+d3019ae8394e718c,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,D,train
+ad7121b1ff5a81e0,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+6ba8e7f55a06f24c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+a086e4ec781b25c9,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,train
+bb59a325f3c1a2d9,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+50a3c786046d9b27,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,D,train
+41fdcec7e5a57405,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+858c49b6a6eb5df9,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+877d06d1ec894b63,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+b15b338a034d1e26,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+fd5568a50f467ea4,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+87776c4c3fae7f0b,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+8ecbc339c6a05746,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+70df2957f8f35e2b,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,D,train
+8d08e168cb5ce800,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+03c1161de32cd6ee,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+fa9f0b7e29f063d8,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,train
+a3730d30893c1d10,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+3763ab10777a42b4,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,train
+529af4b112b7df89,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,A,train
+65fe03da7410471c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+e7edde8ece27e91f,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+2ec0d40c9bd7da4a,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,A,train
+88fc5cf27a5db1fa,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+5cea07518848741c,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+06c3d24a4a605ecc,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+bbbe2f36a7611f91,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,A,train
+b823829dcd5e7360,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+1d048f84b35341d2,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,A,train
+4a3b3ce364654d0e,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+00bb352553d21716,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+96cb0025dd52b763,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+f21b35bf92c14a1c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+127d8459ccc83ca3,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+3a02d1e06167c2f8,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+429dfed2dbc8896d,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+9ff51a338a4ad9a1,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+ad3064de2a18fd91,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+22bdbf06d3ccbbee,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+c560402e56aebf1a,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+cef2ebec5773b5ec,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+eeb0436f9ac19251,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+cdca13ea02f70b32,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+1df8d694e4879958,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,C,train
+909db46ac66d64ba,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,train
+a1add1e66507b70b,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+983632eaf06ef362,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+431cd8b28720540d,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,C,train
+e150830991561c30,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+629c3958dcf1586f,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+c4b4c75c69f4a4d2,ToMBench,Completion of Failed Actions,Intention,Intention: Completion of failed actions,D,train
+5864a9eefc0f6e1f,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+f83f52313ac3d979,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+eb05bde0b6874e57,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+b213ac8b08001f8e,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+bb5e02b082c60756,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+b0b1edc90438d70e,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,A,train
+0a08ce1d58a6e9bd,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,train
+102bfd3cbe03e051,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+7ea5d1acdf289ebe,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+47a4c907048b8e9a,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,train
+0e74e7c28908840b,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+116898bc21d6f6ab,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+13bc6f84538a00a4,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,C,train
+0d2d2f34d06e1abc,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+fbf3c2b25b2af9ab,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+5e9344a69a0cc493,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+1e51f26f29030f11,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+c823494eca23cee0,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+82165e91b2fd7c69,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,D,train
+eff5e8b92236b9dd,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,C,train
+f28d3d13d25f83f1,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+ec9ab2697dcc9987,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+33088b8e7a923f92,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+ce6229f0dd9efb66,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+fe5255cb52b7b648,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+c2e3eabf93d68afc,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+ee48d1298081fc5b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+a33fe6e33071de6c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+448a40cc46d18136,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,C,train
+7886cca941577c29,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,train
+fd73468103f04cb5,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+9c62cd0fafe1b44b,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,B,train
+29a85f5263f08012,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+f312714a11a0606a,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+f01e68994c93478a,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,D,train
+338fb4621017ea45,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+24f1055f2cf131a3,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,D,train
+c35579549df7244e,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+48a0c23a31d110f6,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+4f086f771b58bcdc,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+8eafcbc33e38a4b7,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+f7728a406607aa57,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+2e781c36fd9c56c4,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,train
+2973b8a8db6e7be3,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,A,train
+347a76b19157cc22,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,C,train
+2d5786f372d1f0ff,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D,train
+7c4e20b92efc6a92,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+fbb580ae27629826,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+4617bdef18e9883b,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,D,train
+cfa9daf425d1c769,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+17c83a1ad4b92f33,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,C,train
+89643480a7ab0b4d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+67b024c9f3cfea65,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+1abb6b0aed6d3ad9,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,D,train
+ab226ee69ab42842,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+3ed2ff40e909bdf4,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+10e3663560732d36,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+6e7b10360e6f2a3a,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+1989a99bd84e7a7c,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,D,train
+45b53bd252922f85,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,train
+344b7514e2face18,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+436120532b751607,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+db42a87d386a9be1,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,train
+2aea89e9b57e8ecb,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+a2c2eedfead3c93c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+e799a68588de43e5,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+7b2796500bac72ac,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+44d2cdd480a3c32b,ToMBench,Knowledge-Attention Links,Knowledge,Knowledge: Knowledge-attention links,C,train
+205168ffc33c7c82,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,B,train
+c13150932f381465,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,A,train
+c032c2fe0fad578f,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+8078c02b472b4ba7,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+ff38e25f18073f15,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,C,train
+87fc993807b306ba,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+0cf72d12766720be,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+bda56b41b38a0958,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,A,train
+898e3ee5b3cef7f3,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+97cfb08af833ecd2,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+db5a7c3a23f51963,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+265a64a0ad59ef41,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+3822e4e456597d8c,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,C,train
+7ae7cee1b91626ee,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,B,train
+7b5af8dd3e4adc78,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+41c9e5021b6df9ab,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+8ee0fb1b1f3d0982,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,C,train
+45c5ada710276f1d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+6d89bf5212285995,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,C,train
+72a4364e8b22f337,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,train
+1e71e4dd020e3aa5,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+780d9a859e7f5932,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+a9904709fc2db904,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+d8c6d103e23b7d95,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+a39120c56671461a,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+1002a6be4abe5605,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+d6c8ab6e5f2453dd,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+9b3aad96b1d4150d,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+4ccbcf6db20e60d3,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+927e3d96716544bc,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+aa68710b032d072b,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+b9780943bed18065,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),A,train
+1ab92078dbb0ba5d,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,B,train
+bdaa547e2e1b76c7,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,train
+ded5464cac20af74,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,D,train
+ba54af09dcfff7b9,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+a4bc1a99e107c623,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+0385b6d6f2308110,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+2a6e76b00c2e8205,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+6e45ad9f95033503,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,train
+7c86c386dcc71e07,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+0924e5b11e1fb12b,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,train
+38c74bde05a22d81,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),C,train
+5dc1491e2c05dce6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+a881ea5cf3ddad70,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+360828457aa74263,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+26d187f7387670c9,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+f1fc46a80f40c07c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+3bf20b922da6e09e,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+02c91cce91045034,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,A,train
+330350e8ab948059,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+bcef6d1514ac0f12,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+177c0fe0d2148689,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+d2a99df30153918f,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+6cbab81b47c238d1,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+ac72c9903e89d03c,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+a655b555a859c0c6,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+46638be4f8298349,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+75569046e9ba7dc4,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,C,train
+de193890e5a228eb,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+53fe3a5e1c892d43,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+b455960e33605b0c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+76de1c85f0be9313,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,train
+b8a424d99fc859dd,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+0332dfde7dfc3e19,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,train
+f5253ad3cad51b8d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+37b5255a198ad5fb,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A,train
+883e07423af6a91f,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,B,train
+504e26abe543d2d8,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,B,train
+f4a49cceb813d797,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+a546ebf32b7a4c3c,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,D,train
+9315bd677d99927c,ToMBench,Multiple Desires,Desire,Desire: Multiple desires,A,train
+2dfb4de0e8306e52,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,B,train
+95354737be55a48b,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,D,train
+ecb46af06f358997,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+a4c1953abcf3057f,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+5c806c7316210413,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+0ab7220ee650187c,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,A,train
+14e9ec3046af5341,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+18b43d5568bad08f,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,A,train
+14010bd982479075,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,train
+0b5e4cf5183c0cd4,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+f63fdc4cf59a2829,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+5f61def277d35391,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,train
+5a7e1316baf15a2c,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+a5b0c22b032bfdd9,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,C,train
+830a3a2538ffedd3,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+7e4ce0b87c298e8a,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,B,train
+d6e0cfc70c4a9834,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,A,train
+6ae06d78ddb068ed,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+b89eee8351771c44,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+95046ca84d6464af,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+974504ed03a0a6de,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+b7ad13e9a825562b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+0cdac28aa539dbdd,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,C,train
+8d7d06440c02fe78,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+99dac2115d06089c,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+d14f40e0c8fd8b6d,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,B,train
+2cea412abc67c89b,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+176e9850a4b1363d,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+99227ea739577484,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+e91ff75dda4ca14d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+91a22c3e8474f5c8,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+ce344f37dcc38534,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+ca0312b02b0bd53a,ToMBench,Strange Story Task,Belief,Belief: Beliefs based action/emotions,D,train
+ca6f9c21cf741757,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+f6676a9ba77fcf99,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+2b74add3958623f9,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,train
+e2400aabbb292ce8,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+59b990a5ff1598dd,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,C,train
+a73f574d521403c1,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,B,train
+160d5b312de17259,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+0ea3954d62b2bc86,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+b01d281d3f64f586,ToMBench,Strange Story Task,Desire,Desire: Desire-action contradiction,C,train
+f716880158f4b137,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+db89580fc1894f12,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+5c1bef434d41b0a6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+e2ad88d99d956ecf,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+b374cb4a2125ff5f,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+064be0bc06ae5c06,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+ae32ab9027315e47,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+a24f2522584db202,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+3d11bd3ad8a224ff,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+a6e076577829125c,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,B,train
+f495531c59e79c05,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+f97e53eeb3d2a04f,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+9c6d9ba20ef64014,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+4bd708f3aed8e66d,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+7dd8b5e5fa7875a9,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+841e34b9be3a35ac,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Humor,A,train
+393d06f2951b952d,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+c714be4cfba2c1ef,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+55eab73d661c6deb,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+3459816003acc3c4,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,A,train
+78c6bc5723a2325c,ToMBench,Percepts-Knowledge Links,Knowledge,Knowledge: Percepts-knowledge links,B,train
+e9e6fc23ac9fc659,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+069c942fe257248a,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+4d4aa21a60a64a55,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+44c156d85d0b0b54,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,D,train
+89c87d73fd159613,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Involuntary lies,D,train
+7bdbf2bd8105c7e7,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,D,train
+42bb383dea3a4aa9,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+6357739ac94eb40e,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,A,train
+0275d99bbb7b14a1,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,C,train
+75aef04814665e1c,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,A,train
+6767e0124f84aa34,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,D,train
+d4a3bcdc9a908172,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+63d0afa96a0035c1,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,D,train
+4159052dfef08dc6,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+1f763bdbfbde2a42,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+67fb417e05b437da,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,train
+dc4be7ec98637e7d,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,train
+902af1300b281e8d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+16dc2f81111df102,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+9ad129cb142f20a1,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+f48d5fc7dcb22c52,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+9308a50bbaace00b,ToMBench,Prediction of Actions,Intention,Intention: Prediction of actions,C,train
+8f657ec20af45a66,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+cb6e3b9630003382,ToMBench,Moral Emotions,Emotion,Emotion: Moral emotions,D,train
+6be7ede4f2cf4203,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+43c21d3321c00534,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,C,train
+73603be29c37d9ad,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+595d8d72dd11d150,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+0f579b7324be4cde,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+366afb01dca2046f,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+52f443d7535914a0,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+41d949d9efe78750,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+e35a0889d5d3e980,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,C,train
+f9a4259004d7884a,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+d57bf32b9497db5b,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+6a9227736de7bd8d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+93012e666e5599e8,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: Egocentric lies,B,train
+07cf9e55803e78fb,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+39addf660214855b,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,B,train
+f6c9870767c3c720,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+272b0a99bd5c590c,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+a394abaecf7cd7d2,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+058fad8d73497a13,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+d9b89707cd194163,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,B,train
+0f7112201dc60f36,ToMBench,Discrepant Desires,Desire,Desire: Discrepant desires,D,train
+28553d206fd3e4b7,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+2e6bc96c13fce5ae,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+78a61ae9649e4bb9,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,C,train
+9c204bb43d9b6d36,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+41dadee9047a4f5f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+7da13eda65d8f356,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+e09bcbda78488664,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+d21176963b5c1f54,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+a9f4d120f1db4649,ToMBench,False Belief Task,Belief,Belief: Content false beliefs Belief: Second-order beliefs,D,train
+376656aaf8db7fbc,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+8663a0207bf36245,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+82a18c17ff29461f,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,D,train
+7d0e3991195027ef,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,train
+5d737fb5f8402fc8,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+7ea22b684a25d82d,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,train
+07b9f4378d899fee,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+2d6b3287e1e7288b,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,B,train
+3367f5ab9611191a,ToMBench,Hinting Task Test,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,B,train
+83d26cfcf2c97443,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,train
+f6d3855e544808ac,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on emotions (beliefs),A,train
+5bea1f0f62cd6e4e,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,B,train
+21ad9b5ee47e1c3f,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,train
+8bc69cbfe71eb1e4,ToMBench,Persuasion Story Task,Desire,Desire: Desires influence on actions,A,train
+097b2edd43aa7baf,ToMBench,Emotion Regulation,Emotion,Emotion: Emotion regulation,B,train
+19ed0eaf1cb1dcec,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,C,train
+8070bae07941dc2a,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,C,train
+2c8a72ecc91fd2f5,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,B,train
+1e05a62781347757,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,B,train
+8c284ddc50793597,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,D,train
+d2a507dc97ca091b,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+e84075c885017f47,ToMBench,Strange Story Task,Non-Literal communication,Non-Literal communication: White lies,B,train
+f1cfcdee3d920524,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+b9ea3c7029583337,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,A,train
+ebdd896f84759926,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+67ff665b951f635a,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,train
+cef6c61756250203,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+47353063d8fd18ca,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,B,train
+e577446d728ac431,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+525db9f063f11390,ToMBench,Strange Story Task,Intention,Intention: Intentions explanations,B,train
+8af9df43f1aed44a,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,D,train
+7ee150dded24d556,ToMBench,Discrepant Intentions,Intention,Intention: Discrepant intentions,D,train
+f78c5145ad06078b,ToMBench,Knowledge-Pretend Play Links,Knowledge,Knowledge: Knowledge-pretend play links,B,train
+64c6ad80c3628688,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+12a4414aaafca34f,ToMBench,Strange Story Task,Belief,Belief: Identity false beliefs,B,train
+f97240096c3eacd1,ToMBench,False Belief Task,Belief,Belief: Location false beliefs Belief: Second-order beliefs,C,train
+4dab635b3cbd0e5d,ToMBench,False Belief Task,Belief,Belief: Location false beliefs,B,train
+d82bb9410fdf44d6,ToMBench,Strange Story Task,Non-Literal Communication,Non-Literal Communication: Irony/Sarcasm,B,train
+61262c9f3a065d5c,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,D,train
+9526cf2d725a3027,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,A,train
+dde6710fd4999143,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,B,train
+b79d8c1e3162353d,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,A,train
+da45ed5e9d134d5e,ToMBench,Scalar Implicature Test,Knowledge,Knowledge: Information-knowledge links,C,train
+edabe324da064a8b,ToMBench,Strange Story Task,Emotion,Emotion: Mixed emotions,A,train
+35a3f5a6fd32da5b,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+8a792d22a274b37a,ToMBench,Ambiguous Story Task,Intention,Intention: Intentions explanations,A,train
+c345b2361e05c6cf,ToMBench,Ambiguous Story Task,Belief,Belief: Beliefs based action/emotions,A,train
+5e296286d6301163,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Atypical emotional reactions,B,train
+17f19a13a7bdf4bc,ToMBench,Hinting Task Test,Intention,Intention: Intentions explanations,C,train
+fc0cbf109bf04989,ToMBench,Hidden Emotions,Emotion,Emotion: Hidden emotions,C,train
+a5da2630013170da,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,D,train
+fc9877cac1e748ff,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train
+f26341266604927b,ToMBench,Unexpected Outcome Test,Emotion,Emotion: Typical emotional reactions,A,train
+a468c3fa97e4bf1f,ToMBench,Unexpected Outcome Test,Belief,Belief: Sequence false beliefs,A,train
+c7470e7f7a6d8c71,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,C,train
+a930b52257e16228,ToMBench,Discrepant Emotions,Emotion,Emotion: Discrepant emotions,A,train
+6bcbdc9bbe7dd029,ToMBench,False Belief Task,Belief,Belief: Content false beliefs,B,train
+3ff9c277715a8424,ToMBench,Faux-pas Recognition Test,Non-Literal Communication,Non-Literal Communication: Faux pas,B,train

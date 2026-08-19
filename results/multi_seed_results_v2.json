@@ -1,0 +1,42 @@
+{
+  "42": {
+    "ToMBench": 75.17814726840855,
+    "OpenToM": 59.5,
+    "ToMi": 83.0,
+    "SocialIQa": 61.7,
+    "HiToM": 62.3,
+    "_train_time_sec": null
+  },
+  "43": {
+    "ToMBench": 75.41567695961994,
+    "OpenToM": 63.9,
+    "ToMi": 87.7,
+    "SocialIQa": 62.3,
+    "HiToM": 63.800000000000004,
+    "_train_time_sec": null
+  },
+  "44": {
+    "ToMBench": 76.00950118764845,
+    "OpenToM": 62.9,
+    "ToMi": 83.8,
+    "SocialIQa": 62.2,
+    "HiToM": 63.800000000000004,
+    "_train_time_sec": null
+  },
+  "45": {
+    "ToMBench": 75.53444180522565,
+    "OpenToM": 64.5,
+    "ToMi": 86.6,
+    "SocialIQa": 63.1,
+    "HiToM": 64.2,
+    "_train_time_sec": null
+  },
+  "46": {
+    "ToMBench": 77.07838479809976,
+    "OpenToM": 63.4,
+    "ToMi": 85.7,
+    "SocialIQa": 62.8,
+    "HiToM": 62.6,
+    "_train_time_sec": null
+  }
+}
