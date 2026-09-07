@@ -39,14 +39,17 @@ fine-tuning, but a set of partially separable abilities that **transfer selectiv
 ## Repository layout
 
 ```
-code/       fine-tuning / inference / evaluation / analysis scripts
-notebooks/  tombench_full_rerun_v2.ipynb — the single, end-to-end pipeline notebook that
-            produced every result in results/ and splits/ (Colab)
-splits/     ability-stratified ToMBench train/val/test index files (item_id only, seed=42)
-results/    per-item base vs. fine-tuned predictions (5 seeds), the story-level group-split
-            control, three training-free few-shot conditions, and the statistical analysis
-            outputs derived from them — see results/README.md
-docs/       ATOMS ability mapping
+code/           fine-tuning / inference / evaluation / analysis scripts
+code/legacy/    original Chinese-language ToMBench runner scripts (run_api.py, run_huggingface.py,
+                prompts.py, etc.); not used in the current pipeline — kept for reference only
+notebooks/      tombench_slm_qlora_complete_pipeline.ipynb — the single, end-to-end notebook
+                covering the full pipeline and all peer-review follow-up experiments (M2 external
+                eval, M6 fine-tuned few-shot, P3 fp16 control); run this in Google Colab
+splits/         ability-stratified ToMBench train/val/test index files (item_id only, seed=42)
+results/        per-item base vs. fine-tuned predictions (5 seeds), the story-level group-split
+                control, three training-free few-shot conditions, and the statistical analysis
+                outputs derived from them — see results/README.md
+docs/           ATOMS ability mapping
 ```
 
 ## Item identity and reproducibility
@@ -55,10 +58,10 @@ Every evaluation record carries a canonical `item_id` (a SHA-256 hash of the nor
 benchmark, task, story, and question) and a `prompt_hash` (a hash of the exact rendered
 prompt). `code/analyze_tier4_v2.py` verifies that two result files being compared cover
 identical items with identical prompts before computing any paired statistic, and refuses to
-proceed otherwise. `notebooks/tombench_full_rerun_v2.ipynb` builds each external-benchmark
-evaluation set once and reuses it for every downstream condition (all five training seeds, the
-group-split control, and all three few-shot conditions), so every comparison in `results/` is
-guaranteed to be over the same items.
+proceed otherwise. `notebooks/tombench_slm_qlora_complete_pipeline.ipynb` builds each
+external-benchmark evaluation set once and reuses it for every downstream condition (all five
+training seeds, the group-split control, and all three few-shot conditions), so every
+comparison in `results/` is guaranteed to be over the same items.
 
 ## Model
 
@@ -82,11 +85,12 @@ guaranteed to be over the same items.
 ## Reproducing the experiments
 
 1. Install dependencies: `pip install -r requirements.txt`
-2. Open `notebooks/tombench_full_rerun_v2.ipynb` in Google Colab (GPU runtime required) and
-   run it top to bottom. It clones the ToMBench/OpenToM/ToMi/HiToM source repositories and
-   downloads SocialIQa itself; no manual data download is required. Each expensive step
-   (baseline, each seed, the group split, each few-shot condition) checks for its own already-
-   saved output first, so the notebook can be safely re-run or resumed across sessions.
+2. Open `notebooks/tombench_slm_qlora_complete_pipeline.ipynb` in Google Colab (GPU runtime
+   required) and run it top to bottom. It clones the ToMBench/OpenToM/ToMi/HiToM source
+   repositories and downloads SocialIQa itself; no manual data download is required. Each
+   expensive step (baseline, each seed, the group split, each few-shot condition, and all
+   peer-review follow-up experiments) checks for its own already-saved output first, so the
+   notebook can be safely re-run or resumed across sessions.
 3. To recompute the statistics from an existing `results/`-style folder without a GPU:
    `python code/analyze_tier4_v2.py --dir results`
 
