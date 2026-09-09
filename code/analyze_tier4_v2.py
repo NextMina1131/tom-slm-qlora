@@ -136,7 +136,7 @@ def holm_correction(pvalues):
 def analyze_primary_datasets(dir_, datasets, seeds):
     """Base vs. each fine-tuned seed, per dataset: item-identity-checked
     join, exact McNemar test, and cluster bootstrap CI. The first seed in
-    `seeds` is treated as the pre-registered primary comparison; the
+    `seeds` is treated as the pre-specified primary comparison; the
     remaining seeds are reported as an exploratory multi-seed replication."""
     rows = []
     raw_pvalues = []
@@ -168,7 +168,7 @@ def analyze_primary_datasets(dir_, datasets, seeds):
     if len(df) == 0:
         return df
 
-    # Confirmatory family = all primary datasets at the first (pre-registered) seed.
+    # Confirmatory family = all primary datasets at the first (pre-specified) seed.
     # Multi-seed replication rows are exploratory and are not independently corrected.
     primary_mask = df["seed"] == seeds[0]
     primary_p = df.loc[primary_mask, "mcnemar_p_raw"].values
@@ -248,12 +248,11 @@ def analyze_gold_position_bias(dir_, dataset, seed):
     indicate a response-position bias rather than a genuine change in
     reasoning ability.
 
-    Added post-hoc in response to peer review (2026-08-28 review, comment
-    DA-C1): the original analysis in analyze_hitom_confusion covered only
-    Hi-ToM. The reviewer's point is that if fine-tuning shifted the model's
-    response-position prior, that mechanism is not specific to Hi-ToM and
-    should in principle be visible in the same form on any dataset with a
-    multiple-choice answer space. This function runs the identical procedure
+    Extends the position-bias check in analyze_hitom_confusion, which
+    originally covered only Hi-ToM, to every benchmark: if fine-tuning shifted
+    the model's response-position prior, that mechanism is not specific to
+    Hi-ToM and should in principle be visible in the same form on any dataset
+    with a multiple-choice answer space. This function runs the identical procedure
     on all five benchmarks so that claim can be checked directly rather than
     assumed to be Hi-ToM-specific."""
     base = load_csv(dir_, "baseline", dataset)
@@ -331,9 +330,8 @@ def analyze_residual_after_extreme_stratum(dir_, dataset, seed):
     directionally consistent effect remains, that is evidence the position
     shift is not the whole story.
 
-    This is a post-hoc robustness check added in response to peer review
-    (DA-C1): it does not re-run any model, it only re-slices the existing
-    per-item predictions."""
+    This is a post-hoc robustness check: it does not re-run any model, it
+    only re-slices the existing per-item predictions."""
     base = load_csv(dir_, "baseline", dataset)
     tuned = load_csv(dir_, f"finetuned_seed{seed}", dataset)
     if base is None or tuned is None:
@@ -380,7 +378,7 @@ STRICT_FORMAT_RE = __import__("re").compile(r"\[\[[A-E]\]\]")
 
 
 def analyze_strict_format_subset(dir_, dataset, seed):
-    """Peer-review follow-up (M3): restrict the base-vs-fine-tuned accuracy
+    """Restrict the base-vs-fine-tuned accuracy
     comparison to items where BOTH models produced a strictly-formatted
     [[X]] response (no fallback bare-letter extraction), and recompute the
     delta and McNemar test on that subset. If the fine-tuned accuracy change
@@ -420,7 +418,7 @@ def analyze_strict_format_subset(dir_, dataset, seed):
 
 
 def analyze_category_ci(dir_, seed):
-    """Peer-review follow-up (M4): add story-cluster bootstrap 95% CIs to
+    """Add story-cluster bootstrap 95% CIs to
     the ToMBench category-level table, matching the rigor already applied
     to the ability-level tables so category-level claims are not the only
     ones reported without an uncertainty estimate."""
@@ -448,8 +446,8 @@ def analyze_category_ci(dir_, seed):
 
 
 def analyze_fewshot_variance(dir_, datasets, conditions=("answer_only_3shot", "synthetic_format_only_3shot", "rationale_cot_3shot"), exemplar_seeds=(0, 1, 2)):
-    """Peer-review follow-up (M5): add cross-exemplar-seed SD and a McNemar
-    test (base zero-shot vs. exemplar-seed-0 condition, as the pre-registered
+    """Add cross-exemplar-seed SD and a McNemar
+    test (base zero-shot vs. exemplar-seed-0 condition, as the pre-specified
     primary comparison, matching the seed-42-as-primary convention used
     elsewhere in this study) to the training-free few-shot baseline table,
     which originally reported only the 3-exemplar-seed mean."""
@@ -535,7 +533,7 @@ def main():
         print("Wrote ANALYSIS_hitom_*_v2.csv")
 
     print("\n" + "=" * 70)
-    print("Gold-answer-position bias analysis, all 5 benchmarks (post-hoc, review comment DA-C1)")
+    print("Gold-answer-position bias analysis, all 5 benchmarks (post-hoc)")
     print("=" * 70)
     position_summary_rows = []
     for ds in args.datasets:
@@ -569,7 +567,7 @@ def main():
         print(pos_summary_df.to_string(index=False))
 
     print("\n" + "=" * 70)
-    print("Residual effect after excluding the most extreme gold-letter stratum (DA-C1 follow-up)")
+    print("Residual effect after excluding the most extreme gold-letter stratum")
     print("=" * 70)
     residual_rows = []
     for ds in args.datasets:
@@ -594,7 +592,7 @@ def main():
         print("\nWrote ANALYSIS_residual_after_extreme_stratum_v2.csv")
 
     print("\n" + "=" * 70)
-    print("Strict-format-only subset accuracy (peer-review M3)")
+    print("Strict-format-only subset accuracy")
     print("=" * 70)
     strict_rows = []
     for ds in args.datasets:
@@ -614,7 +612,7 @@ def main():
         print("Wrote ANALYSIS_strict_format_subset_v2.csv")
 
     print("\n" + "=" * 70)
-    print("ToMBench category-level bootstrap CIs (peer-review M4)")
+    print("ToMBench category-level bootstrap CIs")
     print("=" * 70)
     cat_df = analyze_category_ci(args.dir, args.seeds[0])
     if cat_df is not None:
@@ -623,7 +621,7 @@ def main():
         print("Wrote ANALYSIS_category_ci_v2.csv")
 
     print("\n" + "=" * 70)
-    print("Few-shot cross-exemplar-seed SD + McNemar (peer-review M5)")
+    print("Few-shot cross-exemplar-seed SD + McNemar")
     print("=" * 70)
     fs_df = analyze_fewshot_variance(args.dir, args.datasets)
     if len(fs_df) > 0:

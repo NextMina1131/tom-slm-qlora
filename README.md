@@ -39,16 +39,20 @@ fine-tuning, but a set of partially separable abilities that **transfer selectiv
 ## Repository layout
 
 ```
-code/           fine-tuning / inference / evaluation / analysis scripts
+code/           fine-tuning / inference / evaluation / analysis scripts, including
+                gen_figure1.py (regenerates the manuscript's Figure 1 from results/ tables)
 code/legacy/    original Chinese-language ToMBench runner scripts (run_api.py, run_huggingface.py,
                 prompts.py, etc.); not used in the current pipeline — kept for reference only
 notebooks/      tombench_slm_qlora_complete_pipeline.ipynb — the single, end-to-end notebook
-                covering the full pipeline and all peer-review follow-up experiments (M2 external
-                eval, M6 fine-tuned few-shot, P3 fp16 control); run this in Google Colab
+                covering the full pipeline, including the story-level group-split control,
+                fine-tuned few-shot evaluation, and fp16 control experiment; run this in Google Colab.
 splits/         ability-stratified ToMBench train/val/test index files (item_id only, seed=42)
 results/        per-item base vs. fine-tuned predictions (5 seeds), the story-level group-split
-                control, three training-free few-shot conditions, and the statistical analysis
-                outputs derived from them — see results/README.md
+                control, three training-free few-shot conditions, the gold-answer-position and
+                position-balanced-accuracy analysis outputs, and the statistical analysis outputs
+                derived from them — see results/README.md.
+                results/seed_epoch_recovery/ — per-epoch validation loss for the second replicate
+                set of seeds 43-46 (Section 4.6 of the manuscript)
 docs/           ATOMS ability mapping
 ```
 
@@ -88,8 +92,8 @@ comparison in `results/` is guaranteed to be over the same items.
 2. Open `notebooks/tombench_slm_qlora_complete_pipeline.ipynb` in Google Colab (GPU runtime
    required) and run it top to bottom. It clones the ToMBench/OpenToM/ToMi/HiToM source
    repositories and downloads SocialIQa itself; no manual data download is required. Each
-   expensive step (baseline, each seed, the group split, each few-shot condition, and all
-   peer-review follow-up experiments) checks for its own already-saved output first, so the
+   expensive step (baseline, each seed, the group split, each few-shot condition, and the
+   fp16 control experiment) checks for its own already-saved output first, so the
    notebook can be safely re-run or resumed across sessions.
 3. To recompute the statistics from an existing `results/`-style folder without a GPU:
    `python code/analyze_tier4_v2.py --dir results`
