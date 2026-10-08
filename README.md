@@ -32,9 +32,12 @@ reliable effect in either direction across all five seeds (mean +0.94 ± 0.84 pp
 gold-answer-position analysis (see `results/ANALYSIS_hitom_*_v2.csv`) shows this flat aggregate
 conceals a large, statistically significant redistribution tied to the position of the correct
 answer rather than to belief order, i.e. a response-position artifact rather than a genuine
-higher-order-reasoning effect. This overall pattern supports the paper's central claim: ToM
-ability in a small language model is not a single capability that improves uniformly under
-fine-tuning, but a set of partially separable abilities that **transfer selectively**.
+higher-order-reasoning effect. This overall pattern is consistent with ToM ability in a small
+language model not being a single capability that improves uniformly under fine-tuning. We use
+**"selective transfer"** as a descriptive label for this empirical pattern — which effects are
+robust to a response-position-bias check and which are not — rather than as a claim about the
+cognitive architecture of the model's ToM competence; see Section 5.1 of the manuscript for the
+full discussion and caveats.
 
 ## Repository layout
 
