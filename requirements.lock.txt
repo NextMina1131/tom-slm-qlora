@@ -1,6 +1,6 @@
 # Captured via `pip freeze | grep -Ei "unsloth|torch|transformers|peft|trl|datasets|bitsandbytes|accelerate"`
 # on a Google Colab GPU runtime, immediately after running the setup cell of
-# notebooks/tombench_full_rerun_v2.ipynb. This snapshot reflects the exact versions
+# notebooks/tombench_slm_qlora_complete_pipeline.ipynb. This snapshot reflects the exact versions
 # used for the fine-tuning/evaluation run whose outputs are in results/.
 accelerate==1.14.0
 bitsandbytes==0.50.1

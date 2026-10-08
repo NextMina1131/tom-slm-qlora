@@ -1,7 +1,7 @@
 # Results
 
 Per-item predictions and derived statistics underlying every number reported in the
-manuscript. All files come from a single evaluation pipeline (`notebooks/tombench_full_rerun_v2.ipynb`)
+manuscript. All files come from a single evaluation pipeline (`notebooks/tombench_slm_qlora_complete_pipeline.ipynb`)
 that assigns every item a content-based, cross-run-stable identifier before any comparison is
 computed; the analysis in `code/analyze_tier4_v2.py` verifies this identity before running any
 paired statistical test.

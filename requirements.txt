@@ -1,7 +1,7 @@
 # Fine-tuning (QLoRA on 4-bit Qwen2.5-3B via Unsloth) — run on GPU (Colab).
 # Colab-side versions are CUDA-sensitive and are intentionally left unpinned here; instead,
 # capture the exact versions actually used by running, at the end of a successful
-# tombench_full_rerun_v2.ipynb run:
+# tombench_slm_qlora_complete_pipeline.ipynb run:
 #   pip freeze | grep -Ei "unsloth|torch|transformers|peft|trl|datasets|bitsandbytes|accelerate" > requirements.lock.txt
 # and publishing that lock file alongside the results release.
 unsloth
@@ -26,4 +26,4 @@ openai
 # NOTE: this file only pins the CPU-side analysis stack. The GPU-side Colab stack
 # (unsloth/torch/transformers/peft/trl/datasets/bitsandbytes/accelerate) is captured
 # separately as requirements.lock.txt from an actual successful run (see the last markdown
-# cell of tombench_full_rerun_v2.ipynb for the full release checklist).
+# cell of tombench_slm_qlora_complete_pipeline.ipynb for the full release checklist).
