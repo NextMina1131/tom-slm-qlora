@@ -1,5 +1,5 @@
 """
-Offline statistical analysis for tombench_full_rerun_v2.ipynb outputs.
+Offline statistical analysis for tombench_slm_qlora_complete_pipeline.ipynb outputs.
 
 Does not require a GPU. Given a results directory containing per-item
 prediction CSVs (baseline, fine-tuned per seed, few-shot conditions), this
@@ -24,7 +24,7 @@ Usage:
     python analyze_tier4_v2.py --dir /path/to/tier4_v2_fixed
 
 `--dir` should point at the results folder produced by
-tombench_full_rerun_v2.ipynb (CSV files with item_id/prompt_hash/story_id
+tombench_slm_qlora_complete_pipeline.ipynb (CSV files with item_id/prompt_hash/story_id
 columns), downloaded as-is from the Drive output folder.
 """
 import argparse
@@ -52,15 +52,24 @@ def load_csv(dir_, tag, ds):
     return pd.read_csv(path)
 
 
+_INTEGRITY_CHECK_LOG = []
+
+
 def matched_pair(left, right, where):
     """Inner-join two result sets on item_id (1:1) and verify prompt_hash
     equality. This is the minimum precondition for any paired test: without
     it, row-position alignment between two independently generated CSVs is
     not guaranteed, and a paired test would silently compare different
-    items."""
+    items.
+
+    Every call -- pass or fail -- is appended to _INTEGRITY_CHECK_LOG so that
+    a run of this script produces an explicit count of how many file pairs
+    were compared and how many item-identifier/prompt-hash mismatches were
+    found, rather than only succeeding or raising silently."""
     l_ids, r_ids = set(left["item_id"]), set(right["item_id"])
     only_l, only_r = l_ids - r_ids, r_ids - l_ids
     if only_l or only_r:
+        _INTEGRITY_CHECK_LOG.append({"where": where, "n_items": None, "mismatches": len(only_l) + len(only_r), "ok": False})
         raise ManifestIntegrityError(
             f"[{where}] item_id mismatch: {len(only_l)} item(s) only in left, "
             f"{len(only_r)} only in right -- these are not the same item set, "
@@ -68,13 +77,16 @@ def matched_pair(left, right, where):
         )
     merged = left.merge(right, on="item_id", how="inner", validate="one_to_one", suffixes=("_L", "_R"))
     if len(merged) != len(left) or len(left) != len(right):
+        _INTEGRITY_CHECK_LOG.append({"where": where, "n_items": len(merged), "mismatches": None, "ok": False})
         raise ManifestIntegrityError(f"[{where}] row count changed after merge")
     mism = merged[merged["prompt_hash_L"] != merged["prompt_hash_R"]]
     if len(mism) > 0:
+        _INTEGRITY_CHECK_LOG.append({"where": where, "n_items": len(merged), "mismatches": len(mism), "ok": False})
         raise ManifestIntegrityError(
             f"[{where}] {len(mism)} row(s) share an item_id but have different "
             f"prompt_hash values -- same item, different prompt content."
         )
+    _INTEGRITY_CHECK_LOG.append({"where": where, "n_items": len(merged), "mismatches": 0, "ok": True})
     return merged
 
 
@@ -638,9 +650,25 @@ def main():
         print(f"- {r['dataset']}: delta={r['delta_pp']:+.2f}pp [95% CI {r['delta_ci_lo']:+.2f}, {r['delta_ci_hi']:+.2f}] "
               f"(story-cluster bootstrap, n_clusters={r['n_clusters']}), McNemar p_holm={r['mcnemar_p_holm']:.4f} ({sig}, Holm-corrected)")
     print("\nNote: these figures are only valid for the tier4_v2_fixed/ output of an actual")
-    print("tombench_full_rerun_v2.ipynb run. This script itself can also be run against")
+    print("tombench_slm_qlora_complete_pipeline.ipynb run. This script itself can also be run against")
     print("synthetic data to check the statistical logic, but any number quoted in the")
     print("manuscript must come from a real experimental run.")
+
+    print("\n" + "=" * 70)
+    print("Item-identity / prompt-hash integrity check log")
+    print("=" * 70)
+    log_df = pd.DataFrame(_INTEGRITY_CHECK_LOG)
+    n_checks = len(log_df)
+    n_ok = int(log_df["ok"].sum()) if n_checks else 0
+    n_mismatch = n_checks - n_ok
+    print(f"{n_checks} file-pair comparisons run via matched_pair(); "
+          f"{n_ok} passed with 0 item-identifier/prompt-hash mismatches, {n_mismatch} failed.")
+    log_path = os.path.join(args.dir, "VERIFICATION_LOG_v2.csv")
+    log_df.to_csv(log_path, index=False)
+    print(f"Wrote {log_path}")
+    if n_mismatch > 0:
+        print("\n[WARNING] at least one integrity check failed -- see rows with ok=False above.")
+        sys.exit(1)
 
 
 if __name__ == "__main__":

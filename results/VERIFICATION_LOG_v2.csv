@@ -1,0 +1,88 @@
+where,n_items,mismatches,ok
+ToMBench baseline vs seed42,842,0,True
+ToMBench baseline vs seed43,842,0,True
+ToMBench baseline vs seed44,842,0,True
+ToMBench baseline vs seed45,842,0,True
+ToMBench baseline vs seed46,842,0,True
+ToMi baseline vs seed42,1000,0,True
+ToMi baseline vs seed43,1000,0,True
+ToMi baseline vs seed44,1000,0,True
+ToMi baseline vs seed45,1000,0,True
+ToMi baseline vs seed46,1000,0,True
+OpenToM baseline vs seed42,1000,0,True
+OpenToM baseline vs seed43,1000,0,True
+OpenToM baseline vs seed44,1000,0,True
+OpenToM baseline vs seed45,1000,0,True
+OpenToM baseline vs seed46,1000,0,True
+SocialIQa baseline vs seed42,1000,0,True
+SocialIQa baseline vs seed43,1000,0,True
+SocialIQa baseline vs seed44,1000,0,True
+SocialIQa baseline vs seed45,1000,0,True
+SocialIQa baseline vs seed46,1000,0,True
+HiToM baseline vs seed42,1000,0,True
+HiToM baseline vs seed43,1000,0,True
+HiToM baseline vs seed44,1000,0,True
+HiToM baseline vs seed45,1000,0,True
+HiToM baseline vs seed46,1000,0,True
+HiToM baseline vs seed42,1000,0,True
+ToMBench baseline vs seed42,842,0,True
+ToMi baseline vs seed42,1000,0,True
+OpenToM baseline vs seed42,1000,0,True
+SocialIQa baseline vs seed42,1000,0,True
+HiToM baseline vs seed42,1000,0,True
+ToMBench baseline vs seed42 (residual),842,0,True
+ToMi baseline vs seed42 (residual),1000,0,True
+OpenToM baseline vs seed42 (residual),1000,0,True
+SocialIQa baseline vs seed42 (residual),1000,0,True
+HiToM baseline vs seed42 (residual),1000,0,True
+ToMBench baseline vs seed42 (strict-format),842,0,True
+ToMi baseline vs seed42 (strict-format),1000,0,True
+OpenToM baseline vs seed42 (strict-format),1000,0,True
+SocialIQa baseline vs seed42 (strict-format),1000,0,True
+HiToM baseline vs seed42 (strict-format),1000,0,True
+ToMBench baseline vs seed42 (category CI),842,0,True
+ToMBench answer_only_3shot ex0,842,0,True
+ToMBench answer_only_3shot ex1,842,0,True
+ToMBench answer_only_3shot ex2,842,0,True
+ToMBench synthetic_format_only_3shot ex0,842,0,True
+ToMBench synthetic_format_only_3shot ex1,842,0,True
+ToMBench synthetic_format_only_3shot ex2,842,0,True
+ToMBench rationale_cot_3shot ex0,842,0,True
+ToMBench rationale_cot_3shot ex1,842,0,True
+ToMBench rationale_cot_3shot ex2,842,0,True
+ToMi answer_only_3shot ex0,1000,0,True
+ToMi answer_only_3shot ex1,1000,0,True
+ToMi answer_only_3shot ex2,1000,0,True
+ToMi synthetic_format_only_3shot ex0,1000,0,True
+ToMi synthetic_format_only_3shot ex1,1000,0,True
+ToMi synthetic_format_only_3shot ex2,1000,0,True
+ToMi rationale_cot_3shot ex0,1000,0,True
+ToMi rationale_cot_3shot ex1,1000,0,True
+ToMi rationale_cot_3shot ex2,1000,0,True
+OpenToM answer_only_3shot ex0,1000,0,True
+OpenToM answer_only_3shot ex1,1000,0,True
+OpenToM answer_only_3shot ex2,1000,0,True
+OpenToM synthetic_format_only_3shot ex0,1000,0,True
+OpenToM synthetic_format_only_3shot ex1,1000,0,True
+OpenToM synthetic_format_only_3shot ex2,1000,0,True
+OpenToM rationale_cot_3shot ex0,1000,0,True
+OpenToM rationale_cot_3shot ex1,1000,0,True
+OpenToM rationale_cot_3shot ex2,1000,0,True
+SocialIQa answer_only_3shot ex0,1000,0,True
+SocialIQa answer_only_3shot ex1,1000,0,True
+SocialIQa answer_only_3shot ex2,1000,0,True
+SocialIQa synthetic_format_only_3shot ex0,1000,0,True
+SocialIQa synthetic_format_only_3shot ex1,1000,0,True
+SocialIQa synthetic_format_only_3shot ex2,1000,0,True
+SocialIQa rationale_cot_3shot ex0,1000,0,True
+SocialIQa rationale_cot_3shot ex1,1000,0,True
+SocialIQa rationale_cot_3shot ex2,1000,0,True
+HiToM answer_only_3shot ex0,1000,0,True
+HiToM answer_only_3shot ex1,1000,0,True
+HiToM answer_only_3shot ex2,1000,0,True
+HiToM synthetic_format_only_3shot ex0,1000,0,True
+HiToM synthetic_format_only_3shot ex1,1000,0,True
+HiToM synthetic_format_only_3shot ex2,1000,0,True
+HiToM rationale_cot_3shot ex0,1000,0,True
+HiToM rationale_cot_3shot ex1,1000,0,True
+HiToM rationale_cot_3shot ex2,1000,0,True
