@@ -1,0 +1,25 @@
+pair,benchmark,n,mismatch,acc_a,acc_b,acc_diff_pp
+run1 vs run2,ToMBench,842,0,75.06,75.06,0.0
+run1 vs run2,ToMi,1000,0,82.9,82.9,0.0
+run1 vs run2,OpenToM,1000,0,59.5,59.5,0.0
+run1 vs run2,SocialIQa,1000,0,61.3,61.3,0.0
+run1 vs run2,HiToM,1000,0,62.2,62.2,0.0
+run1 vs reload,SocialIQa,1000,0,61.3,61.3,0.0
+run1 vs reload,HiToM,1000,0,62.2,62.2,0.0
+run1 vs gate1011,ToMBench,842,0,75.06,75.06,0.0
+run1 vs gate1011,ToMi,1000,0,82.9,82.9,0.0
+run1 vs gate1011,OpenToM,1000,0,59.5,59.5,0.0
+run1 vs gate1011,SocialIQa,1000,0,61.3,61.3,0.0
+run1 vs gate1011,HiToM,1000,0,62.2,62.2,0.0
+run1 vs published,ToMBench,842,12,75.06,75.18,-0.12
+run1 vs published,ToMi,1000,5,82.9,83.0,-0.1
+run1 vs published,OpenToM,1000,15,59.5,59.5,0.0
+run1 vs published,SocialIQa,1000,13,61.3,61.7,-0.4
+run1 vs published,HiToM,1000,22,62.2,62.3,-0.1
+unslothload vs published,SocialIQa,1000,0,61.7,61.7,0.0
+unslothload vs published,HiToM,1000,0,62.3,62.3,0.0
+gate1011 vs published,ToMBench,842,12,75.06,75.18,-0.12
+gate1011 vs published,ToMi,1000,5,82.9,83.0,-0.1
+gate1011 vs published,OpenToM,1000,15,59.5,59.5,0.0
+gate1011 vs published,SocialIQa,1000,13,61.3,61.7,-0.4
+gate1011 vs published,HiToM,1000,22,62.2,62.3,-0.1

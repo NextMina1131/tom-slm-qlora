@@ -1,0 +1,3 @@
+condition,n_cells,mean_signed_diff_pp,mean_abs_diff_pp,sd_pp,p90_abs_diff_pp,max_abs_diff_pp,sign_changed_cells
+seed42 (no retraining),5,0.0,0.0,0.0,0.0,0.0,0
+seed43-46 (retrained),20,0.0318764845605709,0.449382422802849,0.6483769607949418,0.7100000000000024,2.1000000000000014,1

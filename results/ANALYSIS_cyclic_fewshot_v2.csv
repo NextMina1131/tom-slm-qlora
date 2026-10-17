@@ -1,0 +1,16 @@
+condition,benchmark,mean,std,count
+answer_only_3shot,HiToM,-1.7800000000000153,,1
+answer_only_3shot,OpenToM,0.44999999999999574,,1
+answer_only_3shot,SocialIQa,0.8999999999999915,,1
+answer_only_3shot,ToMBench,3.0285035629453745,,1
+answer_only_3shot,ToMi,10.425000000000017,1.5099668870541498,3
+rationale_cot_3shot,HiToM,-1.6400000000000219,,1
+rationale_cot_3shot,OpenToM,-1.5166666666666728,,1
+rationale_cot_3shot,SocialIQa,2.0333333333333314,,1
+rationale_cot_3shot,ToMBench,1.6330166270783835,,1
+rationale_cot_3shot,ToMi,12.958333333333348,0.8610797485328162,3
+synthetic_format_only_3shot,HiToM,-1.3000000000000043,,1
+synthetic_format_only_3shot,OpenToM,0.5000000000000071,,1
+synthetic_format_only_3shot,SocialIQa,2.0333333333333314,,1
+synthetic_format_only_3shot,ToMBench,1.7814726840855144,,1
+synthetic_format_only_3shot,ToMi,7.225000000000013,0.7053367989832974,3

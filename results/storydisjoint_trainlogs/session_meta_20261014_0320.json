@@ -1,0 +1,17 @@
+{
+  "gpu": "NVIDIA L4",
+  "batch_sizes(train,accum,eval)": [
+    4,
+    2,
+    8
+  ],
+  "bf16": true,
+  "cuda": "13.0",
+  "torch": "2.11.0+cu130",
+  "transformers": "5.5.0",
+  "trl": "0.24.0",
+  "peft": "0.20.0",
+  "unsloth": "2026.8.18",
+  "python": "3.13.15",
+  "started": "2026-10-14 03:20:48"
+}

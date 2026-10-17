@@ -1,0 +1,7 @@
+pair,mismatch,n,rate_pct
+run1 vs run2,0,4842,0.0
+run1 vs reload,0,2000,0.0
+run1 vs gate1011,0,4842,0.0
+run1 vs published,67,4842,1.38
+unslothload vs published,0,2000,0.0
+gate1011 vs published,67,4842,1.38

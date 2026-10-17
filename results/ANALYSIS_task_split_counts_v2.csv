@@ -1,0 +1,21 @@
+task,train,val,test,total
+False Belief Task,336,84,180,600
+Faux-pas Recognition Test,314,78,168,560
+Strange Story Task,231,56,120,407
+Unexpected Outcome Test,168,42,90,300
+Scalar Implicature Test,112,28,60,200
+Ambiguous Story Task,114,30,56,200
+Hinting Task Test,54,14,35,103
+Persuasion Story Task,56,16,28,100
+Hidden Emotions,45,11,24,80
+Moral Emotions,22,6,12,40
+Discrepant Emotions,22,6,12,40
+Percepts-Knowledge Links,22,6,12,40
+Discrepant Intentions,22,6,12,40
+Knowledge-Pretend Play Links,17,4,9,30
+Discrepant Desires,12,4,4,20
+Completion of Failed Actions,12,4,4,20
+Knowledge-Attention Links,12,4,4,20
+Emotion Regulation,12,4,4,20
+Multiple Desires,12,4,4,20
+Prediction of Actions,12,4,4,20

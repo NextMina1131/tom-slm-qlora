@@ -402,8 +402,15 @@ def analyze_strict_format_subset(dir_, dataset, seed):
         return None
     merged = matched_pair(base, tuned, f"{dataset} baseline vs seed{seed} (strict-format)")
 
-    strict_l = merged["raw_L"].astype(str).str.strip().apply(lambda s: bool(STRICT_FORMAT_RE.search(s)))
-    strict_r = merged["raw_R"].astype(str).str.strip().apply(lambda s: bool(STRICT_FORMAT_RE.search(s)))
+    # Released files carry a precomputed `strict_format` column instead of the raw generation
+    # (raw text was removed because chain-of-thought outputs quote benchmark text; see
+    # strip_raw_generations.py). Fall back to the raw text when it is present.
+    if "strict_format_L" in merged.columns:
+        strict_l = merged["strict_format_L"].astype(bool)
+        strict_r = merged["strict_format_R"].astype(bool)
+    else:
+        strict_l = merged["raw_L"].astype(str).str.strip().apply(lambda s: bool(STRICT_FORMAT_RE.search(s)))
+        strict_r = merged["raw_R"].astype(str).str.strip().apply(lambda s: bool(STRICT_FORMAT_RE.search(s)))
     subset = merged[strict_l & strict_r]
 
     full_delta = (merged["correct_R"].mean() - merged["correct_L"].mean()) * 100

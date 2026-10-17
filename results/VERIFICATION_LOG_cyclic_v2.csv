@@ -1,0 +1,188 @@
+where,n_items,mismatches,ok
+item-level base ToMBench: complete rotations,842,0,True
+item-level base ToMBench: item set equals original-order file,842,0,True
+item-level seed42 ToMBench: complete rotations,842,0,True
+item-level seed42 ToMBench: same items as base,842,0,True
+item-level seed43 ToMBench: complete rotations,842,0,True
+item-level seed43 ToMBench: same items as base,842,0,True
+item-level seed44 ToMBench: complete rotations,842,0,True
+item-level seed44 ToMBench: same items as base,842,0,True
+item-level seed45 ToMBench: complete rotations,842,0,True
+item-level seed45 ToMBench: same items as base,842,0,True
+item-level seed46 ToMBench: complete rotations,842,0,True
+item-level seed46 ToMBench: same items as base,842,0,True
+item-level base ToMi: complete rotations,1000,0,True
+item-level base ToMi: item set equals original-order file,1000,0,True
+item-level seed42 ToMi: complete rotations,1000,0,True
+item-level seed42 ToMi: same items as base,1000,0,True
+item-level seed43 ToMi: complete rotations,1000,0,True
+item-level seed43 ToMi: same items as base,1000,0,True
+item-level seed44 ToMi: complete rotations,1000,0,True
+item-level seed44 ToMi: same items as base,1000,0,True
+item-level seed45 ToMi: complete rotations,1000,0,True
+item-level seed45 ToMi: same items as base,1000,0,True
+item-level seed46 ToMi: complete rotations,1000,0,True
+item-level seed46 ToMi: same items as base,1000,0,True
+item-level base OpenToM: complete rotations,1000,0,True
+item-level base OpenToM: item set equals original-order file,1000,0,True
+item-level seed42 OpenToM: complete rotations,1000,0,True
+item-level seed42 OpenToM: same items as base,1000,0,True
+item-level seed43 OpenToM: complete rotations,1000,0,True
+item-level seed43 OpenToM: same items as base,1000,0,True
+item-level seed44 OpenToM: complete rotations,1000,0,True
+item-level seed44 OpenToM: same items as base,1000,0,True
+item-level seed45 OpenToM: complete rotations,1000,0,True
+item-level seed45 OpenToM: same items as base,1000,0,True
+item-level seed46 OpenToM: complete rotations,1000,0,True
+item-level seed46 OpenToM: same items as base,1000,0,True
+item-level base SocialIQa: complete rotations,1000,0,True
+item-level base SocialIQa: item set equals original-order file,1000,0,True
+item-level seed42 SocialIQa: complete rotations,1000,0,True
+item-level seed42 SocialIQa: same items as base,1000,0,True
+item-level seed43 SocialIQa: complete rotations,1000,0,True
+item-level seed43 SocialIQa: same items as base,1000,0,True
+item-level seed44 SocialIQa: complete rotations,1000,0,True
+item-level seed44 SocialIQa: same items as base,1000,0,True
+item-level seed45 SocialIQa: complete rotations,1000,0,True
+item-level seed45 SocialIQa: same items as base,1000,0,True
+item-level seed46 SocialIQa: complete rotations,1000,0,True
+item-level seed46 SocialIQa: same items as base,1000,0,True
+item-level base HiToM: complete rotations,1000,0,True
+item-level base HiToM: item set equals original-order file,1000,0,True
+item-level seed42 HiToM: complete rotations,1000,0,True
+item-level seed42 HiToM: same items as base,1000,0,True
+item-level seed43 HiToM: complete rotations,1000,0,True
+item-level seed43 HiToM: same items as base,1000,0,True
+item-level seed44 HiToM: complete rotations,1000,0,True
+item-level seed44 HiToM: same items as base,1000,0,True
+item-level seed45 HiToM: complete rotations,1000,0,True
+item-level seed45 HiToM: same items as base,1000,0,True
+item-level seed46 HiToM: complete rotations,1000,0,True
+item-level seed46 HiToM: same items as base,1000,0,True
+story-disjoint base ToMBench: complete rotations,837,0,True
+story-disjoint base ToMBench: item set equals original-order file,837,0,True
+story-disjoint seed42 ToMBench: complete rotations,837,0,True
+story-disjoint seed42 ToMBench: same items as base,837,0,True
+story-disjoint seed43 ToMBench: complete rotations,837,0,True
+story-disjoint seed43 ToMBench: same items as base,837,0,True
+story-disjoint seed44 ToMBench: complete rotations,837,0,True
+story-disjoint seed44 ToMBench: same items as base,837,0,True
+story-disjoint seed45 ToMBench: complete rotations,837,0,True
+story-disjoint seed45 ToMBench: same items as base,837,0,True
+story-disjoint seed46 ToMBench: complete rotations,837,0,True
+story-disjoint seed46 ToMBench: same items as base,837,0,True
+story-disjoint base ToMi: complete rotations,1000,0,True
+story-disjoint base ToMi: item set equals original-order file,1000,0,True
+story-disjoint seed42 ToMi: complete rotations,1000,0,True
+story-disjoint seed42 ToMi: same items as base,1000,0,True
+story-disjoint seed43 ToMi: complete rotations,1000,0,True
+story-disjoint seed43 ToMi: same items as base,1000,0,True
+story-disjoint seed44 ToMi: complete rotations,1000,0,True
+story-disjoint seed44 ToMi: same items as base,1000,0,True
+story-disjoint seed45 ToMi: complete rotations,1000,0,True
+story-disjoint seed45 ToMi: same items as base,1000,0,True
+story-disjoint seed46 ToMi: complete rotations,1000,0,True
+story-disjoint seed46 ToMi: same items as base,1000,0,True
+story-disjoint base OpenToM: complete rotations,1000,0,True
+story-disjoint base OpenToM: item set equals original-order file,1000,0,True
+story-disjoint seed42 OpenToM: complete rotations,1000,0,True
+story-disjoint seed42 OpenToM: same items as base,1000,0,True
+story-disjoint seed43 OpenToM: complete rotations,1000,0,True
+story-disjoint seed43 OpenToM: same items as base,1000,0,True
+story-disjoint seed44 OpenToM: complete rotations,1000,0,True
+story-disjoint seed44 OpenToM: same items as base,1000,0,True
+story-disjoint seed45 OpenToM: complete rotations,1000,0,True
+story-disjoint seed45 OpenToM: same items as base,1000,0,True
+story-disjoint seed46 OpenToM: complete rotations,1000,0,True
+story-disjoint seed46 OpenToM: same items as base,1000,0,True
+story-disjoint base SocialIQa: complete rotations,1000,0,True
+story-disjoint base SocialIQa: item set equals original-order file,1000,0,True
+story-disjoint seed42 SocialIQa: complete rotations,1000,0,True
+story-disjoint seed42 SocialIQa: same items as base,1000,0,True
+story-disjoint seed43 SocialIQa: complete rotations,1000,0,True
+story-disjoint seed43 SocialIQa: same items as base,1000,0,True
+story-disjoint seed44 SocialIQa: complete rotations,1000,0,True
+story-disjoint seed44 SocialIQa: same items as base,1000,0,True
+story-disjoint seed45 SocialIQa: complete rotations,1000,0,True
+story-disjoint seed45 SocialIQa: same items as base,1000,0,True
+story-disjoint seed46 SocialIQa: complete rotations,1000,0,True
+story-disjoint seed46 SocialIQa: same items as base,1000,0,True
+story-disjoint base HiToM: complete rotations,1000,0,True
+story-disjoint base HiToM: item set equals original-order file,1000,0,True
+story-disjoint seed42 HiToM: complete rotations,1000,0,True
+story-disjoint seed42 HiToM: same items as base,1000,0,True
+story-disjoint seed43 HiToM: complete rotations,1000,0,True
+story-disjoint seed43 HiToM: same items as base,1000,0,True
+story-disjoint seed44 HiToM: complete rotations,1000,0,True
+story-disjoint seed44 HiToM: same items as base,1000,0,True
+story-disjoint seed45 HiToM: complete rotations,1000,0,True
+story-disjoint seed45 HiToM: same items as base,1000,0,True
+story-disjoint seed46 HiToM: complete rotations,1000,0,True
+story-disjoint seed46 HiToM: same items as base,1000,0,True
+fewshot answer_only_3shot ex0 HiToM: complete rotations,1000,0,True
+fewshot answer_only_3shot ex0 HiToM: same items as base,1000,0,True
+fewshot answer_only_3shot ex0 OpenToM: complete rotations,1000,0,True
+fewshot answer_only_3shot ex0 OpenToM: same items as base,1000,0,True
+fewshot answer_only_3shot ex0 SocialIQa: complete rotations,1000,0,True
+fewshot answer_only_3shot ex0 SocialIQa: same items as base,1000,0,True
+fewshot answer_only_3shot ex0 ToMBench: complete rotations,842,0,True
+fewshot answer_only_3shot ex0 ToMBench: same items as base,842,0,True
+fewshot answer_only_3shot ex0 ToMi: complete rotations,1000,0,True
+fewshot answer_only_3shot ex0 ToMi: same items as base,1000,0,True
+fewshot answer_only_3shot ex1 ToMi: complete rotations,1000,0,True
+fewshot answer_only_3shot ex1 ToMi: same items as base,1000,0,True
+fewshot answer_only_3shot ex2 ToMi: complete rotations,1000,0,True
+fewshot answer_only_3shot ex2 ToMi: same items as base,1000,0,True
+fewshot rationale_cot_3shot ex0 HiToM: complete rotations,1000,0,True
+fewshot rationale_cot_3shot ex0 HiToM: same items as base,1000,0,True
+fewshot rationale_cot_3shot ex0 OpenToM: complete rotations,1000,0,True
+fewshot rationale_cot_3shot ex0 OpenToM: same items as base,1000,0,True
+fewshot rationale_cot_3shot ex0 SocialIQa: complete rotations,1000,0,True
+fewshot rationale_cot_3shot ex0 SocialIQa: same items as base,1000,0,True
+fewshot rationale_cot_3shot ex0 ToMBench: complete rotations,842,0,True
+fewshot rationale_cot_3shot ex0 ToMBench: same items as base,842,0,True
+fewshot rationale_cot_3shot ex0 ToMi: complete rotations,1000,0,True
+fewshot rationale_cot_3shot ex0 ToMi: same items as base,1000,0,True
+fewshot rationale_cot_3shot ex1 ToMi: complete rotations,1000,0,True
+fewshot rationale_cot_3shot ex1 ToMi: same items as base,1000,0,True
+fewshot rationale_cot_3shot ex2 ToMi: complete rotations,1000,0,True
+fewshot rationale_cot_3shot ex2 ToMi: same items as base,1000,0,True
+fewshot synthetic_format_only_3shot ex0 HiToM: complete rotations,1000,0,True
+fewshot synthetic_format_only_3shot ex0 HiToM: same items as base,1000,0,True
+fewshot synthetic_format_only_3shot ex0 OpenToM: complete rotations,1000,0,True
+fewshot synthetic_format_only_3shot ex0 OpenToM: same items as base,1000,0,True
+fewshot synthetic_format_only_3shot ex0 SocialIQa: complete rotations,1000,0,True
+fewshot synthetic_format_only_3shot ex0 SocialIQa: same items as base,1000,0,True
+fewshot synthetic_format_only_3shot ex0 ToMBench: complete rotations,842,0,True
+fewshot synthetic_format_only_3shot ex0 ToMBench: same items as base,842,0,True
+fewshot synthetic_format_only_3shot ex0 ToMi: complete rotations,1000,0,True
+fewshot synthetic_format_only_3shot ex0 ToMi: same items as base,1000,0,True
+fewshot synthetic_format_only_3shot ex1 ToMi: complete rotations,1000,0,True
+fewshot synthetic_format_only_3shot ex1 ToMi: same items as base,1000,0,True
+fewshot synthetic_format_only_3shot ex2 ToMi: complete rotations,1000,0,True
+fewshot synthetic_format_only_3shot ex2 ToMi: same items as base,1000,0,True
+story-disjoint base vs seed42 ToMBench,837,0,True
+story-disjoint base vs seed42 ToMi,1000,0,True
+story-disjoint base vs seed42 OpenToM,1000,0,True
+story-disjoint base vs seed42 SocialIQa,1000,0,True
+story-disjoint base vs seed42 HiToM,1000,0,True
+story-disjoint base vs seed43 ToMBench,837,0,True
+story-disjoint base vs seed43 ToMi,1000,0,True
+story-disjoint base vs seed43 OpenToM,1000,0,True
+story-disjoint base vs seed43 SocialIQa,1000,0,True
+story-disjoint base vs seed43 HiToM,1000,0,True
+story-disjoint base vs seed44 ToMBench,837,0,True
+story-disjoint base vs seed44 ToMi,1000,0,True
+story-disjoint base vs seed44 OpenToM,1000,0,True
+story-disjoint base vs seed44 SocialIQa,1000,0,True
+story-disjoint base vs seed44 HiToM,1000,0,True
+story-disjoint base vs seed45 ToMBench,837,0,True
+story-disjoint base vs seed45 ToMi,1000,0,True
+story-disjoint base vs seed45 OpenToM,1000,0,True
+story-disjoint base vs seed45 SocialIQa,1000,0,True
+story-disjoint base vs seed45 HiToM,1000,0,True
+story-disjoint base vs seed46 ToMBench,837,0,True
+story-disjoint base vs seed46 ToMi,1000,0,True
+story-disjoint base vs seed46 OpenToM,1000,0,True
+story-disjoint base vs seed46 SocialIQa,1000,0,True
+story-disjoint base vs seed46 HiToM,1000,0,True
