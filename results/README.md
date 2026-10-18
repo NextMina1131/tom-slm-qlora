@@ -51,10 +51,13 @@ notebook, which regenerates them deterministically from the same hashing scheme.
   previously on the Hugging Face Hub (`hf_and_logit_check/hf_adapter_*`).
 - `storydisjoint_trainlogs/` — per-epoch training/validation logs of story-disjoint seeds 43–46.
 - `seed_epoch_recovery/` — per-epoch validation loss of four item-level replicate runs
-  (seeds 43–46). **The seed-42 row of `seed_epoch_recovery/seed_epoch_table.csv`
-  and `training_log.csv` come from an earlier development run (May 2026), not from the run that
-  produced the released predictions;** the per-epoch log of that run was not preserved
-  (Section 4.9 of the paper).
+  (seeds 43–46). The `source_run` column of `seed_epoch_table.csv` marks the run of each row:
+  `2026-05-25` for the seed-42 row, which comes from an earlier development run (May 2026), and
+  `2026-09-replicate` for seeds 43–46, retrained between 2026-09-07 and 2026-09-10 (the exact day
+  was not recorded).
+- `training_log_run20260525.csv` — per-step training log of the same May 2026 development run.
+  **Neither this file nor the seed-42 row above comes from the run that produced the released
+  predictions;** the per-epoch log of that run was not preserved (Section 4.9 of the paper).
 - `<condition>_ex<K>_<dataset>.csv` — training-free few-shot baselines (Section 4.6):
   `answer_only_3shot`, `synthetic_format_only_3shot`, `rationale_cot_3shot`, each with three
   independent exemplar draws (`ex0`-`ex2`).

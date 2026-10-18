@@ -35,6 +35,10 @@
   README that maps each notebook to its files in `results/` and to the section of the paper.
 
 ### Changed
+- `results/training_log.csv` renamed to `results/training_log_run20260525.csv`, and a `source_run`
+  column added to `results/seed_epoch_recovery/seed_epoch_table.csv` (`2026-05-25` for seed 42,
+  `2026-09-replicate` for seeds 43–46), so that each file and row states which run it comes from
+  without relying on the README. No values changed.
 - Code comments and docstrings shortened; references to the review process and a local output path
   in `code/gen_figure1.py` removed (it now writes `Figure1.png` to the current directory). Markdown
   cells of the main notebook updated in the same way. No computation changed.
@@ -45,5 +49,5 @@
   `results/groupsplit_finetuned_run20260818_ToMBench.csv`.
 - README: key results restated with the position-controlled (cyclic-permutation) figures of the
   revised paper; adapter layout on the Hugging Face Hub; batch split corrected to the L4 runs
-  (per-device 4 × accumulation 2); `results/README.md` labels `training_log.csv` and the seed-42
+  (per-device 4 × accumulation 2); `results/README.md` labels `training_log.csv` (now `training_log_run20260525.csv`) and the seed-42
   row of `seed_epoch_recovery/seed_epoch_table.csv` as coming from an earlier development run.

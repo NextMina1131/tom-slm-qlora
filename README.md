@@ -1,10 +1,10 @@
-# QLoRA Fine-Tuning for Theory-of-Mind Reasoning in Small Language Models
+# QLoRA Fine-Tuning for Theory-of-Mind Reasoning in a 3B-Parameter Small Language Model
 
 A ToMBench-Based Cross-Benchmark Generalization Study.
 
 This repository contains the code, data-split indices, per-item prediction results, and
 statistical analysis outputs for the paper *"QLoRA Fine-Tuning for Theory-of-Mind Reasoning
-in Small Language Models: A ToMBench-Based Cross-Benchmark Generalization Study."*
+in a 3B-Parameter Small Language Model: A ToMBench-Based Cross-Benchmark Generalization Study."*
 
 We fine-tune the 4-bit pre-quantized **Qwen2.5-3B-Instruct** model (Unsloth) with a **QLoRA**
 adapter on an ability-stratified ToMBench train/validation/test split, and analyze how the
@@ -149,7 +149,7 @@ Benchmark data remain under their original licenses and are not included here.
 
 ```
 @article{hong2026tomqlora,
-  title   = {QLoRA Fine-Tuning for Theory-of-Mind Reasoning in Small Language Models:
+  title   = {QLoRA Fine-Tuning for Theory-of-Mind Reasoning in a 3B-Parameter Small Language Model:
              A ToMBench-Based Cross-Benchmark Generalization Study},
   author  = {Hong, Ji-Hyeong and Yoo, Sang-Hyun},
   year    = {2026}
