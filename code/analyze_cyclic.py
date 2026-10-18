@@ -1,5 +1,5 @@
 """
-Cyclic-permutation re-evaluation (Section 4.8, Tables "Cyclic-permutation
+Cyclic-permutation re-evaluation (Section 4.7, Tables "Cyclic-permutation
 re-evaluation" and "3-shot conditions under cyclic permutation").
 
 Each item with K options was presented K times, with the options rotated so

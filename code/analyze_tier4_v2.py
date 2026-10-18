@@ -57,15 +57,11 @@ _INTEGRITY_CHECK_LOG = []
 
 def matched_pair(left, right, where):
     """Inner-join two result sets on item_id (1:1) and verify prompt_hash
-    equality. This is the minimum precondition for any paired test: without
-    it, row-position alignment between two independently generated CSVs is
-    not guaranteed, and a paired test would silently compare different
-    items.
+    equality before any paired test; rows of two independently generated
+    CSVs are not guaranteed to be in the same order.
 
-    Every call -- pass or fail -- is appended to _INTEGRITY_CHECK_LOG so that
-    a run of this script produces an explicit count of how many file pairs
-    were compared and how many item-identifier/prompt-hash mismatches were
-    found, rather than only succeeding or raising silently."""
+    Every call, passed or failed, is appended to _INTEGRITY_CHECK_LOG, which
+    is written to VERIFICATION_LOG_v2.csv."""
     l_ids, r_ids = set(left["item_id"]), set(right["item_id"])
     only_l, only_r = l_ids - r_ids, r_ids - l_ids
     if only_l or only_r:
@@ -103,10 +99,8 @@ def mcnemar_exact(b, c):
 
 def cluster_bootstrap_delta_ci(merged, correct_l_col, correct_r_col, cluster_col, n_boot=N_BOOTSTRAP, seed=RNG_SEED):
     """Resample whole clusters (source-story groups), not individual items.
-    ToMBench items are not independent: several items are derived from the
-    same source story, so a standard item-level bootstrap understates the
-    true sampling variance. Resampling at the cluster level accounts for
-    this within-story correlation."""
+    Several ToMBench items share a source story, so an item-level bootstrap
+    would understate the sampling variance."""
     rng = np.random.default_rng(seed)
     clusters = merged[cluster_col].values
     uniq_clusters = np.unique(clusters)
@@ -191,10 +185,8 @@ def analyze_primary_datasets(dir_, datasets, seeds):
 
 def analyze_hitom_confusion(dir_, seed):
     """Hi-ToM gold-answer-letter x predicted-letter confusion matrix and a
-    label-permutation test. This checks whether an observed accuracy change
-    is concentrated on items whose gold answer occupies a particular option
-    position, which would indicate a response-position bias rather than a
-    genuine change in higher-order belief reasoning."""
+    label-permutation test of whether the accuracy change is concentrated on
+    items whose gold answer occupies a particular option position."""
     base = load_csv(dir_, "baseline", "HiToM")
     tuned = load_csv(dir_, f"finetuned_seed{seed}", "HiToM")
     if base is None or tuned is None:
@@ -220,9 +212,8 @@ def analyze_hitom_confusion(dir_, seed):
             declined = ((sub["correct_L"] == 1) & (sub["correct_R"] == 0)).sum()
             by_gold.loc[letter, "share_of_total_decline"] = declined / total_decline_items
 
-    # Null model: if gold-answer position has no real effect, shuffling the
-    # gold-letter labels should reproduce a max-min accuracy-change gap as
-    # large as the observed one about as often as chance allows.
+    # Null distribution: shuffle the gold-letter labels and recompute the
+    # max-min gap in accuracy change.
     rng = np.random.default_rng(RNG_SEED)
     observed_gap = by_gold["delta_pp"].max() - by_gold["delta_pp"].min()
     n_perm = 5000
@@ -235,11 +226,8 @@ def analyze_hitom_confusion(dir_, seed):
         tmp = pd.DataFrame({"g": shuffled, "dl": (correct_r - correct_l) * 100})
         gap = tmp.groupby("g")["dl"].mean()
         perm_gaps[i] = gap.max() - gap.min()
-    # Continuity-corrected permutation p-value: (count + 1) / (n_perm + 1),
-    # avoiding the misleading "p = 0.0000" that a naive count/n_perm ratio
-    # would report when zero of a finite number of permutations exceed the
-    # observed statistic. This is the convention already reflected in the
-    # manuscript's originally reported Hi-ToM figure (p = 0.0002 = 1/5001).
+    # Permutation p-value with the +1 correction, (count + 1) / (n_perm + 1),
+    # so that p is never reported as exactly 0 (e.g. 1/5001 = 0.0002).
     perm_p = (np.sum(perm_gaps >= observed_gap) + 1) / (n_perm + 1)
 
     return {
@@ -253,20 +241,10 @@ def analyze_hitom_confusion(dir_, seed):
 
 
 def analyze_gold_position_bias(dir_, dataset, seed):
-    """Generalization of analyze_hitom_confusion to any dataset. Gold-answer-
-    letter x predicted-letter confusion matrix and a label-permutation test,
-    checking whether an observed accuracy change is concentrated on items
-    whose gold answer occupies a particular option position, which would
-    indicate a response-position bias rather than a genuine change in
-    reasoning ability.
-
-    Extends the position-bias check in analyze_hitom_confusion, which
-    originally covered only Hi-ToM, to every benchmark: if fine-tuning shifted
-    the model's response-position prior, that mechanism is not specific to
-    Hi-ToM and should in principle be visible in the same form on any dataset
-    with a multiple-choice answer space. This function runs the identical procedure
-    on all five benchmarks so that claim can be checked directly rather than
-    assumed to be Hi-ToM-specific."""
+    """analyze_hitom_confusion for any dataset: gold-answer-letter x
+    predicted-letter confusion matrix and a label-permutation test of whether
+    the accuracy change is concentrated on items whose gold answer occupies a
+    particular option position (a response-position effect)."""
     base = load_csv(dir_, "baseline", dataset)
     tuned = load_csv(dir_, f"finetuned_seed{seed}", dataset)
     if base is None or tuned is None:
@@ -295,9 +273,7 @@ def analyze_gold_position_bias(dir_, dataset, seed):
             declined = ((sub["correct_L"] == 1) & (sub["correct_R"] == 0)).sum()
             by_gold.loc[letter, "share_of_total_decline"] = declined / total_decline_items
 
-    # Same null model as analyze_hitom_confusion: shuffle gold-letter labels
-    # and see how often an equally large max-min accuracy-change gap occurs
-    # by chance alone.
+    # Same null distribution as analyze_hitom_confusion.
     rng = np.random.default_rng(RNG_SEED)
     observed_gap = by_gold["delta_pp"].max() - by_gold["delta_pp"].min()
     n_perm = 5000
@@ -310,11 +286,8 @@ def analyze_gold_position_bias(dir_, dataset, seed):
         tmp = pd.DataFrame({"g": shuffled, "dl": (correct_r - correct_l) * 100})
         gap = tmp.groupby("g")["dl"].mean()
         perm_gaps[i] = gap.max() - gap.min()
-    # Continuity-corrected permutation p-value: (count + 1) / (n_perm + 1),
-    # avoiding the misleading "p = 0.0000" that a naive count/n_perm ratio
-    # would report when zero of a finite number of permutations exceed the
-    # observed statistic. This is the convention already reflected in the
-    # manuscript's originally reported Hi-ToM figure (p = 0.0002 = 1/5001).
+    # Permutation p-value with the +1 correction, (count + 1) / (n_perm + 1),
+    # so that p is never reported as exactly 0 (e.g. 1/5001 = 0.0002).
     perm_p = (np.sum(perm_gaps >= observed_gap) + 1) / (n_perm + 1)
 
     return {
@@ -333,17 +306,11 @@ def analyze_gold_position_bias(dir_, dataset, seed):
 
 
 def analyze_residual_after_extreme_stratum(dir_, dataset, seed):
-    """Check whether a genuine effect survives after removing the single
-    gold-answer-letter stratum that contributes most to the observed
-    position gap (analyze_gold_position_bias). If fine-tuning's accuracy
-    change is entirely an artifact of a shifted response-position prior
-    concentrated on one option, the residual change on the remaining items
-    should shrink toward zero and lose significance. If a genuine,
-    directionally consistent effect remains, that is evidence the position
-    shift is not the whole story.
-
-    This is a post-hoc robustness check: it does not re-run any model, it
-    only re-slices the existing per-item predictions."""
+    """Accuracy change after removing the gold-answer-letter stratum that
+    contributes most to the position gap (analyze_gold_position_bias). If the
+    change came only from a shifted letter preference concentrated on one
+    option, the residual change on the remaining items would be near zero.
+    Post hoc; uses the existing per-item predictions only."""
     base = load_csv(dir_, "baseline", dataset)
     tuned = load_csv(dir_, f"finetuned_seed{seed}", dataset)
     if base is None or tuned is None:
@@ -390,12 +357,9 @@ STRICT_FORMAT_RE = __import__("re").compile(r"\[\[[A-E]\]\]")
 
 
 def analyze_strict_format_subset(dir_, dataset, seed):
-    """Restrict the base-vs-fine-tuned accuracy
-    comparison to items where BOTH models produced a strictly-formatted
-    [[X]] response (no fallback bare-letter extraction), and recompute the
-    delta and McNemar test on that subset. If the fine-tuned accuracy change
-    on this format-clean subset matches the full-sample change, parsing
-    artifacts are not driving the result."""
+    """Base-vs-fine-tuned comparison restricted to items where both models
+    produced a strictly formatted [[X]] answer (no fallback extraction), with
+    the change and McNemar test recomputed on that subset."""
     base = load_csv(dir_, "baseline", dataset)
     tuned = load_csv(dir_, f"finetuned_seed{seed}", dataset)
     if base is None or tuned is None:
@@ -437,20 +401,15 @@ def analyze_strict_format_subset(dir_, dataset, seed):
 
 
 def analyze_category_ci(dir_, seed):
-    """Add story-cluster bootstrap 95% CIs to
-    the ToMBench category-level table, matching the rigor already applied
-    to the ability-level tables so category-level claims are not the only
-    ones reported without an uncertainty estimate."""
+    """ToMBench category-level table with story-cluster bootstrap 95% CIs."""
     base = load_csv(dir_, "baseline", "ToMBench")
     tuned = load_csv(dir_, f"finetuned_seed{seed}", "ToMBench")
     if base is None or tuned is None:
         return None
     merged = matched_pair(base, tuned, f"ToMBench baseline vs seed{seed} (category CI)")
 
-    # Normalize category casing before grouping: the source data contains a
-    # case inconsistency (e.g., "Non-Literal Communication" vs "Non-Literal
-    # communication") that, left uncorrected, silently splits one category
-    # into two groupby buckets.
+    # The source data spells one category two ways ("Non-Literal Communication"
+    # / "Non-Literal communication"); normalize before grouping.
     merged = merged.copy()
     merged["category_norm"] = merged["category_L"].astype(str).str.title()
     rows = []
@@ -465,11 +424,9 @@ def analyze_category_ci(dir_, seed):
 
 
 def analyze_fewshot_variance(dir_, datasets, conditions=("answer_only_3shot", "synthetic_format_only_3shot", "rationale_cot_3shot"), exemplar_seeds=(0, 1, 2)):
-    """Add cross-exemplar-seed SD and a McNemar
-    test (base zero-shot vs. exemplar-seed-0 condition, as the pre-specified
-    primary comparison, matching the seed-42-as-primary convention used
-    elsewhere in this study) to the training-free few-shot baseline table,
-    which originally reported only the 3-exemplar-seed mean."""
+    """Training-free few-shot table: SD across the three exemplar seeds and a
+    McNemar test of base zero-shot vs exemplar seed 0 (the primary
+    comparison, as seed 42 is for fine-tuning)."""
     rows = []
     for ds in datasets:
         base = load_csv(dir_, "baseline", ds)

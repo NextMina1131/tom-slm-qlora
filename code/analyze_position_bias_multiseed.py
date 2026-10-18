@@ -1,13 +1,11 @@
 """
 Multi-seed extension of the gold-answer-position bias analysis.
 
-analyze_tier4_v2.py's analyze_gold_position_bias and
-analyze_residual_after_extreme_stratum only ran on the primary seed (42).
-Reviewers 3 and 4 asked whether the observed position-gap and residual
-effects are specific to that one seed or hold across all five training
-seeds. This script re-runs both checks for every (dataset, seed) pair using
-the already-released per-item prediction CSVs for seeds 43-46, and adds a
-per-dataset seed-consistency summary.
+analyze_tier4_v2.py runs analyze_gold_position_bias and
+analyze_residual_after_extreme_stratum on the primary seed (42) only. This
+script runs both checks for every (dataset, seed) pair, using the released
+per-item prediction CSVs of seeds 42-46, and adds a per-dataset summary of
+how consistent the results are across seeds.
 
 Requires no GPU and no new fine-tuning or inference: it only re-slices
 per-item predictions that are already in `results/`.
@@ -28,7 +26,7 @@ from analyze_tier4_v2 import (
 
 
 def run_multiseed_position_bias(dir_, datasets, seeds):
-    """Table 18, extended from seed 42 only to all five seeds."""
+    """analyze_gold_position_bias for every seed."""
     rows = []
     for ds in datasets:
         for seed in seeds:
@@ -53,7 +51,7 @@ def run_multiseed_position_bias(dir_, datasets, seeds):
 
 
 def run_multiseed_residual(dir_, datasets, seeds):
-    """Table 19, extended from seed 42 only to all five seeds."""
+    """analyze_residual_after_extreme_stratum for every seed."""
     rows = []
     for ds in datasets:
         for seed in seeds:

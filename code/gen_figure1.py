@@ -1,25 +1,19 @@
-"""Regenerate Figure 1 (summary of performance changes, seed 42, corrected pipeline).
+"""Regenerate Figure 1 (summary of performance changes, seed 42).
 
-Rewritten from scratch: the original gen_figure1.py is not present in this
-repository. Source data is copied by hand from the corresponding LaTeX tables
-in tom-slm-qlora_MDPI_source_0909/main.tex (Table tab:overall + Table6 CIs +
-Table tab:mcnemar significance for Panel A; Table tab7 for Panel B; Table tab8
-for Panel C) so that regenerating this figure never requires re-running
-inference. Panel B categories are taken directly from Table 7's already
-deduplicated 6-category breakdown, which avoids the capitalization-duplicate
-bug ("Non-Literal Communication" vs "Non-Literal communication") present in
-the previous Figure1.png.
+The values are taken from the manuscript's tables (overall results with their
+confidence intervals and McNemar significance for Panel A, the category-level
+table for Panel B, the ability-level table for Panel C), so no inference is
+needed. Panel B uses the six categories after merging the two spellings of
+"Non-Literal Communication" in the source data.
 
-Output: 300 dpi, vertical stacked layout (matches the 0828 layout, which had
-higher resolution and more legible Panel C labels than the 0907 horizontal
-layout).
+Output: Figure1.png in the current directory, 300 dpi, panels stacked vertically.
 """
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 
-OUT_PATH = "/mnt/e/파인튜닝/ToMBench-main/tom-slm-qlora_MDPI_source_0909/Figure1.png"
+OUT_PATH = "Figure1.png"
 
 SIG_COLOR = "#3a6ea5"
 NOTSIG_COLOR = "#b0b0b0"

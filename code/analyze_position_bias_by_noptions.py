@@ -1,5 +1,5 @@
 """
-Gold-answer-position permutation test within option count (Reviewer 4, Comment 4).
+Gold-answer-position permutation test within option count.
 
 ToMBench mixes two-option and four-option items, and OpenToM mixes two-option
 location items with three-option attitude items. A permutation test that

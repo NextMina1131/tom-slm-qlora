@@ -29,7 +29,15 @@
   `code/analyze_ability_and_split.py` (full ability-level table and task-level split counts,
   which the revised paper no longer prints).
 
+- `notebooks/revision/`: the eight Colab notebooks that produced the revision's new results
+  (replication adapters for item-level seeds 43-46, reproducibility of the evaluation, story-disjoint
+  seeds 43-46, cyclic permutation of the fine-tuned models and of the 3-shot conditions), with a
+  README that maps each notebook to its files in `results/` and to the section of the paper.
+
 ### Changed
+- Code comments and docstrings shortened; references to the review process and a local output path
+  in `code/gen_figure1.py` removed (it now writes `Figure1.png` to the current directory). Markdown
+  cells of the main notebook updated in the same way. No computation changed.
 - `results/groupsplit_finetuned_ToMBench.csv` now holds the seed-42 story-disjoint run whose
   adapter was retained (2026-09-03), the same run as the four external-benchmark
   `groupsplit_finetuned_*.csv` files and the one used in the paper's five-seed story-disjoint

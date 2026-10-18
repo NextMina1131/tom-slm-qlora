@@ -19,7 +19,7 @@ in-domain gains transfer to four external benchmarks (ToMi, OpenToM, SocialIQa, 
 
 Change from the zero-shot base model in percentage points, five training seeds, mean ± SD with
 the between-seed 95% t-interval. "Lenient" is accuracy averaged over cyclic permutations of the
-answer options, so that each item's gold answer appears once in every position (Section 4.8 of
+answer options, so that each item's gold answer appears once in every position (Section 4.7 of
 the paper). The paper states a direction only when the interval excludes zero for lenient,
 strict and consistency measures with the same sign.
 
@@ -43,15 +43,18 @@ code/           fine-tuning / inference / evaluation / analysis scripts, includi
                 gen_figure1.py (regenerates the manuscript's Figure 1 from results/ tables)
 code/legacy/    original Chinese-language ToMBench runner scripts (run_api.py, run_huggingface.py,
                 prompts.py, etc.); not used in the current pipeline — kept for reference only
-notebooks/      tombench_slm_qlora_complete_pipeline.ipynb — the single, end-to-end notebook
-                covering the full pipeline, including the story-level group-split control,
-                fine-tuned few-shot evaluation, and fp16 control experiment; run this in Google Colab.
+notebooks/      tombench_slm_qlora_complete_pipeline.ipynb — the end-to-end notebook covering the
+                full pipeline, including the story-level group-split control, fine-tuned few-shot
+                evaluation, and fp16 control experiment; run this in Google Colab.
+notebooks/revision/
+                the revision's experiments (replication adapters, reproducibility of the
+                evaluation, story-disjoint seeds 43-46, cyclic permutation); see its README.md
 splits/         ability-stratified ToMBench train/val/test index files (item_id only, seed=42)
 results/        per-item predictions and analysis outputs — see results/README.md:
                 original-order predictions (item-level seeds 42-46, story-disjoint seeds 42-46,
                 three training-free few-shot conditions, the 16-bit control),
                 cyclic_itemlevel/, cyclic_storydisjoint/, fewshot_cyclic/ (cyclic-permutation
-                re-evaluation, Section 4.8), reproducibility/ (Section 4.10),
+                re-evaluation, Section 4.7), reproducibility/ (Section 4.9),
                 storydisjoint_trainlogs/ and seed_epoch_recovery/ (training logs)
 docs/           ATOMS ability mapping
 ```
