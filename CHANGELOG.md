@@ -19,6 +19,15 @@
   with the evaluation pipeline's rule matched the stored `pred` on all 87,988 rows.
 - `code/analyze_tier4_v2.py`: the strict-format-subset analysis reads `strict_format` when the raw
   text is absent; its output is identical before and after the change.
+- Per-item results of the fine-tuned seed-42 model under the three 3-shot conditions
+  (`results/<condition>_tuned_ex<K>_<dataset>.csv`, 45 files, and
+  `results/fewshot_tuned_conditions_summary_v2.csv`). The paper has reported these results since
+  the original submission, but the files had not been added to the repository. They carry the
+  same scoring fields as the other files and no raw generations; before the `raw` column was
+  removed, the re-extracted letter matched the stored `pred` on all 43,578 rows.
+  `code/analyze_tier4_v2.py` now computes their table (`results/ANALYSIS_fewshot_tuned_variance_v2.csv`)
+  and checks their item identity against the fine-tuned zero-shot files, which adds 45 rows to
+  `results/VERIFICATION_LOG_v2.csv` (132 checks, all passed). No other output changed.
 - Results of the revision's new experiments, with the same scoring fields and without raw
   generations: cyclic-permutation re-evaluation of the item-level and story-disjoint models
   (`results/cyclic_itemlevel/`, `results/cyclic_storydisjoint/`) and of the 3-shot conditions
@@ -47,6 +56,10 @@
   `groupsplit_finetuned_*.csv` files and the one used in the paper's five-seed story-disjoint
   results. The earlier run (2026-08-18) that the file held before is kept as
   `results/groupsplit_finetuned_run20260818_ToMBench.csv`.
+- `code/gen_figure1.py`: Panel C marked "Involuntary lies" as having a bootstrap interval that
+  excludes zero; its interval is [0.0, +41.7] (`results/ANALYSIS_ability_level_v2.csv`), so the
+  marker was removed. No other value in the figure changed.
+- README: the introduction names both data splits.
 - README: key results restated with the position-controlled (cyclic-permutation) figures of the
   revised paper; adapter layout on the Hugging Face Hub; batch split corrected to the L4 runs
   (per-device 4 × accumulation 2); `results/README.md` labels `training_log.csv` (now `training_log_run20260525.csv`) and the seed-42

@@ -423,23 +423,26 @@ def analyze_category_ci(dir_, seed):
     return pd.DataFrame(rows).sort_values("delta_pp", ascending=False)
 
 
-def analyze_fewshot_variance(dir_, datasets, conditions=("answer_only_3shot", "synthetic_format_only_3shot", "rationale_cot_3shot"), exemplar_seeds=(0, 1, 2)):
+def analyze_fewshot_variance(dir_, datasets, conditions=("answer_only_3shot", "synthetic_format_only_3shot", "rationale_cot_3shot"), exemplar_seeds=(0, 1, 2),
+                             zero_shot_tag="baseline", cond_suffix=""):
     """Training-free few-shot table: SD across the three exemplar seeds and a
-    McNemar test of base zero-shot vs exemplar seed 0 (the primary
-    comparison, as seed 42 is for fine-tuning)."""
+    McNemar test of zero-shot vs exemplar seed 0 (the primary comparison, as
+    seed 42 is for fine-tuning). With zero_shot_tag="finetuned_seed42" and
+    cond_suffix="_tuned", the same table for the fine-tuned model."""
     rows = []
     for ds in datasets:
-        base = load_csv(dir_, "baseline", ds)
+        base = load_csv(dir_, zero_shot_tag, ds)
         if base is None:
             continue
         for cond in conditions:
+            cond = cond + cond_suffix
             accs = []
             primary = None
             for ex in exemplar_seeds:
                 cdf = load_csv(dir_, f"{cond}_ex{ex}", ds)
                 if cdf is None:
                     continue
-                merged = matched_pair(base, cdf, f"{ds} {cond} ex{ex}")
+                merged = matched_pair(base, cdf, f"{ds} {zero_shot_tag} vs {cond} ex{ex}" if cond_suffix else f"{ds} {cond} ex{ex}")
                 accs.append(merged["correct_R"].mean() * 100)
                 if ex == exemplar_seeds[0]:
                     primary = merged
@@ -604,6 +607,16 @@ def main():
         print(fs_df.to_string(index=False))
         fs_df.to_csv(os.path.join(args.dir, "ANALYSIS_fewshot_variance_v2.csv"), index=False)
         print("Wrote ANALYSIS_fewshot_variance_v2.csv")
+
+    print("\n" + "=" * 70)
+    print(f"Fine-tuned model (seed {args.seeds[0]}) + few-shot: cross-exemplar-seed SD + McNemar")
+    print("=" * 70)
+    fst_df = analyze_fewshot_variance(args.dir, args.datasets,
+                                      zero_shot_tag=f"finetuned_seed{args.seeds[0]}", cond_suffix="_tuned")
+    if len(fst_df) > 0:
+        print(fst_df.to_string(index=False))
+        fst_df.to_csv(os.path.join(args.dir, "ANALYSIS_fewshot_tuned_variance_v2.csv"), index=False)
+        print("Wrote ANALYSIS_fewshot_tuned_variance_v2.csv")
 
     print("\n" + "=" * 70)
     print("Summary")

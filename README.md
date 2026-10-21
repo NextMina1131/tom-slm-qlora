@@ -7,8 +7,9 @@ statistical analysis outputs for the paper *"QLoRA Fine-Tuning for Theory-of-Min
 in a 3B-Parameter Small Language Model: A ToMBench-Based Cross-Benchmark Generalization Study."*
 
 We fine-tune the 4-bit pre-quantized **Qwen2.5-3B-Instruct** model (Unsloth) with a **QLoRA**
-adapter on an ability-stratified ToMBench train/validation/test split, and analyze how the
-in-domain gains transfer to four external benchmarks (ToMi, OpenToM, SocialIQa, Hi-ToM).
+adapter on two ToMBench train/validation/test splits, a story-disjoint split (the paper's principal
+protocol) and an ability-stratified item-level split, and analyze how the in-domain gains transfer
+to four external benchmarks (ToMi, OpenToM, SocialIQa, Hi-ToM).
 
 **Authors:** Ji-Hyeong Hong¹, Sang-Hyun Yoo²,\*
 ¹ Department of Cyber Hacking and Security, Seoul HOSEO Technical College, Seoul, Republic of Korea
@@ -49,10 +50,13 @@ notebooks/      tombench_slm_qlora_complete_pipeline.ipynb — the end-to-end no
 notebooks/revision/
                 the revision's experiments (replication adapters, reproducibility of the
                 evaluation, story-disjoint seeds 43-46, cyclic permutation); see its README.md
-splits/         ability-stratified ToMBench train/val/test index files (item_id only, seed=42)
+splits/         ability-stratified ToMBench train/val/test index files (item_id only, seed=42);
+                the story-disjoint split is rebuilt by the notebook (GroupShuffleSplit,
+                random_state=42), and its test items are those in groupsplit_*_ToMBench.csv
 results/        per-item predictions and analysis outputs — see results/README.md:
                 original-order predictions (item-level seeds 42-46, story-disjoint seeds 42-46,
-                three training-free few-shot conditions, the 16-bit control),
+                three training-free few-shot conditions for the base and the fine-tuned seed-42
+                model, the 16-bit control),
                 cyclic_itemlevel/, cyclic_storydisjoint/, fewshot_cyclic/ (cyclic-permutation
                 re-evaluation, Section 4.7), reproducibility/ (Section 4.9),
                 storydisjoint_trainlogs/ and seed_epoch_recovery/ (training logs)

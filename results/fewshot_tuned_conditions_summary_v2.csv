@@ -1,0 +1,16 @@
+condition,dataset,n_exemplar_seeds,acc_mean,acc_std
+rationale_cot_3shot_tuned,ToMBench,3,73.11955661124307,0.7158804956462923
+rationale_cot_3shot_tuned,OpenToM,3,59.333333333333336,0.9609023536933046
+rationale_cot_3shot_tuned,ToMi,3,81.49999999999999,1.7776388834631134
+rationale_cot_3shot_tuned,SocialIQa,3,61.833333333333336,0.9504384952922162
+rationale_cot_3shot_tuned,HiToM,3,62.199999999999996,1.3527749258468695
+answer_only_3shot_tuned,ToMBench,3,72.80285035629454,0.5938242280285024
+answer_only_3shot_tuned,OpenToM,3,54.70000000000001,8.487048957087499
+answer_only_3shot_tuned,ToMi,3,82.56666666666666,1.205542754668344
+answer_only_3shot_tuned,SocialIQa,3,61.86666666666667,0.3785938897200155
+answer_only_3shot_tuned,HiToM,3,61.5,0.5196152422706624
+synthetic_format_only_3shot_tuned,ToMBench,3,74.34679334916865,0.6612546749204332
+synthetic_format_only_3shot_tuned,OpenToM,3,59.76666666666666,1.4571661996262948
+synthetic_format_only_3shot_tuned,ToMi,3,82.76666666666667,0.3511884584284263
+synthetic_format_only_3shot_tuned,SocialIQa,3,64.2,0.7810249675906702
+synthetic_format_only_3shot_tuned,HiToM,3,62.26666666666667,0.7234178138070255

@@ -49,7 +49,7 @@ panelC_labels = [
     "Prediction of actions (N=4)",
 ]
 panelC_delta = [13.69, 31.67, 30.00, 26.67, 23.33, 16.67, 25.00, 16.67, 88.89, 50.00, 50.00]
-panelC_sig = [True, True, True, True, True, True, False, True, True, True, False]
+panelC_sig = [True, True, True, True, True, True, False, False, True, True, False]
 
 fig, axes = plt.subplots(3, 1, figsize=(7.5, 13.5), dpi=300,
                           gridspec_kw={"height_ratios": [1.0, 0.85, 1.35]})

@@ -61,9 +61,15 @@ notebook, which regenerates them deterministically from the same hashing scheme.
 - `<condition>_ex<K>_<dataset>.csv` — training-free few-shot baselines (Section 4.6):
   `answer_only_3shot`, `synthetic_format_only_3shot`, `rationale_cot_3shot`, each with three
   independent exemplar draws (`ex0`-`ex2`).
+- `<condition>_tuned_ex<K>_<dataset>.csv` — the same three conditions and exemplar draws applied
+  to the fine-tuned seed-42 model (Section 4.6, fine-tuned model plus 3-shot conditions).
+  `fewshot_tuned_conditions_summary_v2.csv` is their aggregated accuracy summary.
 - `fewshot_conditions_summary_v2.csv`, `multi_seed_summary_v2.csv`,
   `multi_seed_results_v2.json` — aggregated accuracy summaries used to build the manuscript
   tables.
+- `ANALYSIS_fewshot_variance_v2.csv`, `ANALYSIS_fewshot_tuned_variance_v2.csv` — output of
+  `code/analyze_tier4_v2.py`: mean accuracy and cross-exemplar-draw SD of each 3-shot condition,
+  and the McNemar test of zero-shot versus the first draw, for the base and the fine-tuned model.
 - `inference_perf_v2.json` — measured latency/throughput/peak-VRAM figures (Section 5.4).
 - `ANALYSIS_primary_results_v2.csv`, `ANALYSIS_hitom_*_v2.csv` — output of
   `code/analyze_tier4_v2.py`: McNemar tests, story-cluster bootstrap CIs, Holm-corrected
