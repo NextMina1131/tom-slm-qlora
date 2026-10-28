@@ -1,6 +1,22 @@
 # Changelog
 
-## [Unreleased] — revision for applsci-4589116 (October 2026)
+## [Unreleased] — second revision for applsci-4589116 (October 2026)
+
+### Added
+- `code/analyze_tomi_distractors.py`, `results/tomi_item_story_mention.csv`,
+  `results/ANALYSIS_tomi_story_mention.csv`. ToMi distractors are sampled from the pool of all
+  ToMi answers, so in 720 of the 1,000 evaluated items the gold answer is the only option that
+  occurs in the story. The script flags these items and splits the existing cyclic-permutation
+  results of the fine-tuned models and the 3-shot conditions by the flag. No model was re-run,
+  and no existing file changed.
+
+### Changed
+- `code/gen_figure1.py`: Figure 1 is drawn at its printed width (7.0 in) with Panels A and B
+  side by side above Panel C, and saved at 1000 dpi. The plotted values are unchanged.
+- `notebooks/tombench_slm_qlora_complete_pipeline.ipynb`: table numbers in five `print`
+  messages now match the revised paper (Tables 6, 7 and 13). No code or output changed.
+
+## Revision for applsci-4589116 (October 2026)
 
 ### Removed
 - **`raw` column (model generations) from all per-item result CSVs in `results/`.** Chain-of-thought

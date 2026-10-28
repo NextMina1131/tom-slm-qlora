@@ -80,6 +80,10 @@ notebook, which regenerates them deterministically from the same hashing scheme.
 - `ANALYSIS_ability_level_v2.csv`, `ANALYSIS_task_split_counts_v2.csv` — output of
   `code/analyze_ability_and_split.py`: every ToMBench ability (seed 42, paired item-level
   bootstrap CI) and the train/validation/test count of every ToMBench task.
+- `tomi_item_story_mention.csv`, `ANALYSIS_tomi_story_mention.csv` — output of
+  `code/analyze_tomi_distractors.py`: for each ToMi item, whether the gold answer is the only
+  option mentioned in the story (720 of 1,000 items), and the cyclic-permutation changes of the
+  fine-tuned models and the 3-shot conditions in each subset (Section 4.6).
 - `VERIFICATION_LOG_v2.csv`, `VERIFICATION_LOG_cyclic_v2.csv` — every item-identity check run
   by `analyze_tier4_v2.py` and `analyze_cyclic.py`.
 

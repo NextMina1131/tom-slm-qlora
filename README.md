@@ -36,6 +36,9 @@ Training-free 3-shot prompting under the same permutation raises ToMi lenient ac
 +7.23 points with content-free format exemplars and by +12.96 with rationale exemplars. See the
 paper for the strict and consistency measures and for the interpretation.
 `python code/analyze_cyclic.py --dir results` reproduces these tables from the released files.
+`python code/analyze_tomi_distractors.py <manifest_ToMi.json> results results` splits the ToMi
+results by whether the gold answer is the only option mentioned in the story; it needs a local
+copy of the ToMi evaluation manifest, which is not redistributed.
 
 ## Repository layout
 
